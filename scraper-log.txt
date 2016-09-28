@@ -7491,4 +7491,4 @@ Presumably no other duplicate files found for SN2001it
 Presumably no other duplicate files found for SN1995H
 Presumably no other duplicate files found for SN2003iq
 Presumably no other duplicate files found for SN2003cr
-Runtime: 51.993065353234606 minutesRuntime: 1.184529197216034 minutes
+Runtime: 51.993065353234606 minutesRuntime: 1.184529197216034 minutesRuntime: 1.3241578420003255 minutesRuntime: 1.0329488595326741 minutesRuntime: 2.4444733540217083 minutesRuntime: 4.434922722975413 minutesRuntime: 5.282693894704183 minutes

@@ -270,3 +270,15 @@ SN2015bh is a SN impostor
 CSS160904-224104+050529 is a CV
 OGLE16cza is a Varstar
 ASASSN-16kd is a Nova
+Gaia16agr is a Varstar
+ATLAS16csn is a AGN
+AT2016gjr is a Varstar
+AT2016gjq is a Varstar
+AT2016ggj is a Varstar
+OGLE16dmu is a Other
+AT2016gle is a Other
+AT2016gld is a Other
+AT2016gjy is a Varstar
+AT2016gjs is a Other
+AT2016gjn is a Varstar
+AT2016gip is a Other

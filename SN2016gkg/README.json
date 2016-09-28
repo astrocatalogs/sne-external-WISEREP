@@ -1,0 +1,16 @@
+{
+    "tns_2016gkg_2457653.386345488_SALT_RSS.dat": {
+        "Type": "SN II",
+        "Redshift": "0.0049",
+        "Obs. Date": "2016-09-21",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "SALT - RSS",
+        "Observer": "V. van Wyk, P. Vaisanen",
+        "Reducer": "S. W. Jha",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-22",
+        "Modified By": "upload-TNS"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "tns_2016gfy_2016-09-15.25_NOT_ALFOSC_NUTS.dat": {
+        "Type": "SN II",
+        "Redshift": "0.008",
+        "Obs. Date": "2016-09-15",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "NOT - ALFOSC",
+        "Observer": "H. Kuncarayakti",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-15",
+        "Modified By": "upload-TNS"
+    }
+}
