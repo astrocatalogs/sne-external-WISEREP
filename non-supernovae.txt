@@ -282,3 +282,7 @@ AT2016gjy is a Varstar
 AT2016gjs is a Other
 AT2016gjn is a Varstar
 AT2016gip is a Other
+SMT16zeo is a Galaxy
+AT2016gsb is a Galaxy
+AT2016gsi is a Varstar
+AT2016gkq is a AGN

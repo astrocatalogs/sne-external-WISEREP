@@ -1,0 +1,16 @@
+{
+    "tns_2016grz_2016-10-01.90_LJT_YFOSC_TNTS.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.087",
+        "Obs. Date": "2016-10-01",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LJT - YFOSC",
+        "Observer": "Yuxin Xin",
+        "Reducer": "Jujia Zhang",
+        "Reduction Status": "final",
+        "Last Modified": "2016-10-02",
+        "Modified By": "upload-TNS"
+    }
+}

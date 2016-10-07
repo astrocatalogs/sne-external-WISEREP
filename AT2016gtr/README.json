@@ -1,0 +1,16 @@
+{
+    "tAT2016gtr_20161002_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.014",
+        "Obs. Date": "2016-10-03",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "C. Frohmaier",
+        "Reducer": "S. Prajs",
+        "Reduction Status": "rapid",
+        "Last Modified": "2016-10-04",
+        "Modified By": "ilanm-UploadSet"
+    }
+}

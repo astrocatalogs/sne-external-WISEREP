@@ -1,0 +1,16 @@
+{
+    "tns_2016glg_2016-09-24_04-08-43_P60_SED-Machine_iPTF.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.1",
+        "Obs. Date": "2016-09-24",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SED-Machine",
+        "Observer": "SEDM robot",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-29",
+        "Modified By": "upload-TNS"
+    }
+}

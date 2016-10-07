@@ -1,0 +1,16 @@
+{
+    "tns_2016gmg_2016-09-29.55_LJT_YFOSC_PTSS.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.049",
+        "Obs. Date": "2016-09-29",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LJT - YFOSC",
+        "Observer": "Jujia Zhang",
+        "Reducer": "Jujia Zhang",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-30",
+        "Modified By": "upload-TNS"
+    }
+}
