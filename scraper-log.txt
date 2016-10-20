@@ -7500,4 +7500,4 @@ Type not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime:
 Runtime: 2.873241933186849 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 4: iPTF16geu has no spectra to collect
 Runtime: 2.3695129275321962 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 4: iPTF16geu has no spectra to collect
 Runtime: 3.282162344455719 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 4: iPTF16geu has no spectra to collect
-Runtime: 2.571419131755829 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 2.754642085234324 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 2.2295050859451293 minutes
+Runtime: 2.571419131755829 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 2.754642085234324 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 2.2295050859451293 minutesRuntime: 22.20653022925059 minutesRuntime: 22.249756050109863 minutes
