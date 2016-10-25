@@ -1,0 +1,16 @@
+{
+    "tAT2016hfe_20161020_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.035",
+        "Obs. Date": "2016-10-21",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "G. Dimitriadis, M. Pursiainen",
+        "Reducer": "M. Smith",
+        "Reduction Status": "rapid",
+        "Last Modified": "2016-10-21",
+        "Modified By": "ilanm-UploadSet"
+    }
+}
