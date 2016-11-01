@@ -1,0 +1,16 @@
+{
+    "tns_2016hgf_2457685.2840_BAO-2.16m_Cassegrain_PTSS.txt": {
+        "Type": "SN IIn",
+        "Redshift": "0.017179",
+        "Obs. Date": "2016-10-23",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Cassegrain",
+        "Observer": "Junjun Jia",
+        "Reducer": "Liming Rui",
+        "Reduction Status": "final",
+        "Last Modified": "2016-10-25",
+        "Modified By": "upload-TNS"
+    }
+}
