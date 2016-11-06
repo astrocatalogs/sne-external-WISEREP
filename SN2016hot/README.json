@@ -1,0 +1,16 @@
+{
+    "tns_2016hot_2016-10-27.4_MDM-2.4_OSMOS_ASAS-SN.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.074",
+        "Obs. Date": "2016-10-27",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "MDM-2.4 - OSMOS",
+        "Observer": "J. Klusmeyer",
+        "Reducer": "Subhash Bose",
+        "Reduction Status": "final",
+        "Last Modified": "2016-11-01",
+        "Modified By": "upload-TNS"
+    }
+}

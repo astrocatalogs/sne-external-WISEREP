@@ -286,3 +286,6 @@ SMT16zeo is a Galaxy
 AT2016gsb is a Galaxy
 AT2016gsi is a Varstar
 AT2016gkq is a AGN
+AT2016hrc is a Varstar
+AT2016hvm is a Varstar
+ATLAS16dsc is a Varstar

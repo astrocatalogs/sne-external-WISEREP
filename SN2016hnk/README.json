@@ -1,0 +1,30 @@
+{
+    "tns_2016hnk_2016-10-30_06-03-08_SOAR_Goodman.flm": {
+        "Type": "SN Ia",
+        "Redshift": "0.016",
+        "Obs. Date": "2016-10-30",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "SOAR - Goodman",
+        "Observer": "Y.-C. Pan, A. S. Duarte",
+        "Reducer": "Y.-C. Pan",
+        "Reduction Status": "final",
+        "Last Modified": "2016-11-03",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2016hnk_2457692.50128183_SALT_RSS.flm": {
+        "Type": "SN Ia",
+        "Redshift": "0.016",
+        "Obs. Date": "2016-10-31",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "SALT - RSS",
+        "Observer": "A. Kniazev",
+        "Reducer": "S. W. Jha",
+        "Reduction Status": "final",
+        "Last Modified": "2016-11-03",
+        "Modified By": "upload-TNS"
+    }
+}
