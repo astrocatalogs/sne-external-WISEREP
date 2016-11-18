@@ -1,0 +1,16 @@
+{
+    "tns_2016hsx_2016-11-04_03-12-14_LCO-duPont_WFCCD_ASAS-SN.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.0436",
+        "Obs. Date": "2016-11-04",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LCO-duPont - WFCCD",
+        "Observer": "M.Seibert",
+        "Reducer": "S. Bose, J. L. Prieto",
+        "Reduction Status": "final",
+        "Last Modified": "2016-11-08",
+        "Modified By": "upload-TNS"
+    }
+}

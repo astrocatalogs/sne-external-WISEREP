@@ -289,3 +289,5 @@ AT2016gkq is a AGN
 AT2016hrc is a Varstar
 AT2016hvm is a Varstar
 ATLAS16dsc is a Varstar
+OGLE16fcd is a Galaxy
+AT2016hvt is a CV

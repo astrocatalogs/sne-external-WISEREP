@@ -7509,4 +7509,13 @@ Runtime: 2.7587841868400576 minutesType not specified by WISeREP.Check the Open 
 Presumably no other duplicate files found for SN2016hnk
 Runtime: 3.1506799896558126 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2016hnk -- tAT2016hnk_20161101_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2016hnk
-Runtime: 4.4992230574289955 minutes
+Runtime: 4.4992230574289955 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2016hnk -- tAT2016hnk_20161101_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2016hnk
+Runtime: 3.733039637406667 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2016hnk -- tAT2016hnk_20161101_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2016hnk
+Runtime: 4.9560737689336145 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 3.1025744557380674 minutesRuntime: 2.353774070739746 minutesPresumably no other duplicate files found for SN2016iae
+Runtime: 1.9456369797388713 minutesPresumably no other duplicate files found for SN2016iae
+Runtime: 2.480751089255015 minutesPresumably no other duplicate files found for SN2016iae
+Runtime: 1.9437937339146931 minutesPresumably no other duplicate files found for SN2016iae
+Runtime: 2.0448201656341554 minutesPresumably no other duplicate files found for SN2016iae
+Runtime: 2.007084290186564 minutes
