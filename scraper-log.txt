@@ -7518,4 +7518,6 @@ Runtime: 1.9456369797388713 minutesPresumably no other duplicate files found for
 Runtime: 2.480751089255015 minutesPresumably no other duplicate files found for SN2016iae
 Runtime: 1.9437937339146931 minutesPresumably no other duplicate files found for SN2016iae
 Runtime: 2.0448201656341554 minutesPresumably no other duplicate files found for SN2016iae
-Runtime: 2.007084290186564 minutes
+Runtime: 2.007084290186564 minutesPresumably no other duplicate files found for SN2016iae
+Runtime: 2.3548543810844422 minutesPresumably no other duplicate files found for SN2016iae
+Runtime: 1.9988653580347697 minutes
