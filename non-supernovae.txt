@@ -291,3 +291,7 @@ AT2016hvm is a Varstar
 ATLAS16dsc is a Varstar
 OGLE16fcd is a Galaxy
 AT2016hvt is a CV
+AT2016htd is a Other
+OGLE16fht is a Other
+OGLE16flb is a Other
+OGLE16fku is a AGN

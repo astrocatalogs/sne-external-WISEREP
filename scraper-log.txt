@@ -7520,4 +7520,7 @@ Runtime: 1.9437937339146931 minutesPresumably no other duplicate files found for
 Runtime: 2.0448201656341554 minutesPresumably no other duplicate files found for SN2016iae
 Runtime: 2.007084290186564 minutesPresumably no other duplicate files found for SN2016iae
 Runtime: 2.3548543810844422 minutesPresumably no other duplicate files found for SN2016iae
-Runtime: 1.9988653580347697 minutes
+Runtime: 1.9988653580347697 minutesRuntime: 2.4972552061080933 minutesNot collecting spectra of OGLE16fml at this time
+Removing duplicate spectrum for SN2016ifk -- tAT2016ifk_20161118_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016ifk
+Runtime: 2.544487456480662 minutes
