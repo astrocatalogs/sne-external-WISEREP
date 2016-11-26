@@ -7526,4 +7526,16 @@ Presumably no other duplicate files found for SN2016ifk
 Runtime: 2.544487456480662 minutesNot collecting spectra of OGLE16fml at this time
 Removing duplicate spectrum for SN2016ifk -- tAT2016ifk_20161118_Gr13_Free_slit1.5_1_f.asci
 Presumably no other duplicate files found for SN2016ifk
-Runtime: 2.0285842577616373 minutes
+Runtime: 2.0285842577616373 minutesNot collecting spectra of OGLE16fml at this time
+Removing duplicate spectrum for SN2016ifk -- tAT2016ifk_20161118_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016ifk
+Runtime: 2.2583986282348634 minutesNot collecting spectra of OGLE16fml at this time
+Removing duplicate spectrum for SN2016ifk -- tAT2016ifk_20161118_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016ifk
+Runtime: 2.4494845032691956 minutesNot collecting spectra of OGLE16fml at this time
+Removing duplicate spectrum for SN2016ifk -- tAT2016ifk_20161118_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016ifk
+Runtime: 2.144294885794322 minutesNot collecting spectra of OGLE16fml at this time
+Removing duplicate spectrum for SN2016ifk -- tAT2016ifk_20161118_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2016ifk
+Runtime: 2.1393550912539165 minutes
