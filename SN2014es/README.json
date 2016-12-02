@@ -1,0 +1,16 @@
+{
+    "tns_2014es_2014-11-21.8_BAO-2.16m_Phot-spec_TNTS.txt": {
+        "Type": "SN IIn",
+        "Redshift": "0.0196",
+        "Obs. Date": "2014-11-21",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Phot-spec",
+        "Observer": "Wenxiong Li",
+        "Reducer": "Wenxiong Li",
+        "Reduction Status": "final",
+        "Last Modified": "2016-11-30",
+        "Modified By": "upload-TNS"
+    }
+}

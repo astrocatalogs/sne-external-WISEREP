@@ -1,0 +1,16 @@
+{
+    "tns_2016ipf_2016-11-30.10_Ekar_AFOSC_Padova-Asiago.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.021",
+        "Obs. Date": "2016-11-30",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Ochner",
+        "Reducer": "Pastorello",
+        "Reduction Status": "final",
+        "Last Modified": "2016-11-30",
+        "Modified By": "upload-TNS"
+    }
+}
