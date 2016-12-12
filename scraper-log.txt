@@ -7540,4 +7540,5 @@ Removing duplicate spectrum for SN2016ifk -- tAT2016ifk_20161118_Gr13_Free_slit1
 Presumably no other duplicate files found for SN2016ifk
 Runtime: 2.1393550912539165 minutesNot collecting spectra of OGLE16fml at this time
 Runtime: 1.969210147857666 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 2.1957528750101725 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 2.1148468534151714 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 2.181543739636739 minutesRuntime: 2.2421343445777895 minutesRuntime: 2.549221571286519 minutesRuntime: 2.454356654485067 minutesRuntime: 2.11413166920344 minutesRuntime: 2.0157071948051453 minutesRuntime: 2.822408159573873 minutesRuntime: 1.8394944389661154 minutesRuntime: 1.9923481822013855 minutesRuntime: 2.1968663613001507 minutesRemoving duplicate spectrum for SN2016itb -- tns_2016itb_2016-12-08_06-43-58_Plaskett_Telescope_Plaskett_DAO_OTS_0.txt
-Runtime: 2.056315330664317 minutes
+Runtime: 2.056315330664317 minutesRemoving duplicate spectrum for SN2016itb -- tns_2016itb_2016-12-08_06-43-58_Plaskett_Telescope_Plaskett_DAO_OTS_0.txt
+Runtime: 2.4346502780914308 minutes
