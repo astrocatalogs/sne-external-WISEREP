@@ -1,0 +1,16 @@
+{
+    "tns_2016ito_2016-12-12_07-23-21_SOAR_Goodman.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.02",
+        "Obs. Date": "2016-12-12",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "SOAR - Goodman",
+        "Observer": "L. Shishkovsky, J. Strader",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2016-12-12",
+        "Modified By": "upload-TNS"
+    }
+}
