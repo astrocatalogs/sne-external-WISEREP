@@ -7543,4 +7543,4 @@ Runtime: 1.969210147857666 minutesType not specified by WISeREP.Check the Open S
 Runtime: 2.056315330664317 minutesRemoving duplicate spectrum for SN2016itb -- tns_2016itb_2016-12-08_06-43-58_Plaskett_Telescope_Plaskett_DAO_OTS_0.txt
 Runtime: 2.4346502780914308 minutesRemoving duplicate spectrum for SN2016itb -- tns_2016itb_2016-12-08_06-43-58_Plaskett_Telescope_Plaskett_DAO_OTS.txt
 Runtime: 2.249973940849304 minutesRemoving duplicate spectrum for SN2016itb -- tns_2016itb_2016-12-08_06-43-58_Plaskett_Telescope_Plaskett_DAO_OTS_0.txt
-Runtime: 2.3742183566093447 minutesRuntime: 2.3665203134218853 minutes
+Runtime: 2.3742183566093447 minutesRuntime: 2.3665203134218853 minutesRuntime: 2.0969910184542337 minutesRuntime: 2.6335688749949138 minutes

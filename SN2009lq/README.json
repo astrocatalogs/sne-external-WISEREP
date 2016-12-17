@@ -1,0 +1,16 @@
+{
+    "SN2009lq_2010-03-20_wfccd_wf4k-1_1.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.0443",
+        "Obs. Date": "2010-03-20",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LCO-duPont - WFCCD",
+        "Observer": "Nidia Morrell",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2016-12-15",
+        "Modified By": "ofer-UploadSet"
+    }
+}
