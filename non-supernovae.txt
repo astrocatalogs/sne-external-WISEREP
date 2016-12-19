@@ -295,3 +295,4 @@ AT2016htd is a Other
 OGLE16fht is a Other
 OGLE16flb is a Other
 OGLE16fku is a AGN
+AT2016ind is a Other
