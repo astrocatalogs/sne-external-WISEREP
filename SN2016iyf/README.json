@@ -1,0 +1,16 @@
+{
+    "tns_2016iyf_2016-12-20_07-39-31_P60_SED-Machine.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.041",
+        "Obs. Date": "2016-12-20",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SED-Machine",
+        "Observer": "SEMD",
+        "Reducer": "Don Neill",
+        "Reduction Status": "final",
+        "Last Modified": "2016-12-21",
+        "Modified By": "upload-TNS"
+    }
+}
