@@ -1,4 +1,5 @@
 {
+    "completed": [],
     "non_SN": [
         "TCPJ17344775-2409042",
         "TCPJ13535979-0755079",
@@ -301,7 +302,7 @@
         "OGLE16fxq",
         "AT2016iyp",
         "AT2016iym",
-        "AT2016iyr"
-    ],
-    "completed": []
+        "AT2016iyr",
+        "DLT16ca"
+    ]
 }

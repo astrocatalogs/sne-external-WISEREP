@@ -300,3 +300,4 @@ OGLE16fxq is a Other
 AT2016iyp is a Varstar
 AT2016iym is a Varstar
 AT2016iyr is a Other
+DLT16ca is a Other
