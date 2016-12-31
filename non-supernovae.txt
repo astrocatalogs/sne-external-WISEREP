@@ -301,3 +301,8 @@ AT2016iyp is a Varstar
 AT2016iym is a Varstar
 AT2016iyr is a Other
 DLT16ca is a Other
+ATLAS16eah is a Other
+AT2016jbc is a Varstar
+AT2016jaj is a Other
+AT2016izi is a Varstar
+AT2016jbw is a Varstar
