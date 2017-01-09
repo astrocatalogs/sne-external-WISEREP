@@ -1,0 +1,16 @@
+{
+    "tAT2017bc_20170105_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.027",
+        "Obs. Date": "2017-01-06",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Smith/Cikota",
+        "Reducer": "Magee/Inserra",
+        "Reduction Status": "rapid",
+        "Last Modified": "2017-01-06",
+        "Modified By": "ilanm-UploadSet"
+    }
+}

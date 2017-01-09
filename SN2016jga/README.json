@@ -1,0 +1,16 @@
+{
+    "tns_2016jga_2016-12-31.07_SOAR_Goodman.dat": {
+        "Type": "SN II",
+        "Redshift": "0.0243",
+        "Obs. Date": "2016-12-31",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "SOAR - Goodman",
+        "Observer": "Strader",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2017-01-05",
+        "Modified By": "upload-TNS"
+    }
+}

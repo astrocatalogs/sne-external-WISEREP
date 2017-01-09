@@ -1,0 +1,16 @@
+{
+    "tns_2016jdl_2016-12-30.88_BAO-2.16m_Phot-spec.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.0232",
+        "Obs. Date": "2016-12-30",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Phot-spec",
+        "Observer": "Feng Xiao",
+        "Reducer": "Danfeng Xiang",
+        "Reduction Status": "final",
+        "Last Modified": "2017-01-02",
+        "Modified By": "upload-TNS"
+    }
+}

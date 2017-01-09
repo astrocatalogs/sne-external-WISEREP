@@ -1,0 +1,16 @@
+{
+    "tns_2016jdv_2016-12-30.36_LCO-duPont_WFCCD_ASAS-SN.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.026934",
+        "Obs. Date": "2016-12-30",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LCO-duPont - WFCCD",
+        "Observer": "M. K. Seidel",
+        "Reducer": "N. Morrell ",
+        "Reduction Status": "final",
+        "Last Modified": "2017-01-01",
+        "Modified By": "upload-TNS"
+    }
+}

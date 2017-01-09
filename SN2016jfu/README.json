@@ -1,0 +1,16 @@
+{
+    "tns_2016jfu_2016-12-31.9_BAO-2.16m_Phot-spec.txt": {
+        "Type": "SN IIP",
+        "Redshift": "0.008",
+        "Obs. Date": "2016-12-31",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Phot-spec",
+        "Observer": "Feng Xiao",
+        "Reducer": "Danfeng Xiang",
+        "Reduction Status": "final",
+        "Last Modified": "2017-01-01",
+        "Modified By": "upload-TNS"
+    }
+}
