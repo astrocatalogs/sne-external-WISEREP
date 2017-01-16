@@ -7558,4 +7558,5 @@ From statement 4: SN2016jca has no spectra to collect
 Runtime: 2.9404335141181948 minutesFrom statement 3: SN2016jca has no spectra to collect
 From statement 4: SN2016jca has no spectra to collect
 Runtime: 3.477409223715464 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 3.341946816444397 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 3.260381058851878 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 2.9913433035214743 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 2.5461008389790853 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 2.760565916697184 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 3.3393123666445415 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 3.786765658855438 minutesRuntime: 2.5176663835843405 minutesRuntime: 2.4121679027875262 minutesRuntime: 1.6853721578915914 minutesNot collecting spectra of SN2012cu at this time
-Runtime: 2.4491944034894306 minutes
+Runtime: 2.4491944034894306 minutesNot collecting spectra of SN2012cu at this time
+Runtime: 2.0017348448435466 minutes
