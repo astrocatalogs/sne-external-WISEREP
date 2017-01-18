@@ -1,0 +1,16 @@
+{
+    "tATLAS17abx_20170116_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.065",
+        "Obs. Date": "2017-01-17",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "F. Taddia, J. Sollerman",
+        "Reducer": "A. Nyholm, C. Barbarino, E. Karamehmetoglu",
+        "Reduction Status": "rapid",
+        "Last Modified": "2017-01-17",
+        "Modified By": "ilanm-UploadSet"
+    }
+}

@@ -306,3 +306,4 @@ AT2016jbc is a Varstar
 AT2016jaj is a Other
 AT2016izi is a Varstar
 AT2016jbw is a Varstar
+ATLAS17adf is a Galaxy
