@@ -7561,4 +7561,5 @@ Runtime: 3.477409223715464 minutesType not specified by WISeREP.Check the Open S
 Runtime: 2.4491944034894306 minutesNot collecting spectra of SN2012cu at this time
 Runtime: 2.0017348448435466 minutesNot collecting spectra of SN2012cu at this time
 Runtime: 2.69853880405426 minutesNot collecting spectra of SN2012cu at this time
-Runtime: 2.465945823987325 minutes
+Runtime: 2.465945823987325 minutesNot collecting spectra of SN2012cu at this time
+Runtime: 2.9226966579755147 minutes
