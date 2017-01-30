@@ -7568,4 +7568,9 @@ Runtime: 3.3969603180885315 minutesType not specified by WISeREP.Check the Open 
 Runtime: 2.8755104025204976 minutesRemoving duplicate spectrum for SN2017mf -- tns_2017mf_2017-01-22.95_LJT_YFOSC_0.dat
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 3.718255611260732 minutesPresumably no other duplicate files found for SN2017ms
 Removing duplicate spectrum for SN2017mf -- tns_2017mf_2017-01-22.95_LJT_YFOSC.dat
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 3.2912382960319517 minutes
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 3.2912382960319517 minutesPresumably no other duplicate files found for SN2017ms
+Removing duplicate spectrum for SN2017mf -- tns_2017mf_2017-01-22.95_LJT_YFOSC.dat
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 2.872356899579366 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Type not specified by WISeREP.Check the Open Supernova Catalog for type.Presumably no other duplicate files found for SN2017ms
+Removing duplicate spectrum for SN2017mf -- tns_2017mf_2017-01-22.95_LJT_YFOSC_0.dat
+Runtime: 3.1900596102078755 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Presumably no other duplicate files found for SN2017ms
+Runtime: 3.1818296790122984 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 3.473717963695526 minutes

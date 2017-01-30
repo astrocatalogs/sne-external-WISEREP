@@ -1,0 +1,16 @@
+{
+    "tns_2017mu_2017-01-26.71_LJT_YFOSC_PTSS.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.0815",
+        "Obs. Date": "2017-01-26",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LJT - YFOSC",
+        "Observer": "Yuxin Xin (YNAO)",
+        "Reducer": "Jujia Zhang (YNAO)",
+        "Reduction Status": "final",
+        "Last Modified": "2017-01-27",
+        "Modified By": "upload-TNS"
+    }
+}

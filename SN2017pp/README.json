@@ -1,0 +1,16 @@
+{
+    "tAT2017pp_20170127_Gr13_Free_slit1.5_1_f.asci": {
+        "Type": "SN Ia-91T-like",
+        "Redshift": "0.0299",
+        "Obs. Date": "2017-01-28",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "F. Taddia, J. Sollerman",
+        "Reducer": "E. Karamehmetoglu, A. Nyholm, C. Barbarino",
+        "Reduction Status": "rapid",
+        "Last Modified": "2017-01-28",
+        "Modified By": "ilanm-UploadSet"
+    }
+}
