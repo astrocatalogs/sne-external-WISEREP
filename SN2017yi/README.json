@@ -1,0 +1,16 @@
+{
+    "tns_2017yi_2457785.9472_BAO-2.16m_Cassegrain.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.034",
+        "Obs. Date": "2017-02-01",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Cassegrain",
+        "Observer": "Junjun Jia,Min He(NAOC)",
+        "Reducer": "Liming Rui",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-02",
+        "Modified By": "upload-TNS"
+    }
+}
