@@ -1,0 +1,16 @@
+{
+    "tns_2017aas_2017-02-04.87_LJT_YFOSC_PTSS.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.042",
+        "Obs. Date": "2017-02-04",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LJT - YFOSC",
+        "Observer": "Kaixin Lu",
+        "Reducer": "Jujia Zhang",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-05",
+        "Modified By": "upload-TNS"
+    }
+}
