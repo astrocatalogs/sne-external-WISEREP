@@ -1,0 +1,44 @@
+{
+    "SN2007tt_2007-11-11_lris_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.373829",
+        "Obs. Date": "2007-11-11",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2007tt_2007-11-26_fors1_2.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.373829",
+        "Obs. Date": "2007-11-26",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "VLT-UT1 - FORS1",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2007tt_2007-12-09_fors1_3.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.373829",
+        "Obs. Date": "2007-12-09",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "VLT-UT1 - FORS1",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    }
+}

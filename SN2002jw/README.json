@@ -1,0 +1,30 @@
+{
+    "SN2002jw_2002-12-07_fors1_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.3575",
+        "Obs. Date": "2002-12-07",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "VLT-UT1 - FORS1",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2002jw_2003-01-05_esi_2.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.3575",
+        "Obs. Date": "2003-01-05",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck2 - ESI",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    }
+}

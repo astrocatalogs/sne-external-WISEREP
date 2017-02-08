@@ -309,3 +309,10 @@ AT2016jbw is a Varstar
 ATLAS17adf is a Galaxy
 SN2017jt is a Galaxy
 AT2017pv is a CV
+SN2004ft is a Galaxy
+SN2002iw is a Galaxy
+SN2004fr is a Galaxy
+SN2002jx is a Galaxy
+SN2007up is a Galaxy
+SN2004hb is a Galaxy
+SN2004ho is a Galaxy

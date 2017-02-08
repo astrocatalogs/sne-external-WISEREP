@@ -1,0 +1,30 @@
+{
+    "SN2002jt_2002-12-02_ldss-2_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.382",
+        "Obs. Date": "2002-12-02",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Magellan-Clay - LDSS-2",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2002jt_2002-12-07_gmos_2.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.382",
+        "Obs. Date": "2002-12-07",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Gemini-N - GMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    }
+}

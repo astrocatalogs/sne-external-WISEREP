@@ -1,0 +1,30 @@
+{
+    "SN2006tq_2006-12-28_gmos_1.ascii": {
+        "Type": "SN Ib-pec",
+        "Redshift": "0.2622",
+        "Obs. Date": "2006-12-28",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Gemini-N - GMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2006tq_2007-01-20_gmos_3.ascii": {
+        "Type": "SN Ib-pec",
+        "Redshift": "0.2622",
+        "Obs. Date": "2007-01-20",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Gemini-N - GMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    }
+}

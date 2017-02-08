@@ -1,0 +1,58 @@
+{
+    "SN2007un_2007-12-07_ldss-3_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.2806",
+        "Obs. Date": "2007-12-07",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Magellan-Clay - LDSS-3",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2007un_2007-12-14_other_2.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.2806",
+        "Obs. Date": "2007-12-14",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2007un_2007-12-17_fors1_3.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.2806",
+        "Obs. Date": "2007-12-17",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "VLT-UT1 - FORS1",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2007un_2007-12-26_fors1_4.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.2806",
+        "Obs. Date": "2007-12-26",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "VLT-UT1 - FORS1",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    }
+}

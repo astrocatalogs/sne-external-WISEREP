@@ -1,0 +1,44 @@
+{
+    "SN2002ju_2002-12-03_ldss-2_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.3473",
+        "Obs. Date": "2002-12-03",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Magellan-Clay - LDSS-2",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2002ju_2002-12-04_gmos_2.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.3473",
+        "Obs. Date": "2002-12-04",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Gemini-N - GMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2002ju_2003-01-05_esi_4.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.3473",
+        "Obs. Date": "2003-01-05",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck2 - ESI",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    }
+}

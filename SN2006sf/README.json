@@ -1,0 +1,16 @@
+{
+    "SN2006sf_2006-11-24_deimos_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.5616",
+        "Obs. Date": "2006-11-24",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck2 - DEIMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "SN2002jd_2002-11-11_lris_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.318",
+        "Obs. Date": "2002-11-11",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2002jd_2002-12-08_fors1_2.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.318",
+        "Obs. Date": "2002-12-08",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "VLT-UT1 - FORS1",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2002jd_2002-12-09_gmos_3.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.318",
+        "Obs. Date": "2002-12-09",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Gemini-N - GMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    }
+}

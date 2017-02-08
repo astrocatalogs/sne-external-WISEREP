@@ -1,0 +1,30 @@
+{
+    "SN2006md_2006-10-20_ldss-3_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.247",
+        "Obs. Date": "2006-10-20",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Magellan-Clay - LDSS-3",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2006md_2006-10-24_fors1_2.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.247",
+        "Obs. Date": "2006-10-24",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "VLT-UT1 - FORS1",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    }
+}

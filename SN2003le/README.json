@@ -1,0 +1,16 @@
+{
+    "SN2003le_2003-12-20_lris_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.561",
+        "Obs. Date": "2003-12-20",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    }
+}

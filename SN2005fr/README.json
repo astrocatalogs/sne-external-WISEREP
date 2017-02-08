@@ -1,0 +1,30 @@
+{
+    "SN2005fr_2005-10-05_ldss-3_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.288",
+        "Obs. Date": "2005-10-05",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Magellan-Clay - LDSS-3",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2005fr_2005-10-05_deimos_2.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.288",
+        "Obs. Date": "2005-10-05",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck2 - DEIMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    }
+}

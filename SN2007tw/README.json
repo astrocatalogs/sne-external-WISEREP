@@ -1,0 +1,30 @@
+{
+    "SN2007tw_2007-11-11_lris_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.6654",
+        "Obs. Date": "2007-11-11",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2007tw_2007-11-16_ldss-3_2.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.6654",
+        "Obs. Date": "2007-11-16",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Magellan-Clay - LDSS-3",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    }
+}

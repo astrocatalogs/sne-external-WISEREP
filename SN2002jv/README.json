@@ -1,0 +1,30 @@
+{
+    "SN2002jv_2002-12-07_fors1_1.ascii": {
+        "Type": "SN Ib",
+        "Redshift": "0.2203",
+        "Obs. Date": "2002-12-07",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "VLT-UT1 - FORS1",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2002jv_2003-01-04_gmos_2.ascii": {
+        "Type": "SN Ib",
+        "Redshift": "0.2203",
+        "Obs. Date": "2003-01-04",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Gemini-N - GMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    }
+}

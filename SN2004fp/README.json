@@ -1,0 +1,16 @@
+{
+    "SN2004fp_2004-10-17_gmos_1.ascii": {
+        "Type": "SN IIP",
+        "Redshift": "0.2",
+        "Obs. Date": "2004-10-17",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Gemini-N - GMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    }
+}

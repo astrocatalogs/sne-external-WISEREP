@@ -1,0 +1,44 @@
+{
+    "SN2006tk_2006-12-20_fors1_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.32",
+        "Obs. Date": "2006-12-20",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "VLT-UT1 - FORS1",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2006tk_2006-12-31_gmos_2.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.32",
+        "Obs. Date": "2006-12-31",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Gemini-N - GMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2006tk_2007-01-03_gmos_4.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.32",
+        "Obs. Date": "2007-01-03",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Gemini-N - GMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    }
+}

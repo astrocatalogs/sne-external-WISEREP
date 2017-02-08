@@ -1,0 +1,30 @@
+{
+    "SN2002jc_2002-11-09_esi_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.54",
+        "Obs. Date": "2002-11-09",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck2 - ESI",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2002jc_2002-12-05_gmos_2.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.54",
+        "Obs. Date": "2002-12-05",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Gemini-N - GMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    }
+}

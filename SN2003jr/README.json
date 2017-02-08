@@ -1,0 +1,16 @@
+{
+    "SN2003jr_2003-11-01_gmos_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.34",
+        "Obs. Date": "2003-11-01",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Gemini-N - GMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    }
+}

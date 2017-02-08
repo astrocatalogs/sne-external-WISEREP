@@ -1,0 +1,30 @@
+{
+    "SN2007tq_2007-11-13_ldss-3_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.1462",
+        "Obs. Date": "2007-11-13",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Magellan-Clay - LDSS-3",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2007tq_2007-11-15_ldss-3_2.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.1462",
+        "Obs. Date": "2007-11-15",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Magellan-Clay - LDSS-3",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    }
+}

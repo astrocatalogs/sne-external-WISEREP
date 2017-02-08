@@ -1,0 +1,16 @@
+{
+    "SN2006lw_2006-10-25_fors1_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.2135",
+        "Obs. Date": "2006-10-25",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "VLT-UT1 - FORS1",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-07",
+        "Modified By": "admin-UploadSet"
+    }
+}
