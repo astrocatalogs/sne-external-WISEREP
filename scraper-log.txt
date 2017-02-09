@@ -7607,4 +7607,37 @@ Presumably no other duplicate files found for SN2002iy
 Presumably no other duplicate files found for SN2007ty
 Presumably no other duplicate files found for SN2007ti
 Presumably no other duplicate files found for SN2002jv
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 20.04669600725174 minutes
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 20.04669600725174 minutesPresumably no other duplicate files found for SN2007un
+Presumably no other duplicate files found for SN2006tx
+Presumably no other duplicate files found for SN2006md
+Presumably no other duplicate files found for SN2002jt
+Presumably no other duplicate files found for SN2006sn
+Presumably no other duplicate files found for SN2006mk
+Presumably no other duplicate files found for SN2006sc
+Presumably no other duplicate files found for SN2002iz
+Presumably no other duplicate files found for SN2006tk
+Presumably no other duplicate files found for SN2003ju
+Presumably no other duplicate files found for SN2002js
+Presumably no other duplicate files found for SN2002jr
+Presumably no other duplicate files found for SN2006sq
+Presumably no other duplicate files found for SN2002jw
+Presumably no other duplicate files found for SN2006tq
+Removing duplicate spectrum for SN2003jo -- SN2003jo_2003-10-29_fors1_1.ascii
+Presumably no other duplicate files found for SN2002jd
+Removing duplicate spectrum for SN2006tr -- SN2006tr_2006-12-20_fors1_2.ascii
+Presumably no other duplicate files found for SN2007tt
+Presumably no other duplicate files found for SN2007tq
+Presumably no other duplicate files found for SN2007tg
+Presumably no other duplicate files found for SN2003kl
+Presumably no other duplicate files found for SN2002jq
+Presumably no other duplicate files found for SN2007tw
+Presumably no other duplicate files found for SN2002ju
+Presumably no other duplicate files found for SN2002jc
+Presumably no other duplicate files found for SN2003js
+Presumably no other duplicate files found for SN2005fr
+Presumably no other duplicate files found for SN2006tv
+Presumably no other duplicate files found for SN2002iy
+Presumably no other duplicate files found for SN2007ty
+Presumably no other duplicate files found for SN2007ti
+Presumably no other duplicate files found for SN2002jv
+Runtime: 23.165766926606498 minutes
