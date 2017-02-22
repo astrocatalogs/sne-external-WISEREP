@@ -1,0 +1,16 @@
+{
+    "tns_2017aub_2017-02-17.63_BAO-2.16m_Phot-spec.txt": {
+        "Type": "SN II",
+        "Redshift": "0.014",
+        "Obs. Date": "2017-02-17",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Phot-spec",
+        "Observer": "Linyi Li, Xinghan Zhang (THU)",
+        "Reducer": "Danfeng Xiang (THU)",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-18",
+        "Modified By": "upload-TNS"
+    }
+}

@@ -316,3 +316,8 @@ SN2002jx is a Galaxy
 SN2007up is a Galaxy
 SN2004hb is a Galaxy
 SN2004ho is a Galaxy
+AT2017aww is a Galaxy
+AT2017afm is a Other
+PS17bgx is a Other
+PS17beo is a Other
+PS17bek is a Other

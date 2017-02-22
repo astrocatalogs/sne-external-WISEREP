@@ -7772,4 +7772,16 @@ Presumably no other duplicate files found for SN2002iy
 Presumably no other duplicate files found for SN2007ty
 Presumably no other duplicate files found for SN2007ti
 Presumably no other duplicate files found for SN2002jv
-Runtime: 26.566983397801717 minutes
+Runtime: 26.566983397801717 minutesRuntime: 2.094704341888428 minutesRuntime: 2.3966980973879495 minutesRuntime: 2.1314475774765014 minutesRemoving duplicate spectrum for SN2017awk -- tns_2017awk_2017-02-18.1_Ekar_AFOSC_Padova-Asiago.asc
+Removing duplicate spectrum for SN2017auf -- tAT2017auf_20170217_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017auf
+Runtime: 3.0473996082941692 minutesRemoving duplicate spectrum for SN2017awk -- tns_2017awk_2017-02-18.1_Ekar_AFOSC_Padova-Asiago.asc
+Removing duplicate spectrum for SN2017auf -- tAT2017auf_20170217_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017auf
+Runtime: 3.218864874045054 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2017awk -- tns_2017awk_2017-02-18.1_Ekar_AFOSC_Padova-Asiago.asc
+Removing duplicate spectrum for SN2017auf -- tAT2017auf_20170217_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017auf
+Runtime: 3.467425998051961 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2017awk -- tns_2017awk_2017-02-18.1_Ekar_AFOSC_Padova-Asiago.asc
+Removing duplicate spectrum for SN2017auf -- tAT2017auf_20170217_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017auf
+Runtime: 3.5768903215726215 minutes

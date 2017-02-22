@@ -1,0 +1,16 @@
+{
+    "tns_2017awk_2017-02-18.1_Ekar_AFOSC_Padova-Asiago_0.asc": {
+        "Type": "SN Ia",
+        "Redshift": "0.018056",
+        "Obs. Date": "2017-02-18",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Tomasella",
+        "Reducer": "Benetti",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-18",
+        "Modified By": "upload-TNS"
+    }
+}

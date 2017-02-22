@@ -1,0 +1,16 @@
+{
+    "tAT2017aut_20170218_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.017233",
+        "Obs. Date": "2017-02-19",
+        "Program": "PESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "C. Barbarino, A. Nyholm",
+        "Reducer": "F. Taddia, CJ. Sollerman, C. Fremling",
+        "Reduction Status": "rapid",
+        "Last Modified": "2017-02-19",
+        "Modified By": "ilanm-UploadSet"
+    }
+}
