@@ -1,0 +1,16 @@
+{
+    "tns_2017avj_2017-02-22_11-24-55_UH88_SNIFS_Pan-STARRS1.txt": {
+        "Type": "SN Ia-91bg-like",
+        "Redshift": "0.029",
+        "Obs. Date": "2017-02-22",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "UH88 - SNIFS",
+        "Observer": "M. Huber, K. W. Smith, P. Clark",
+        "Reducer": "M. Huber",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-23",
+        "Modified By": "upload-TNS"
+    }
+}
