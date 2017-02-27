@@ -1,0 +1,30 @@
+{
+    "tns_2017bgu_2457808.3748_BAO-2.16m_Cassegrain.txt": {
+        "Type": "SN Ib",
+        "Redshift": "0.008",
+        "Obs. Date": "2017-02-23",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Cassegrain",
+        "Observer": "Junjun Jia(NAOC), Xuebing Wu(PKU)",
+        "Reducer": "Danfeng Xiang",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-24",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2017bgu_2017-02-24_06-15-42_NOT_ALFOSC_NUTS.txt": {
+        "Type": "SN Ib",
+        "Redshift": "0.008",
+        "Obs. Date": "2017-02-24",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "NOT - ALFOSC",
+        "Observer": "C. Gall, J. Prieto-Arranz",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2017-02-24",
+        "Modified By": "upload-TNS"
+    }
+}
