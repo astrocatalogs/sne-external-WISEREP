@@ -1,0 +1,30 @@
+{
+    "ESSENCEs372_2006-12-21_fors1_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.7076",
+        "Obs. Date": "2006-12-21",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "VLT-UT1 - FORS1",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-03-01",
+        "Modified By": "ofer-UploadSet"
+    },
+    "ESSENCEs372_2006-12-23_deimos_2.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.7076",
+        "Obs. Date": "2006-12-23",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck2 - DEIMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-03-01",
+        "Modified By": "ofer-UploadSet"
+    }
+}

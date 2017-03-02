@@ -1,0 +1,44 @@
+{
+    "ESSENCEm138_2005-10-06_fors1_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.5877",
+        "Obs. Date": "2005-10-06",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "VLT-UT1 - FORS1",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-03-01",
+        "Modified By": "ofer-UploadSet"
+    },
+    "ESSENCEm138_2005-10-06_deimos_2.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.5877",
+        "Obs. Date": "2005-10-06",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck2 - DEIMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-03-01",
+        "Modified By": "ofer-UploadSet"
+    },
+    "ESSENCEm138_2005-10-07_lris_4.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.5877",
+        "Obs. Date": "2005-10-07",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-03-01",
+        "Modified By": "ofer-UploadSet"
+    }
+}

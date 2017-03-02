@@ -1,0 +1,16 @@
+{
+    "ESSENCEx093_2007-10-16_lris_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.5004",
+        "Obs. Date": "2007-10-16",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-03-01",
+        "Modified By": "ofer-UploadSet"
+    }
+}

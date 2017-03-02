@@ -1,0 +1,30 @@
+{
+    "ESSENCEp527_2005-12-29_ldss-3_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.4351",
+        "Obs. Date": "2005-12-29",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Magellan-Clay - LDSS-3",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-03-01",
+        "Modified By": "ofer-UploadSet"
+    },
+    "ESSENCEp527_2006-01-01_deimos_2.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.4351",
+        "Obs. Date": "2006-01-01",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck2 - DEIMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-03-01",
+        "Modified By": "ofer-UploadSet"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "ESSENCEm158_2005-10-28_ldss-3_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.461",
+        "Obs. Date": "2005-10-28",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Magellan-Clay - LDSS-3",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-03-01",
+        "Modified By": "ofer-UploadSet"
+    },
+    "ESSENCEm158_2005-10-30_gmos_2.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.461",
+        "Obs. Date": "2005-10-30",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Gemini-N - GMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-03-01",
+        "Modified By": "ofer-UploadSet"
+    }
+}

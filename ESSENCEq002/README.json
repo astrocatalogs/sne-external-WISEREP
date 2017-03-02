@@ -1,0 +1,30 @@
+{
+    "ESSENCEq002_2006-09-28_gmos_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.3469",
+        "Obs. Date": "2006-09-28",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Gemini-N - GMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-03-01",
+        "Modified By": "ofer-UploadSet"
+    },
+    "ESSENCEq002_2006-10-25_fors1_3.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.3469",
+        "Obs. Date": "2006-10-25",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "VLT-UT1 - FORS1",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-03-01",
+        "Modified By": "ofer-UploadSet"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "ESSENCEm070_2005-10-05_deimos_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.2122",
+        "Obs. Date": "2005-10-05",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck2 - DEIMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-03-01",
+        "Modified By": "ofer-UploadSet"
+    }
+}

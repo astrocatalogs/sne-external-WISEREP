@@ -1,0 +1,30 @@
+{
+    "ESSENCEp534_2006-01-01_deimos_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.6202",
+        "Obs. Date": "2006-01-01",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck2 - DEIMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-03-01",
+        "Modified By": "ofer-UploadSet"
+    },
+    "ESSENCEp534_2006-01-03_gmos_3.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.6202",
+        "Obs. Date": "2006-01-03",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Gemini-N - GMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-03-01",
+        "Modified By": "ofer-UploadSet"
+    }
+}
