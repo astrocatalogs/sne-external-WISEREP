@@ -7853,4 +7853,23 @@ Presumably no other duplicate files found for ESSENCEs372
 Presumably no other duplicate files found for ESSENCEm026
 Presumably no other duplicate files found for ESSENCEp429
 Presumably no other duplicate files found for SN2017bgu
-Runtime: 15.467707494894663 minutes
+Runtime: 15.467707494894663 minutesPresumably no other duplicate files found for ESSENCEr317
+Presumably no other duplicate files found for ESSENCEy173
+Presumably no other duplicate files found for ESSENCEq060
+Presumably no other duplicate files found for ESSENCEm006
+Presumably no other duplicate files found for ESSENCEm158
+Presumably no other duplicate files found for ESSENCEp425
+Presumably no other duplicate files found for ESSENCEp528
+Presumably no other duplicate files found for ESSENCEp527
+Presumably no other duplicate files found for ESSENCEm027
+Presumably no other duplicate files found for 2MASSJ23244229-0829087
+Presumably no other duplicate files found for ESSENCEp534
+Presumably no other duplicate files found for ESSENCEm138
+Presumably no other duplicate files found for ESSENCEm039
+Presumably no other duplicate files found for ESSENCEq002
+Removing duplicate spectrum for ESSENCEn406 -- ESSENCEn406_2005-12-04_fors1_1.ascii
+Presumably no other duplicate files found for ESSENCEd009
+Presumably no other duplicate files found for ESSENCEs372
+Presumably no other duplicate files found for ESSENCEm026
+Presumably no other duplicate files found for ESSENCEp429
+Runtime: 13.066287656625112 minutes
