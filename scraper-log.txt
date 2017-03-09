@@ -7872,4 +7872,18 @@ Presumably no other duplicate files found for ESSENCEd009
 Presumably no other duplicate files found for ESSENCEs372
 Presumably no other duplicate files found for ESSENCEm026
 Presumably no other duplicate files found for ESSENCEp429
-Runtime: 13.066287656625112 minutes
+Runtime: 13.066287656625112 minutesFrom statement 3: SN2017byc has no spectra to collect
+From statement 4: SN2017byc has no spectra to collect
+From statement 3: SN2017byb has no spectra to collect
+From statement 4: SN2017byb has no spectra to collect
+From statement 3: SN2017bos has no spectra to collect
+From statement 4: SN2017bos has no spectra to collect
+Presumably no other duplicate files found for ESSENCEr317
+Presumably no other duplicate files found for ESSENCEy173
+Presumably no other duplicate files found for ESSENCEq060
+Presumably no other duplicate files found for ESSENCEm006
+Presumably no other duplicate files found for ESSENCEm158
+Presumably no other duplicate files found for ESSENCEp425
+Presumably no other duplicate files found for ESSENCEp528
+Presumably no other duplicate files found for ESSENCEp527
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 2.319659475485484 minutes

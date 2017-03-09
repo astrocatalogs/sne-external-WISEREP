@@ -324,3 +324,7 @@ PS17bek is a Other
 PS17bgz is a Other
 AT2017bel is a Other
 AT2017ayj is a Other
+PS17bie is a Galaxy
+PS17bgm is a AGN
+ATLAS17bkt is a Other
+AT2017bxs is a Varstar
