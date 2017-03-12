@@ -7888,4 +7888,6 @@ Presumably no other duplicate files found for ESSENCEp528
 Presumably no other duplicate files found for ESSENCEp527
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 2.319659475485484 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN2017byb at this time
 Runtime: 1.4473703026771545 minutesPresumably no other duplicate files found for SN2016eay
-Runtime: 0.5374634901682536 minutes
+Runtime: 0.5374634901682536 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN2017byb at this time
+Runtime: 1.7547895153363546 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN2017byb at this time
+Runtime: 1.5927196145057678 minutes
