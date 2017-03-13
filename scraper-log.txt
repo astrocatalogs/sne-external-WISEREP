@@ -7890,4 +7890,4 @@ Type not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime:
 Runtime: 1.4473703026771545 minutesPresumably no other duplicate files found for SN2016eay
 Runtime: 0.5374634901682536 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN2017byb at this time
 Runtime: 1.7547895153363546 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN2017byb at this time
-Runtime: 1.5927196145057678 minutes
+Runtime: 1.5927196145057678 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 1.5746825774510702 minutes
