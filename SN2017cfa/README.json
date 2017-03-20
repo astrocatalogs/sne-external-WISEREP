@@ -1,0 +1,16 @@
+{
+    "tns_2017cfa_2457830.0568_BAO-2.16m_Cassegrain.txt": {
+        "Type": "SN IIP",
+        "Redshift": "0.0141",
+        "Obs. Date": "2017-03-17",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Cassegrain",
+        "Observer": "Danfeng Xiang, Han Lin(THU)",
+        "Reducer": "Danfeng Xiang(THU)",
+        "Reduction Status": "final",
+        "Last Modified": "2017-03-18",
+        "Modified By": "upload-TNS"
+    }
+}
