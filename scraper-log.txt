@@ -7891,4 +7891,7 @@ Runtime: 1.4473703026771545 minutesPresumably no other duplicate files found for
 Runtime: 0.5374634901682536 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN2017byb at this time
 Runtime: 1.7547895153363546 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Not collecting spectra of SN2017byb at this time
 Runtime: 1.5927196145057678 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 1.5746825774510702 minutesRemoving duplicate spectrum for SN2017acd -- tns_2017acd_2017-02-13.2_Magellan-Baade_IMACS.txt
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 1.2411356568336487 minutesRuntime: 0.2993553797403971 minutesRuntime: 0.37962297598520917 minutesRuntime: 0.3349502960840861 minutesRuntime: 0.36695157289505004 minutesRuntime: 0.47968101501464844 minutesRuntime: 0.5728170355161031 minutesRuntime: 0.5357044061024984 minutesRuntime: 0.5506902972857157 minutesRuntime: 0.41494106451670326 minutes
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 1.2411356568336487 minutesRuntime: 0.2993553797403971 minutesRuntime: 0.37962297598520917 minutesRuntime: 0.3349502960840861 minutesRuntime: 0.36695157289505004 minutesRuntime: 0.47968101501464844 minutesRuntime: 0.5728170355161031 minutesRuntime: 0.5357044061024984 minutesRuntime: 0.5506902972857157 minutesRuntime: 0.41494106451670326 minutesRemoving duplicate spectrum for SN2017cjb -- tAT2017cjb_20170323_Gr11_Free_slit1.0_1_f.asci
+Removing duplicate spectrum for SN2017cjb -- tAT2017cjb_20170323_Gr16_OG530_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017cjb
+Runtime: 0.49139295021692914 minutes

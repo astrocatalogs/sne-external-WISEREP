@@ -328,3 +328,4 @@ PS17bie is a Galaxy
 PS17bgm is a AGN
 ATLAS17bkt is a Other
 AT2017bxs is a Varstar
+AT2017chi is a Galaxy

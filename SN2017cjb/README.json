@@ -1,0 +1,16 @@
+{
+    "tns_2017cjb_2017-03-23.945_NOT_ALFOSC_NUTS.txt": {
+        "Type": "SN II",
+        "Redshift": "0.009443",
+        "Obs. Date": "2017-03-23",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "NOT - ALFOSC",
+        "Observer": "T. Reynolds",
+        "Reducer": "T. Reynolds",
+        "Reduction Status": "final",
+        "Last Modified": "2017-03-24",
+        "Modified By": "upload-TNS"
+    }
+}
