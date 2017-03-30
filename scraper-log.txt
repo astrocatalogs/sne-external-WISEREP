@@ -7914,4 +7914,13 @@ Presumably no other duplicate files found for SN2017cju
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2017cjb -- tAT2017cjb_20170323_Gr11_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for SN2017cjb -- tAT2017cjb_20170323_Gr16_OG530_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2017cjb
-Runtime: 1.5858376622200012 minutes
+Runtime: 1.5858376622200012 minutesFrom statement 3: SN2017ckj has no spectra to collect
+From statement 4: SN2017ckj has no spectra to collect
+From statement 3: SN2017cki has no spectra to collect
+From statement 4: SN2017cki has no spectra to collect
+Removing duplicate spectrum for SN2017cju -- tAT2017cju_20170324_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017cju
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2017cjb -- tAT2017cjb_20170323_Gr11_Free_slit1.0_1_f.asci
+Removing duplicate spectrum for SN2017cjb -- tAT2017cjb_20170323_Gr16_OG530_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017cjb
+Runtime: 1.854296080271403 minutes
