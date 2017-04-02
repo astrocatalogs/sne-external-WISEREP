@@ -1,0 +1,16 @@
+{
+    "tns_2017coa_2457843.9905_BAO-2.16m_Cassegrain.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.04",
+        "Obs. Date": "2017-03-31",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Cassegrain",
+        "Observer": "Xianmin Meng(YNAO)",
+        "Reducer": "Danfeng Xiang",
+        "Reduction Status": "final",
+        "Last Modified": "2017-04-01",
+        "Modified By": "upload-TNS"
+    }
+}

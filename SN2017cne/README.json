@@ -1,0 +1,16 @@
+{
+    "tns_2017cne_2457844.2613_BAO-2.16m_Cassegrain.txt": {
+        "Type": "SN Ia-91T-like",
+        "Redshift": "0.034",
+        "Obs. Date": "2017-03-31",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Cassegrain",
+        "Observer": "Xianmin Meng",
+        "Reducer": "Danfeng Xiang",
+        "Reduction Status": "final",
+        "Last Modified": "2017-04-01",
+        "Modified By": "upload-TNS"
+    }
+}
