@@ -7948,4 +7948,9 @@ Type not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime:
 From statement 4: SN2017ckj has no spectra to collect
 Runtime: 1.8668472488721213 minutesFrom statement 3: SN2017ckj has no spectra to collect
 From statement 4: SN2017ckj has no spectra to collect
-Runtime: 0.6491013685862224 minutesRuntime: 0.6240816831588745 minutes
+Runtime: 0.6491013685862224 minutesRuntime: 0.6240816831588745 minutesPresumably no other duplicate files found for SN2006qr
+Presumably no other duplicate files found for SN2005lr
+Presumably no other duplicate files found for SN2002jz
+2 objects returned for SN2002J
+Presumably no other duplicate files found for SN2002J
+Runtime: 2.0249152978261313 minutes

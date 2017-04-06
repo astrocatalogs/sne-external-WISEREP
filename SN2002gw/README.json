@@ -1,0 +1,16 @@
+{
+    "sn02gw.blue.29oct02.flm": {
+        "Type": "SN II",
+        "Redshift": "0.010368",
+        "Obs. Date": "2002-10-29",
+        "Program": "LOSS",
+        "Contributor": "Shivvers et al. 2017",
+        "Bibcode": "2017PASP..129e4201S",
+        "Instrument": "Magellan-Clay - LDSS-2",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-04-05",
+        "Modified By": "ilanm-UploadSet"
+    }
+}

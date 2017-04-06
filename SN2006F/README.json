@@ -1,0 +1,16 @@
+{
+    "SN06F_g01_NTT_EM_16jan06.flm": {
+        "Type": "SN Ib",
+        "Redshift": "0.013913",
+        "Obs. Date": "2006-01-16",
+        "Program": "LOSS",
+        "Contributor": "Shivvers et al. 2017",
+        "Bibcode": "2017PASP..129e4201S",
+        "Instrument": "ESO-NTT - EMMI",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-04-05",
+        "Modified By": "ilanm-UploadSet"
+    }
+}

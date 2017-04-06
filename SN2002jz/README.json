@@ -1,0 +1,44 @@
+{
+    "sn2002jz-20030107-br.flm": {
+        "Type": "SN Ib/c",
+        "Redshift": "0.00516",
+        "Obs. Date": "2003-01-07",
+        "Program": "LOSS",
+        "Contributor": "Shivvers et al. 2017",
+        "Bibcode": "2017PASP..129e4201S",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-04-05",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "sn2002jz-20030128-ui.flm": {
+        "Type": "SN Ib/c",
+        "Redshift": "0.00516",
+        "Obs. Date": "2003-01-28",
+        "Program": "LOSS",
+        "Contributor": "Shivvers et al. 2017",
+        "Bibcode": "2017PASP..129e4201S",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-04-05",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "sn2002jz-20030228-br.flm": {
+        "Type": "SN Ib/c",
+        "Redshift": "0.00516",
+        "Obs. Date": "2003-02-28",
+        "Program": "LOSS",
+        "Contributor": "Shivvers et al. 2017",
+        "Bibcode": "2017PASP..129e4201S",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-04-05",
+        "Modified By": "ilanm-UploadSet"
+    }
+}

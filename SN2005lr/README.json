@@ -1,0 +1,30 @@
+{
+    "SN05lr_g01_NTT_EM_18dec05.flm": {
+        "Type": "SN IIb",
+        "Redshift": "0.008572",
+        "Obs. Date": "2005-12-18",
+        "Program": "LOSS",
+        "Contributor": "Shivvers et al. 2017",
+        "Bibcode": "2017PASP..129e4201S",
+        "Instrument": "ESO-NTT - EMMI",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-04-05",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "SN05lr_b01_DUP_WF_20dec05.flm": {
+        "Type": "SN IIb",
+        "Redshift": "0.008572",
+        "Obs. Date": "2005-12-20",
+        "Program": "LOSS",
+        "Contributor": "Shivvers et al. 2017",
+        "Bibcode": "2017PASP..129e4201S",
+        "Instrument": "LCO-duPont - WFCCD",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-04-05",
+        "Modified By": "ilanm-UploadSet"
+    }
+}

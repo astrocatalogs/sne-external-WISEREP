@@ -1,0 +1,30 @@
+{
+    "sn2006qr-20061201.490-ui.flm": {
+        "Type": "SN II",
+        "Redshift": "0.01444",
+        "Obs. Date": "2006-12-01",
+        "Program": "LOSS",
+        "Contributor": "Shivvers et al. 2017",
+        "Bibcode": "2017PASP..129e4201S",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-04-05",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "SN06qr_b01_DUP_BC_13dec06.flm": {
+        "Type": "SN II",
+        "Redshift": "0.01444",
+        "Obs. Date": "2006-12-13",
+        "Program": "LOSS",
+        "Contributor": "Shivvers et al. 2017",
+        "Bibcode": "2017PASP..129e4201S",
+        "Instrument": "LCO-duPont - B&C-duPont",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-04-05",
+        "Modified By": "ilanm-UploadSet"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "SN05bb_b01_DUP_WF_07apr05.flm": {
+        "Type": "SN II",
+        "Redshift": "0.00913",
+        "Obs. Date": "2005-04-07",
+        "Program": "LOSS",
+        "Contributor": "Shivvers et al. 2017",
+        "Bibcode": "2017PASP..129e4201S",
+        "Instrument": "LCO-duPont - WFCCD",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-04-05",
+        "Modified By": "ilanm-UploadSet"
+    }
+}

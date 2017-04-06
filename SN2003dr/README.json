@@ -1,0 +1,16 @@
+{
+    "sn2003dr-20030629-brs.flm": {
+        "Type": "SN Ib - Ca-rich",
+        "Redshift": "0.00749",
+        "Obs. Date": "2003-06-29",
+        "Program": "LOSS",
+        "Contributor": "Shivvers et al. 2017",
+        "Bibcode": "2017PASP..129e4201S",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-04-05",
+        "Modified By": "ilanm-UploadSet"
+    }
+}

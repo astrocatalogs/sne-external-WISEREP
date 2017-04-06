@@ -1,0 +1,30 @@
+{
+    "sn2002j-20020211-ui.flm": {
+        "Type": "SN Ic",
+        "Redshift": "0.01249",
+        "Obs. Date": "2002-02-11",
+        "Program": "LOSS",
+        "Contributor": "Shivvers et al. 2017",
+        "Bibcode": "2017PASP..129e4201S",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-04-05",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "sn2002j-20020214-os.flm": {
+        "Type": "SN Ic",
+        "Redshift": "0.01249",
+        "Obs. Date": "2002-02-14",
+        "Program": "LOSS",
+        "Contributor": "Shivvers et al. 2017",
+        "Bibcode": "2017PASP..129e4201S",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-04-05",
+        "Modified By": "ilanm-UploadSet"
+    }
+}

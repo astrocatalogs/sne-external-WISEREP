@@ -1,0 +1,16 @@
+{
+    "2003bk_20030304_E3p6_EFOSC2.flm": {
+        "Type": "SN II",
+        "Redshift": "0.004185",
+        "Obs. Date": "2003-03-04",
+        "Program": "LOSS",
+        "Contributor": "Shivvers et al. 2017",
+        "Bibcode": "2017PASP..129e4201S",
+        "Instrument": "ESO-3.6m - EFOSC2-3.6",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-04-05",
+        "Modified By": "ilanm-UploadSet"
+    }
+}
