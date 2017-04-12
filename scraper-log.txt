@@ -7978,4 +7978,9 @@ Presumably no other duplicate files found for SN2005lr
 Presumably no other duplicate files found for SN2002jz
 2 objects returned for SN2002J
 Presumably no other duplicate files found for SN2002J
-Runtime: 1.5905076265335083 minutes
+Runtime: 1.5905076265335083 minutesPresumably no other duplicate files found for SN2006qr
+Presumably no other duplicate files found for SN2005lr
+Presumably no other duplicate files found for SN2002jz
+2 objects returned for SN2002J
+Presumably no other duplicate files found for SN2002J
+Runtime: 1.5713974595069886 minutes
