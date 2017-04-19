@@ -332,3 +332,4 @@ AT2017chi is a Galaxy
 ATLAS17dcj is a CV
 AT2017cjx is a CV
 AT2017cbg is a Varstar
+M101-OT2015-1 is a ILRT
