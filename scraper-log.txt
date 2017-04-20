@@ -7985,4 +7985,6 @@ Presumably no other duplicate files found for SN2002jz
 Presumably no other duplicate files found for SN2002J
 Runtime: 1.5713974595069886 minutesRuntime: 0.37520169814427695 minutesRuntime: 0.6737907687822978 minutesRuntime: 0.6098968267440796 minutesRuntime: 0.7114936192830403 minutesRemoving duplicate spectrum for SN2017cuh -- tAT2017cuh_20170415_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2017cuh
-Runtime: 0.7490307569503785 minutes
+Runtime: 0.7490307569503785 minutesRemoving duplicate spectrum for SN2017cuh -- tAT2017cuh_20170415_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017cuh
+Runtime: 0.5833888053894043 minutes
