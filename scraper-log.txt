@@ -7989,4 +7989,6 @@ Runtime: 0.7490307569503785 minutesRemoving duplicate spectrum for SN2017cuh -- 
 Presumably no other duplicate files found for SN2017cuh
 Runtime: 0.5833888053894043 minutesRemoving duplicate spectrum for SN2017cuh -- tAT2017cuh_20170415_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2017cuh
-Runtime: 0.6072936614354452 minutes
+Runtime: 0.6072936614354452 minutesRemoving duplicate spectrum for SN2017cuh -- tAT2017cuh_20170415_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017cuh
+Runtime: 0.4365187684694926 minutes
