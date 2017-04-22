@@ -1,0 +1,16 @@
+{
+    "tns_2017dez_2017-04-21_14-37-41_UH88_SNIFS_ATLAS.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.043",
+        "Obs. Date": "2017-04-21",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "UH88 - SNIFS",
+        "Observer": "K. W. Smith, M. Huber, T. Lowe",
+        "Reducer": "M. Huber",
+        "Reduction Status": "final",
+        "Last Modified": "2017-04-21",
+        "Modified By": "upload-TNS"
+    }
+}
