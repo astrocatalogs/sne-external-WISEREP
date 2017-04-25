@@ -1,0 +1,16 @@
+{
+    "tAT2017ddf_20170423_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.075",
+        "Obs. Date": "2017-04-24",
+        "Program": "ePESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "C. Gutierrez, R. Cartier",
+        "Reducer": "R. Cartier, C. Gutierrez",
+        "Reduction Status": "rapid",
+        "Last Modified": "2017-04-24",
+        "Modified By": "ilanm-UploadSet"
+    }
+}

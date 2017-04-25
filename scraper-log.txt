@@ -7997,4 +7997,30 @@ Runtime: 0.6150697390238444 minutesRemoving duplicate spectrum for SN2017cuh -- 
 Presumably no other duplicate files found for SN2017cuh
 Runtime: 0.6275851567586263 minutesRemoving duplicate spectrum for SN2017cuh -- tAT2017cuh_20170415_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2017cuh
-Runtime: 0.6871427297592163 minutes
+Runtime: 0.6871427297592163 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2017cuh -- tAT2017cuh_20170415_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017cuh
+Runtime: 1.1245259960492453 minutesRemoving duplicate spectrum for SN2017cms -- tAT2017cms_20170422_Gr13_Free_slit1.0_1_f.asci
+Removing duplicate spectrum for SN2017cms -- tAT2017cms_gal_20170422_Gr13_Free_slit1.0_1_f.asci
+Not collecting spectra of SN2017cms at this time
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2017cuh -- tAT2017cuh_20170415_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017cuh
+Runtime: 1.9407551606496176 minutesRemoving duplicate spectrum for SN2017cms -- tAT2017cms_20170422_Gr13_Free_slit1.0_1_f.asci
+Removing duplicate spectrum for SN2017cms -- tAT2017cms_gal_20170422_Gr13_Free_slit1.0_1_f.asci
+Not collecting spectra of SN2017cms at this time
+Removing duplicate spectrum for SN2017dfv -- tAT2017dfv_20170421_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017dfv
+Removing duplicate spectrum for SN2017dfu -- tAT2017dfu_20170421_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017dfu
+Removing duplicate spectrum for SN2017dft -- tAT2017dft_20170421_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017dft
+Removing duplicate spectrum for SN2017dfo -- tAT2017dfo_20170421_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017dfo
+Removing duplicate spectrum for SN2017dfn -- tAT2017dfn_20170421_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017dfn
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2017def -- tAT2017def_20170421_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017def
+Removing duplicate spectrum for SN2017dcc -- tAT2017dcc_20170421_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017dcc
+Removing duplicate spectrum for SN2017cuh -- tAT2017cuh_20170415_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017cuh
+Runtime: 2.6176319241523744 minutes
