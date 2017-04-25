@@ -1,0 +1,16 @@
+{
+    "tns_2017dfb_2017-04-22.02_Ekar_AFOSC_Padova-Asiago.dat": {
+        "Type": "SN Ia-91T-like",
+        "Redshift": "0.025955",
+        "Obs. Date": "2017-04-22",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "tomasella",
+        "Reducer": "tomasella",
+        "Reduction Status": "final",
+        "Last Modified": "2017-04-24",
+        "Modified By": "upload-TNS"
+    }
+}
