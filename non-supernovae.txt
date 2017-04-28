@@ -334,3 +334,6 @@ AT2017cjx is a CV
 AT2017cbg is a Varstar
 M101-OT2015-1 is a ILRT
 SN2017dfl is a Varstar
+AT2017jt is a Galaxy
+AT2017dii is a Other
+AT2017dha is a LBV
