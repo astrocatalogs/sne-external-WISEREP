@@ -337,3 +337,5 @@ SN2017dfl is a Varstar
 AT2017jt is a Galaxy
 AT2017dii is a Other
 AT2017dha is a LBV
+AT2017djj is a Other
+SN2017dha is a SN impostor
