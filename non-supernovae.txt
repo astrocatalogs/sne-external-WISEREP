@@ -339,3 +339,8 @@ AT2017dii is a Other
 AT2017dha is a LBV
 AT2017djj is a Other
 SN2017dha is a SN impostor
+AT2017dhx is a Other
+AT2017dka is a Other
+AT2017djk is a Varstar
+AT2017dhf is a Other
+AT2017ddl is a Varstar

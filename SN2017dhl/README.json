@@ -1,8 +1,8 @@
 {
-    "tns_2017dij_2017-04-29_04-38-57_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+    "tns_2017dhl_2017-04-30_01-40-46_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
         "Type": "SN Ia",
-        "Redshift": "0.096",
-        "Obs. Date": "2017-04-29",
+        "Redshift": "0.137",
+        "Obs. Date": "2017-04-30",
         "Program": "",
         "Contributor": "",
         "Bibcode": "",
@@ -10,7 +10,7 @@
         "Observer": "C. Gutierrez, R. Cartier",
         "Reducer": "R. Cartier, C. Gutierrez",
         "Reduction Status": "final",
-        "Last Modified": "2017-04-29",
+        "Last Modified": "2017-04-30",
         "Modified By": "upload-TNS"
     }
 }
