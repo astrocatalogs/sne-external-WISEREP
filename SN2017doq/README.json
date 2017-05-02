@@ -1,14 +1,14 @@
 {
-    "tns_2017dcf_2017-05-01_08-39-55_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+    "tns_2017doq_2017-05-01_06-23-00_SOAR_Goodman.flm": {
         "Type": "SN Ia",
-        "Redshift": "0.06",
+        "Redshift": "0.074",
         "Obs. Date": "2017-05-01",
         "Program": "",
         "Contributor": "",
         "Bibcode": "",
-        "Instrument": "ESO-NTT - EFOSC2-NTT",
-        "Observer": "C. Gutierrez, R. Cartier",
-        "Reducer": "R. Cartier, C. Gutierrez",
+        "Instrument": "SOAR - Goodman",
+        "Observer": "Kilpatrick, C. D.",
+        "Reducer": "Pan, Y.-C.",
         "Reduction Status": "final",
         "Last Modified": "2017-05-01",
         "Modified By": "upload-TNS"
