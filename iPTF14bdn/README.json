@@ -2,7 +2,7 @@
     "iPTF14bdn_140530TM.dat": {
         "Type": "SN Ia",
         "Redshift": "0.01558",
-        "Obs. Date": "2011-05-30",
+        "Obs. Date": "2014-05-30",
         "Program": "",
         "Contributor": "Smitka et al. 2015",
         "Bibcode": "2015ApJ...813...30S",
@@ -10,13 +10,13 @@
         "Observer": "Zhang, Jujia",
         "Reducer": "Zhang, Jujia",
         "Reduction Status": "final",
-        "Last Modified": "2016-02-07",
-        "Modified By": "ilanm-UploadSet"
+        "Last Modified": "2017-05-03",
+        "Modified By": "ilanm"
     },
     "iPTF14bdn_140601TM.dat": {
         "Type": "SN Ia",
         "Redshift": "0.01558",
-        "Obs. Date": "2011-06-01",
+        "Obs. Date": "2014-06-01",
         "Program": "",
         "Contributor": "Smitka et al. 2015",
         "Bibcode": "2015ApJ...813...30S",
@@ -24,13 +24,13 @@
         "Observer": "Zhang, Jujia",
         "Reducer": "Zhang, Jujia",
         "Reduction Status": "final",
-        "Last Modified": "2016-02-07",
-        "Modified By": "ilanm-UploadSet"
+        "Last Modified": "2017-05-03",
+        "Modified By": "ilanm"
     },
     "iPTF14bdn_140603TM.dat": {
         "Type": "SN Ia",
         "Redshift": "0.01558",
-        "Obs. Date": "2011-06-03",
+        "Obs. Date": "2014-06-03",
         "Program": "",
         "Contributor": "Smitka et al. 2015",
         "Bibcode": "2015ApJ...813...30S",
@@ -38,13 +38,13 @@
         "Observer": "Zhang, Jujia",
         "Reducer": "Zhang, Jujia",
         "Reduction Status": "final",
-        "Last Modified": "2016-02-07",
-        "Modified By": "ilanm-UploadSet"
+        "Last Modified": "2017-05-03",
+        "Modified By": "ilanm"
     },
     "sw00033311008ugv_1ord_20140605.dat": {
         "Type": "SN Ia",
         "Redshift": "0.01558",
-        "Obs. Date": "2011-06-05",
+        "Obs. Date": "2014-06-05",
         "Program": "",
         "Contributor": "Smitka et al. 2015",
         "Bibcode": "2015ApJ...813...30S",
@@ -52,13 +52,13 @@
         "Observer": "Smitka",
         "Reducer": "Smitka",
         "Reduction Status": "final",
-        "Last Modified": "2016-02-07",
-        "Modified By": "ilanm-UploadSet"
+        "Last Modified": "2017-05-03",
+        "Modified By": "ilanm"
     },
     "sw00033311012ugu_1ord_20140608.dat": {
         "Type": "SN Ia",
         "Redshift": "0.01558",
-        "Obs. Date": "2011-06-08",
+        "Obs. Date": "2014-06-08",
         "Program": "",
         "Contributor": "Smitka et al. 2015",
         "Bibcode": "2015ApJ...813...30S",
@@ -66,13 +66,13 @@
         "Observer": "Smitka",
         "Reducer": "Smitka",
         "Reduction Status": "final",
-        "Last Modified": "2016-02-07",
-        "Modified By": "ilanm-UploadSet"
+        "Last Modified": "2017-05-03",
+        "Modified By": "ilanm"
     },
     "iPTF14bdn_140609TM.dat": {
         "Type": "SN Ia",
         "Redshift": "0.01558",
-        "Obs. Date": "2011-06-09",
+        "Obs. Date": "2014-06-09",
         "Program": "",
         "Contributor": "Smitka et al. 2015",
         "Bibcode": "2015ApJ...813...30S",
@@ -80,13 +80,13 @@
         "Observer": "Zhang, Jujia",
         "Reducer": "Zhang, Jujia",
         "Reduction Status": "final",
-        "Last Modified": "2016-02-07",
-        "Modified By": "ilanm-UploadSet"
+        "Last Modified": "2017-05-03",
+        "Modified By": "ilanm"
     },
     "sw00033311015ugu_1ord_20140611.dat": {
         "Type": "SN Ia",
         "Redshift": "0.01558",
-        "Obs. Date": "2011-06-11",
+        "Obs. Date": "2014-06-11",
         "Program": "",
         "Contributor": "Smitka et al. 2015",
         "Bibcode": "2015ApJ...813...30S",
@@ -94,13 +94,13 @@
         "Observer": "Smitka",
         "Reducer": "Smitka",
         "Reduction Status": "final",
-        "Last Modified": "2016-02-07",
-        "Modified By": "ilanm-UploadSet"
+        "Last Modified": "2017-05-03",
+        "Modified By": "ilanm"
     },
     "sw00033311021ugu_1ord_20140619.dat": {
         "Type": "SN Ia",
         "Redshift": "0.01558",
-        "Obs. Date": "2011-06-19",
+        "Obs. Date": "2014-06-19",
         "Program": "",
         "Contributor": "Smitka et al. 2015",
         "Bibcode": "2015ApJ...813...30S",
@@ -108,13 +108,13 @@
         "Observer": "Smitka",
         "Reducer": "Smitka",
         "Reduction Status": "final",
-        "Last Modified": "2016-02-07",
-        "Modified By": "ilanm-UploadSet"
+        "Last Modified": "2017-05-03",
+        "Modified By": "ilanm"
     },
     "sw00033311025ugu_1ord_20140623.dat": {
         "Type": "SN Ia",
         "Redshift": "0.01558",
-        "Obs. Date": "2011-06-23",
+        "Obs. Date": "2014-06-23",
         "Program": "",
         "Contributor": "Smitka et al. 2015",
         "Bibcode": "2015ApJ...813...30S",
@@ -122,13 +122,13 @@
         "Observer": "Smitka",
         "Reducer": "Smitka",
         "Reduction Status": "final",
-        "Last Modified": "2016-02-07",
-        "Modified By": "ilanm-UploadSet"
+        "Last Modified": "2017-05-03",
+        "Modified By": "ilanm"
     },
     "iPTF14bdn_140624TM.dat": {
         "Type": "SN Ia",
         "Redshift": "0.01558",
-        "Obs. Date": "2011-06-24",
+        "Obs. Date": "2014-06-24",
         "Program": "",
         "Contributor": "Smitka et al. 2015",
         "Bibcode": "2015ApJ...813...30S",
@@ -136,13 +136,13 @@
         "Observer": "Zhang, Jujia",
         "Reducer": "Zhang, Jujia",
         "Reduction Status": "final",
-        "Last Modified": "2016-02-07",
-        "Modified By": "ilanm-UploadSet"
+        "Last Modified": "2017-05-03",
+        "Modified By": "ilanm"
     },
     "sw00033311029ugv_1ord_20140627.dat": {
         "Type": "SN Ia",
         "Redshift": "0.01558",
-        "Obs. Date": "2011-06-27",
+        "Obs. Date": "2014-06-27",
         "Program": "",
         "Contributor": "Smitka et al. 2015",
         "Bibcode": "2015ApJ...813...30S",
@@ -150,13 +150,13 @@
         "Observer": "Smitka",
         "Reducer": "Smitka",
         "Reduction Status": "final",
-        "Last Modified": "2016-02-07",
-        "Modified By": "ilanm-UploadSet"
+        "Last Modified": "2017-05-03",
+        "Modified By": "ilanm"
     },
     "sw00033311033ugu_1ord_20140702.dat": {
         "Type": "SN Ia",
         "Redshift": "0.01558",
-        "Obs. Date": "2011-07-02",
+        "Obs. Date": "2014-07-02",
         "Program": "",
         "Contributor": "Smitka et al. 2015",
         "Bibcode": "2015ApJ...813...30S",
@@ -164,13 +164,13 @@
         "Observer": "Smitka",
         "Reducer": "Smitka",
         "Reduction Status": "final",
-        "Last Modified": "2016-02-07",
-        "Modified By": "ilanm-UploadSet"
+        "Last Modified": "2017-05-03",
+        "Modified By": "ilanm"
     },
     "iPTF14bdn_140705TM.dat": {
         "Type": "SN Ia",
         "Redshift": "0.01558",
-        "Obs. Date": "2011-07-05",
+        "Obs. Date": "2014-07-05",
         "Program": "",
         "Contributor": "Smitka et al. 2015",
         "Bibcode": "2015ApJ...813...30S",
@@ -178,13 +178,13 @@
         "Observer": "Zhang, Jujia",
         "Reducer": "Zhang, Jujia",
         "Reduction Status": "final",
-        "Last Modified": "2016-02-07",
-        "Modified By": "ilanm-UploadSet"
+        "Last Modified": "2017-05-03",
+        "Modified By": "ilanm"
     },
     "iPTF14bdn_140724.dat": {
         "Type": "SN Ia",
         "Redshift": "0.01558",
-        "Obs. Date": "2011-07-24",
+        "Obs. Date": "2014-07-24",
         "Program": "",
         "Contributor": "Smitka et al. 2015",
         "Bibcode": "2015ApJ...813...30S",
@@ -192,7 +192,7 @@
         "Observer": "Zhang, Jujia",
         "Reducer": "Zhang, Jujia",
         "Reduction Status": "final",
-        "Last Modified": "2016-02-07",
-        "Modified By": "ilanm-UploadSet"
+        "Last Modified": "2017-05-03",
+        "Modified By": "ilanm"
     }
 }
