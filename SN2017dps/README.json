@@ -1,0 +1,16 @@
+{
+    "tns_2017dps_2017-05-02.99_NOT_ALFOSC_NUTS.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.012",
+        "Obs. Date": "2017-05-02",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "NOT - ALFOSC",
+        "Observer": "J. Telting",
+        "Reducer": "N. Elias-Rosa",
+        "Reduction Status": "final",
+        "Last Modified": "2017-05-03",
+        "Modified By": "upload-TNS"
+    }
+}
