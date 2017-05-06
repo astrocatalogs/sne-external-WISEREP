@@ -1,0 +1,16 @@
+{
+    "tns_2017dpu_2017-05-03_23-16-25_LT_SPRAT_ASAS-SN.dat": {
+        "Type": "SN II",
+        "Redshift": "0.018",
+        "Obs. Date": "2017-05-03",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LT - SPRAT",
+        "Observer": "David Bersier",
+        "Reducer": "David Bersier",
+        "Reduction Status": "final",
+        "Last Modified": "2017-05-05",
+        "Modified By": "upload-TNS"
+    }
+}
