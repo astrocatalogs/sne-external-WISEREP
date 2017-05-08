@@ -8652,4 +8652,20 @@ Removing duplicate spectrum for SN2017dhl -- tAT2017dhl_20170429_Gr13_Free_slit1
 Presumably no other duplicate files found for SN2017dhl
 Removing duplicate spectrum for SN2017dhh -- tAT2017dhh_20170429_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2017dhh
-Runtime: 2.284963540236155 minutes
+Runtime: 2.284963540236155 minutesRemoving duplicate spectrum for SN2017djz -- tAT2017djz_20170430_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017djz
+Removing duplicate spectrum for SN2017djt -- tAT2017djt_20170430_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017djt
+Removing duplicate spectrum for SN2017dia -- tAT2017dia_20170430_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017dia
+Removing duplicate spectrum for SN2017dgw -- tAT2017dgw_20170430_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017dgw
+Removing duplicate spectrum for SN2017dgt -- tAT2017dgt_20170430_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017dgt
+Removing duplicate spectrum for SN2017dch -- tAT2017dch_20170430_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017dch
+Removing duplicate spectrum for SN2017dcg -- tAT2017dcg_20170430_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017dcg
+Removing duplicate spectrum for SN2017dcf -- tAT2017dcf_20170430_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017dcf
+Runtime: 1.2902577757835387 minutes
