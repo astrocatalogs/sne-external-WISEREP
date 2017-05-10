@@ -8670,4 +8670,6 @@ Removing duplicate spectrum for SN2017dcf -- tAT2017dcf_20170430_Gr13_Free_slit1
 Presumably no other duplicate files found for SN2017dcf
 Runtime: 1.2902577757835387 minutesFrom statement 3: SN2017dws has no spectra to collect
 From statement 4: SN2017dws has no spectra to collect
-Runtime: 0.49535431067148844 minutes
+Runtime: 0.49535431067148844 minutesFrom statement 3: SN2017dws has no spectra to collect
+From statement 4: SN2017dws has no spectra to collect
+Runtime: 0.4643871227900187 minutes
