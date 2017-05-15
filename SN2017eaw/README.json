@@ -1,0 +1,16 @@
+{
+    "tns_2017eaw_2457888.2939_BAO-2.16m_Cassegrain.txt": {
+        "Type": "SN IIP",
+        "Redshift": "",
+        "Obs. Date": "2017-05-14",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Cassegrain",
+        "Observer": "J. Fu(BNU),F. Xiao(NAOC)",
+        "Reducer": "D. Xiang(THU)",
+        "Reduction Status": "final",
+        "Last Modified": "2017-05-15",
+        "Modified By": "upload-TNS"
+    }
+}
