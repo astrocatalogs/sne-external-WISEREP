@@ -8678,4 +8678,4 @@ Runtime: 0.3543048143386841 minutesFrom statement 3: SN2017dws has no spectra to
 From statement 4: SN2017dws has no spectra to collect
 Runtime: 0.43450525601704915 minutesFrom statement 3: SN2017dws has no spectra to collect
 From statement 4: SN2017dws has no spectra to collect
-Runtime: 0.33217122554779055 minutesRuntime: 0.3750875552495321 minutesRuntime: 0.5051738222440084 minutesRuntime: 0.38069589535395304 minutesRuntime: 0.42158414522806803 minutesRuntime: 0.5275654911994934 minutesRuntime: 0.7476785977681478 minutesRuntime: 0.611752430597941 minutes
+Runtime: 0.33217122554779055 minutesRuntime: 0.3750875552495321 minutesRuntime: 0.5051738222440084 minutesRuntime: 0.38069589535395304 minutesRuntime: 0.42158414522806803 minutesRuntime: 0.5275654911994934 minutesRuntime: 0.7476785977681478 minutesRuntime: 0.611752430597941 minutesRuntime: 0.4041669408480326 minutes
