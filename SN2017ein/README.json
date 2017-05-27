@@ -1,0 +1,16 @@
+{
+    "tns_2017ein_2457900.0677_BAO-2.16m_Cassegrain.txt": {
+        "Type": "SN Ic",
+        "Redshift": "0.0027",
+        "Obs. Date": "2017-05-26",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Cassegrain",
+        "Observer": "H. Song(THU),F. Xiao(NAOC)",
+        "Reducer": "D. Xiang(THU)",
+        "Reduction Status": "final",
+        "Last Modified": "2017-05-26",
+        "Modified By": "upload-TNS"
+    }
+}
