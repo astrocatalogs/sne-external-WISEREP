@@ -344,3 +344,5 @@ AT2017dka is a Other
 AT2017djk is a Varstar
 AT2017dhf is a Other
 AT2017ddl is a Varstar
+ATLAS17fqe is a Varstar
+ATLAS17ftx is a Varstar
