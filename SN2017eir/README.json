@@ -1,16 +1,16 @@
 {
-    "tAT2017eir_20170601_Gr13_Free_slit1.0_1_f.asci": {
+    "tns_2017eir_2017-06-02_08-57-12_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
         "Type": "SN Ia",
         "Redshift": "0.087",
         "Obs. Date": "2017-06-02",
-        "Program": "ePESSTO",
+        "Program": "",
         "Contributor": "",
         "Bibcode": "",
         "Instrument": "ESO-NTT - EFOSC2-NTT",
-        "Observer": "Pignata/Wang",
-        "Reducer": "Galbany",
-        "Reduction Status": "rapid",
-        "Last Modified": "2017-06-02",
-        "Modified By": "ilanm-UploadSet"
+        "Observer": "G. Pignata, L. Wang",
+        "Reducer": "L. Galbany",
+        "Reduction Status": "final",
+        "Last Modified": "2017-06-03",
+        "Modified By": "upload-TNS"
     }
 }
