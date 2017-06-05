@@ -1,0 +1,16 @@
+{
+    "SN2006my_2007-02-14_lris_1.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.00276",
+        "Obs. Date": "2007-02-14",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Alex Filippenko, Ryan Foley, Jeffrey Silverman, Ryan Chornock",
+        "Reducer": "Ryan Chornock",
+        "Reduction Status": "final",
+        "Last Modified": "2017-06-05",
+        "Modified By": "ofer-UploadSet"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "SN1992ad_1993-02-12_kast_1.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.00424",
+        "Obs. Date": "1993-02-12",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Alex Filippenko, Thomas Matheson",
+        "Reducer": "Luis Ho",
+        "Reduction Status": "final",
+        "Last Modified": "2017-06-05",
+        "Modified By": "ofer-UploadSet"
+    },
+    "SN1992ad_1993-04-14_kast_2.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.00424",
+        "Obs. Date": "1993-04-14",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Alex Filippenko, Thomas Matheson",
+        "Reducer": "Thomas Matheson",
+        "Reduction Status": "final",
+        "Last Modified": "2017-06-05",
+        "Modified By": "ofer-UploadSet"
+    }
+}

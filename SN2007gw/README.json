@@ -1,0 +1,16 @@
+{
+    "SN2007gw_2008-02-29_kast_1.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.0163",
+        "Obs. Date": "2008-02-29",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Lee, Jeffrey Silverman, Thea Steele, Mohan Ganeshalingam",
+        "Reducer": "Thea Steele",
+        "Reduction Status": "final",
+        "Last Modified": "2017-06-05",
+        "Modified By": "ofer-UploadSet"
+    }
+}

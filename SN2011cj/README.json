@@ -1,0 +1,16 @@
+{
+    "SN2011cj_2011-12-24_kast_1.ascii": {
+        "Type": "SN IIP",
+        "Redshift": "0.0074",
+        "Obs. Date": "2011-12-24",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Jeffrey Silverman",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2017-06-05",
+        "Modified By": "ofer-UploadSet"
+    }
+}

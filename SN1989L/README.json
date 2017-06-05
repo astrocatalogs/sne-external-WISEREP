@@ -1,0 +1,16 @@
+{
+    "SN1989L_1989-12-01_uv_schmidt_1.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.00438",
+        "Obs. Date": "1989-12-01",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - UV Schmidt",
+        "Observer": "Alex Filippenko, Joe Shields",
+        "Reducer": "Thomas Matheson",
+        "Reduction Status": "final",
+        "Last Modified": "2017-06-05",
+        "Modified By": "ofer-UploadSet"
+    }
+}

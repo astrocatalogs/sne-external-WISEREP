@@ -1,14 +1,14 @@
 {
-    "tns_2017ehf_2017-06-03_04-02-52_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+    "tns_2017ekr_2457908.2620_BAO-2.16m_Cassegrain.txt": {
         "Type": "SN Ia",
-        "Redshift": "0.055",
+        "Redshift": "",
         "Obs. Date": "2017-06-03",
         "Program": "",
         "Contributor": "",
         "Bibcode": "",
-        "Instrument": "ESO-NTT - EFOSC2-NTT",
-        "Observer": "Wang, Pignata",
-        "Reducer": "Galbany",
+        "Instrument": "BAO-2.16m - Cassegrain",
+        "Observer": "Y. Yang(HNU), S. Liu(NAOC)",
+        "Reducer": "D. Xiang(THU)",
         "Reduction Status": "final",
         "Last Modified": "2017-06-04",
         "Modified By": "upload-TNS"

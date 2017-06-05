@@ -1,0 +1,16 @@
+{
+    "SN1993K_1994-01-07_kast_1.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.00908",
+        "Obs. Date": "1994-01-07",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Alex Filippenko, Thomas Matheson",
+        "Reducer": "Thomas Matheson",
+        "Reduction Status": "final",
+        "Last Modified": "2017-06-05",
+        "Modified By": "ofer-UploadSet"
+    }
+}

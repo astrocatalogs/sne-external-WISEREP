@@ -1,0 +1,30 @@
+{
+    "SN2009ls_2010-03-15_kast_1.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.0034",
+        "Obs. Date": "2010-03-15",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Brad Cenko, Cobb, Io Kleiser",
+        "Reducer": "Io Kleiser",
+        "Reduction Status": "final",
+        "Last Modified": "2017-06-05",
+        "Modified By": "ofer-UploadSet"
+    },
+    "SN2009ls_2010-05-07_kast_2.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.0034",
+        "Obs. Date": "2010-05-07",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Jeffrey Silverman, Kandrashoff",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2017-06-05",
+        "Modified By": "ofer-UploadSet"
+    }
+}

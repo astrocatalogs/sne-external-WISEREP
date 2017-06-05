@@ -1,0 +1,44 @@
+{
+    "SN2008ij_2009-04-18_kast_1.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.0049",
+        "Obs. Date": "2009-04-18",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Griffith, Brad Cenko",
+        "Reducer": "Thea Steele",
+        "Reduction Status": "final",
+        "Last Modified": "2017-06-05",
+        "Modified By": "ofer-UploadSet"
+    },
+    "SN2008ij_2009-05-18_kast_2.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.0049",
+        "Obs. Date": "2009-05-18",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Steele, Thea Cobb",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2017-06-05",
+        "Modified By": "ofer-UploadSet"
+    },
+    "SN2008ij_2009-06-24_kast_3.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.0049",
+        "Obs. Date": "2009-06-24",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Io Kleiser, Kong, Jeffrey Silverman",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2017-06-05",
+        "Modified By": "ofer-UploadSet"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "SN2011fd_2011-11-26_kast_1.ascii": {
+        "Type": "SN IIP",
+        "Redshift": "0.007",
+        "Obs. Date": "2011-11-26",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Kelsey Clubb, Jeffrey Silverman",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2017-06-05",
+        "Modified By": "ofer-UploadSet"
+    },
+    "SN2011fd_2012-02-23_kast_2.ascii": {
+        "Type": "SN IIP",
+        "Redshift": "0.007",
+        "Obs. Date": "2012-02-23",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Jeffrey Silverman",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2017-06-05",
+        "Modified By": "ofer-UploadSet"
+    }
+}
