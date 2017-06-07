@@ -8716,4 +8716,56 @@ Removing duplicate spectrum for SN2017ehp -- tAT2017ehp_20170601_Gr13_Free_slit1
 Presumably no other duplicate files found for SN2017ehp
 Removing duplicate spectrum for SN2017eca -- tAT2017eca_20170601_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2017eca
-Runtime: 3.0536743283271788 minutes
+Runtime: 3.0536743283271788 minutesPresumably no other duplicate files found for SN2011fd
+Presumably no other duplicate files found for SN1992ad
+Presumably no other duplicate files found for SN2008ij
+Presumably no other duplicate files found for SN2009ls
+Removing duplicate spectrum for SN2017ele -- tAT2017ele_20170603_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ele
+Removing duplicate spectrum for SN2017ekl -- tAT2017ekl_20170603_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ekl
+Removing duplicate spectrum for SN2017ehf -- tAT2017ehf_20170602_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ehf
+Removing duplicate spectrum for SN2017eef -- tAT2017eef_20170602_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017eef
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2017eje -- tAT2017eje_20170601_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017eje
+Removing duplicate spectrum for SN2017ejy -- tAT2017ejy_20170601_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ejy
+Removing duplicate spectrum for SN2017ejw -- tAT2017ejw_20170601_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ejw
+Removing duplicate spectrum for SN2017eiy -- tAT2017eiy_20170601_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017eiy
+Removing duplicate spectrum for SN2017eir -- tAT2017eir_20170601_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017eir
+Removing duplicate spectrum for SN2017ehp -- tAT2017ehp_20170601_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ehp
+Removing duplicate spectrum for SN2017eca -- tAT2017eca_20170601_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017eca
+Runtime: 2.8739450573921204 minutesPresumably no other duplicate files found for SN2011fd
+Presumably no other duplicate files found for SN1992ad
+Presumably no other duplicate files found for SN2008ij
+Presumably no other duplicate files found for SN2009ls
+Removing duplicate spectrum for SN2017ele -- tAT2017ele_20170603_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ele
+Removing duplicate spectrum for SN2017ekl -- tAT2017ekl_20170603_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ekl
+Removing duplicate spectrum for SN2017ehf -- tAT2017ehf_20170602_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ehf
+Removing duplicate spectrum for SN2017eef -- tAT2017eef_20170602_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017eef
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2017eje -- tAT2017eje_20170601_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017eje
+Removing duplicate spectrum for SN2017ejy -- tAT2017ejy_20170601_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ejy
+Removing duplicate spectrum for SN2017ejw -- tAT2017ejw_20170601_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ejw
+Removing duplicate spectrum for SN2017eiy -- tAT2017eiy_20170601_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017eiy
+Removing duplicate spectrum for SN2017eir -- tAT2017eir_20170601_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017eir
+Removing duplicate spectrum for SN2017ehp -- tAT2017ehp_20170601_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ehp
+Removing duplicate spectrum for SN2017eca -- tAT2017eca_20170601_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017eca
+Runtime: 2.5944666028022767 minutes
