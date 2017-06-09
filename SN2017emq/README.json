@@ -1,0 +1,16 @@
+{
+    "tns_2017emq_2457912.0409_BAO-2.16m_Cassegrain.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.005247",
+        "Obs. Date": "2017-06-07",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Cassegrain",
+        "Observer": "H. Yuan(NAOC), F. Xiao(NAOC)",
+        "Reducer": "D. Xiang(THU)",
+        "Reduction Status": "final",
+        "Last Modified": "2017-06-08",
+        "Modified By": "upload-TNS"
+    }
+}
