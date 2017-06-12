@@ -8832,4 +8832,14 @@ Removing duplicate spectrum for SN2017ehf -- tAT2017ehf_20170602_Gr13_Free_slit1
 Presumably no other duplicate files found for SN2017ehf
 Removing duplicate spectrum for SN2017eef -- tAT2017eef_20170602_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2017eef
-Runtime: 1.7538006067276002 minutes
+Runtime: 1.7538006067276002 minutesPresumably no other duplicate files found for SN2011fd
+Presumably no other duplicate files found for SN1992ad
+Presumably no other duplicate files found for SN2008ij
+Presumably no other duplicate files found for SN2009ls
+Removing duplicate spectrum for SN2017ele -- tAT2017ele_20170603_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ele
+Runtime: 1.4511760234832765 minutesPresumably no other duplicate files found for SN2011fd
+Presumably no other duplicate files found for SN1992ad
+Presumably no other duplicate files found for SN2008ij
+Presumably no other duplicate files found for SN2009ls
+Runtime: 1.6177201787630717 minutes
