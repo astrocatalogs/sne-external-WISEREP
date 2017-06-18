@@ -8842,4 +8842,4 @@ Runtime: 1.4511760234832765 minutesPresumably no other duplicate files found for
 Presumably no other duplicate files found for SN1992ad
 Presumably no other duplicate files found for SN2008ij
 Presumably no other duplicate files found for SN2009ls
-Runtime: 1.6177201787630717 minutesRuntime: 0.41653556426366173 minutesRuntime: 1.0166133999824525 minutesRuntime: 0.3840927044550578 minutesRuntime: 0.3803883155186971 minutesRuntime: 0.3973896861076355 minutes
+Runtime: 1.6177201787630717 minutesRuntime: 0.41653556426366173 minutesRuntime: 1.0166133999824525 minutesRuntime: 0.3840927044550578 minutesRuntime: 0.3803883155186971 minutesRuntime: 0.3973896861076355 minutesRuntime: 0.2821386535962423 minutes
