@@ -1,0 +1,16 @@
+{
+    "PISN_He130_400d.dat": {
+        "Type": "SLSN-R",
+        "Redshift": "",
+        "Obs. Date": "2016-01-01",
+        "Program": "Jerkstrand",
+        "Contributor": "Jerkstrand et al. 2016",
+        "Bibcode": "2016MNRAS.455.3207J",
+        "Instrument": "Other - Other",
+        "Observer": "Computed",
+        "Reducer": "Computed",
+        "Reduction Status": "final",
+        "Last Modified": "2017-06-27",
+        "Modified By": "admin-UploadSet"
+    }
+}
