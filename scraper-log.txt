@@ -8845,4 +8845,5 @@ Presumably no other duplicate files found for SN2009ls
 Runtime: 1.6177201787630717 minutesRuntime: 0.41653556426366173 minutesRuntime: 1.0166133999824525 minutesRuntime: 0.3840927044550578 minutesRuntime: 0.3803883155186971 minutesRuntime: 0.3973896861076355 minutesRuntime: 0.2821386535962423 minutesRuntime: 0.430896532535553 minutesRuntime: 0.407186492284139 minutesRuntime: 0.4995320995648702 minutesRuntime: 0.3982096870740255 minutesRuntime: 0.40302546819051105 minutesRuntime: 0.3634264826774597 minutesRemoving duplicate spectrum for PISN_Jerkstrand -- PISN_He100_400d.dat
 Runtime: 0.4649758696556091 minutesRemoving duplicate spectrum for PISN_Jerkstrand -- PISN_He100_400d.dat
 Runtime: 0.4160233656565348 minutesRemoving duplicate spectrum for PISN_Jerkstrand -- PISN_He100_400d.dat
-Runtime: 0.4366471767425537 minutes
+Runtime: 0.4366471767425537 minutesRemoving duplicate spectrum for PISN_Jerkstrand -- PISN_He100_400d.dat
+Runtime: 0.43870750268300374 minutes
