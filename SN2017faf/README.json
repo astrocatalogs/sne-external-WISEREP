@@ -1,0 +1,30 @@
+{
+    "tns_2017faf_2017-06-30_07-42-39_Other_Other.flm": {
+        "Type": "SLSN-I",
+        "Redshift": "0.029",
+        "Obs. Date": "2017-06-30",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "Kilpatrick",
+        "Reducer": "Pan",
+        "Reduction Status": "final",
+        "Last Modified": "2017-07-01",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2017faf_2017-06-30_07-42-39_Mayall_RC_Spec.flm": {
+        "Type": "SLSN-I",
+        "Redshift": "0.029",
+        "Obs. Date": "2017-06-30",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Mayall - RC Spec",
+        "Observer": "M. R. Siebert and C. D. Kilpatrick",
+        "Reducer": "Yen-Chen Pan",
+        "Reduction Status": "final",
+        "Last Modified": "2017-07-04",
+        "Modified By": "upload-TNS"
+    }
+}

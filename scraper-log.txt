@@ -8846,4 +8846,23 @@ Runtime: 1.6177201787630717 minutesRuntime: 0.41653556426366173 minutesRuntime: 
 Runtime: 0.4649758696556091 minutesRemoving duplicate spectrum for PISN_Jerkstrand -- PISN_He100_400d.dat
 Runtime: 0.4160233656565348 minutesRemoving duplicate spectrum for PISN_Jerkstrand -- PISN_He100_400d.dat
 Runtime: 0.4366471767425537 minutesRemoving duplicate spectrum for PISN_Jerkstrand -- PISN_He100_400d.dat
-Runtime: 0.43870750268300374 minutes
+Runtime: 0.43870750268300374 minutesRemoving duplicate spectrum for PISN_Jerkstrand -- PISN_He100_400d.dat
+Runtime: 0.3310860633850098 minutesRemoving duplicate spectrum for PISN_Jerkstrand -- PISN_He100_400d.dat
+Runtime: 0.49229499499003093 minutesRemoving duplicate spectrum for PISN_Jerkstrand -- PISN_He100_400d.dat
+Runtime: 0.8435173153877258 minutesNot collecting spectra of SN2017fbh at this time
+Removing duplicate spectrum for PISN_Jerkstrand -- PISN_He100_400d.dat
+Runtime: 1.0891876220703125 minutesNot collecting spectra of SN2017fbh at this time
+Presumably no other duplicate files found for SN2017faf
+Runtime: 0.4240194042523702 minutesNot collecting spectra of SN2017fbh at this time
+Presumably no other duplicate files found for SN2017faf
+Runtime: 0.49538731972376504 minutesPresumably no other duplicate files found for PS1-10bzj
+Presumably no other duplicate files found for PS1-14bj
+Not collecting spectra of SN2017fbh at this time
+Runtime: 0.7906323075294495 minutesPresumably no other duplicate files found for PS1-10bzj
+Presumably no other duplicate files found for PS1-14bj
+Not collecting spectra of SN2017fbh at this time
+Runtime: 0.9484302163124084 minutesPresumably no other duplicate files found for PS1-10bzj
+Presumably no other duplicate files found for PS1-14bj
+Runtime: 1.0009280681610107 minutesPresumably no other duplicate files found for PS1-10bzj
+Presumably no other duplicate files found for PS1-14bj
+Runtime: 0.9180360555648803 minutes

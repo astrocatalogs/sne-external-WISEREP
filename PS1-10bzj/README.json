@@ -1,0 +1,58 @@
+{
+    "PS1-2010-L-110405-20110113-ldss+error.flm": {
+        "Type": "SLSN-I",
+        "Redshift": "0.65",
+        "Obs. Date": "2011-01-13",
+        "Program": "",
+        "Contributor": "Lunnan et al. 2013",
+        "Bibcode": "2013ApJ...771...97L",
+        "Instrument": "Magellan-Clay - LDSS-3",
+        "Observer": "Unknown",
+        "Reducer": "Chornock",
+        "Reduction Status": "final",
+        "Last Modified": "2017-07-06",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "PS1-2010-L-110405-20110125-gmos+error.flm": {
+        "Type": "SLSN-I",
+        "Redshift": "0.65",
+        "Obs. Date": "2011-01-25",
+        "Program": "",
+        "Contributor": "Lunnan et al. 2013",
+        "Bibcode": "2013ApJ...771...97L",
+        "Instrument": "Gemini-S - GMOS-S",
+        "Observer": "Unknown",
+        "Reducer": "Chornock",
+        "Reduction Status": "final",
+        "Last Modified": "2017-07-06",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "PS1-2010-L-110405-20110128-gmos+error.flm": {
+        "Type": "SLSN-I",
+        "Redshift": "0.65",
+        "Obs. Date": "2011-01-28",
+        "Program": "",
+        "Contributor": "Lunnan et al. 2013",
+        "Bibcode": "2013ApJ...771...97L",
+        "Instrument": "Gemini-S - GMOS-S",
+        "Observer": "Unknown",
+        "Reducer": "Chornock",
+        "Reduction Status": "final",
+        "Last Modified": "2017-07-06",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "PS1-2010-L-110405-20110402-03-gmos+error.flm": {
+        "Type": "SLSN-I",
+        "Redshift": "0.65",
+        "Obs. Date": "2011-04-02",
+        "Program": "",
+        "Contributor": "Lunnan et al. 2013",
+        "Bibcode": "2013ApJ...771...97L",
+        "Instrument": "Gemini-S - GMOS-S",
+        "Observer": "Unknown",
+        "Reducer": "Chornock",
+        "Reduction Status": "final",
+        "Last Modified": "2017-07-06",
+        "Modified By": "ilanm-UploadSet"
+    }
+}
