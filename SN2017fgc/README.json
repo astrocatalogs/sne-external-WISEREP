@@ -1,0 +1,16 @@
+{
+    "tns_2017fgc_2017-07-11_12-49-48_FTN_FLOYDS-N_Global_SN_Project.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.008",
+        "Obs. Date": "2017-07-11",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "FTN - FLOYDS-N",
+        "Observer": "Las Cumbres Observatory",
+        "Reducer": "Stefano Valenti",
+        "Reduction Status": "final",
+        "Last Modified": "2017-07-11",
+        "Modified By": "upload-TNS"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "tns_2014ey_2014-05-04_08-57-34_P200_DBSP_iPTF.ascii": {
+        "Type": "SN Ia-02cx-like",
+        "Redshift": "0.03197",
+        "Obs. Date": "2014-05-04",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P200 - DBSP",
+        "Observer": "Adam Waszczak",
+        "Reducer": "Paul Vreeswijk",
+        "Reduction Status": "final",
+        "Last Modified": "2017-07-12",
+        "Modified By": "upload-TNS"
+    }
+}
