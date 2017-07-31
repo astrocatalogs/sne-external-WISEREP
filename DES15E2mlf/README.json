@@ -1,0 +1,44 @@
+{
+    "des15e2mlf-20151206-gmos.flm": {
+        "Type": "SLSN-I",
+        "Redshift": "1.861",
+        "Obs. Date": "2015-12-06",
+        "Program": "",
+        "Contributor": "Pan et al. 2017",
+        "Bibcode": "2017arXiv170706649P",
+        "Instrument": "Gemini-S - GMOS-S",
+        "Observer": "R. Carrasco",
+        "Reducer": "Yen-Chen Pan",
+        "Reduction Status": "final",
+        "Last Modified": "2017-07-30",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "des15e2mlf-20151215-gmos.flm": {
+        "Type": "SLSN-I",
+        "Redshift": "1.861",
+        "Obs. Date": "2015-12-15",
+        "Program": "",
+        "Contributor": "Pan et al. 2017",
+        "Bibcode": "2017arXiv170706649P",
+        "Instrument": "Gemini-S - GMOS-S",
+        "Observer": "A. Shugart, M. Schirmer",
+        "Reducer": "Yen-Chen Pan",
+        "Reduction Status": "final",
+        "Last Modified": "2017-07-30",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "des15e2mlf-20160114-gmos.flm": {
+        "Type": "SLSN-I",
+        "Redshift": "1.861",
+        "Obs. Date": "2016-01-14",
+        "Program": "",
+        "Contributor": "Pan et al. 2017",
+        "Bibcode": "2017arXiv170706649P",
+        "Instrument": "Gemini-S - GMOS-S",
+        "Observer": "R. Carrasco",
+        "Reducer": "Yen-Chen Pan",
+        "Reduction Status": "final",
+        "Last Modified": "2017-07-30",
+        "Modified By": "ilanm-UploadSet"
+    }
+}
