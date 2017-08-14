@@ -1,0 +1,16 @@
+{
+    "tns_2017gah_2017-08-13_13-32-04_FTS_FLOYDS-S_Global_SN_Project.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.0089",
+        "Obs. Date": "2017-08-13",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "FTS - FLOYDS-S",
+        "Observer": "Las Cumbres Observatory",
+        "Reducer": "Griffin Hosseinzadeh",
+        "Reduction Status": "final",
+        "Last Modified": "2017-08-14",
+        "Modified By": "upload-TNS"
+    }
+}
