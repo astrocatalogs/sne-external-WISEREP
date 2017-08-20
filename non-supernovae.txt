@@ -356,3 +356,6 @@ AT2017gdu is a Galaxy
 PS17ebh is a Other
 AT2017gdv is a AGN
 AT2017gci is a Galaxy
+PS17edj is a AGN
+AT2017gex is a Other
+AT2017gda is a Other
