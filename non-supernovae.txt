@@ -359,3 +359,7 @@ AT2017gci is a Galaxy
 PS17edj is a AGN
 AT2017gex is a Other
 AT2017gda is a Other
+SMT17scn is a Other
+AT2017gfk is a CV
+AT2017gcj is a CV
+AT2017gff is a AGN
