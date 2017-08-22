@@ -1,16 +1,16 @@
 {
-    "tAT2017gcy_20170818_Gr13_Free_slit1.0_1_f.asci": {
+    "tns_2017gcy_2017-08-19_05-04-55_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
         "Type": "SN Ia",
         "Redshift": "0.061",
         "Obs. Date": "2017-08-19",
-        "Program": "ePESSTO",
+        "Program": "",
         "Contributor": "",
         "Bibcode": "",
         "Instrument": "ESO-NTT - EFOSC2-NTT",
         "Observer": "Joe Lyman, David Homan",
         "Reducer": "Kate Maguire",
-        "Reduction Status": "rapid",
-        "Last Modified": "2017-08-19",
-        "Modified By": "ilanm-UploadSet"
+        "Reduction Status": "final",
+        "Last Modified": "2017-08-20",
+        "Modified By": "upload-TNS"
     }
 }
