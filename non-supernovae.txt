@@ -363,3 +363,4 @@ SMT17scn is a Other
 AT2017gfk is a CV
 AT2017gcj is a CV
 AT2017gff is a AGN
+PS17ebg is a Galaxy

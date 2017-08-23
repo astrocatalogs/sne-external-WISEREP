@@ -1,14 +1,14 @@
 {
-    "tns_2017gbv_2017-08-20_04-57-16_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
-        "Type": "SN Ic",
-        "Redshift": "0.042",
-        "Obs. Date": "2017-08-20",
+    "tns_2017gfg_2017-08-21_02-02-15_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.1",
+        "Obs. Date": "2017-08-21",
         "Program": "",
         "Contributor": "",
         "Bibcode": "",
         "Instrument": "ESO-NTT - EFOSC2-NTT",
         "Observer": "Joe Lyman, David Homan",
-        "Reducer": "Kate Maguire",
+        "Reducer": "Giorgos Leloudas",
         "Reduction Status": "final",
         "Last Modified": "2017-08-21",
         "Modified By": "upload-TNS"
