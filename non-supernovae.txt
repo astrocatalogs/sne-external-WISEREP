@@ -364,3 +364,7 @@ AT2017gfk is a CV
 AT2017gcj is a CV
 AT2017gff is a AGN
 PS17ebg is a Galaxy
+AT2017ggh is a AGN
+ATLAS17jqo is a CV
+ATLAS17jqk is a CV
+ATLAS17jqb is a CV

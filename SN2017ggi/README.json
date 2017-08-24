@@ -1,0 +1,16 @@
+{
+    "tPS17ecn_20170821_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN Ib",
+        "Redshift": "0.039",
+        "Obs. Date": "2017-08-22",
+        "Program": "ePESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Joe Lyman, David Homan",
+        "Reducer": "Giorgos Leloudas",
+        "Reduction Status": "rapid",
+        "Last Modified": "2017-08-22",
+        "Modified By": "ilanm-UploadSet"
+    }
+}
