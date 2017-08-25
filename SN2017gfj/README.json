@@ -1,14 +1,14 @@
 {
-    "tns_2017ggg_2017-08-22_08-45-21_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+    "tns_2017gfj_2017-08-22.70_LJT_YFOSC.dat": {
         "Type": "SN Ia",
-        "Redshift": "0.11",
+        "Redshift": "0.072",
         "Obs. Date": "2017-08-22",
         "Program": "",
         "Contributor": "",
         "Bibcode": "",
-        "Instrument": "ESO-NTT - EFOSC2-NTT",
-        "Observer": "Joe Lyman, David Homan",
-        "Reducer": "Giorgos Leloudas",
+        "Instrument": "LJT - YFOSC",
+        "Observer": "Jujia Zhang",
+        "Reducer": "",
         "Reduction Status": "final",
         "Last Modified": "2017-08-23",
         "Modified By": "upload-TNS"
