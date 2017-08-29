@@ -368,3 +368,5 @@ AT2017ggh is a AGN
 ATLAS17jqo is a CV
 ATLAS17jqk is a CV
 ATLAS17jqb is a CV
+ATLAS17jsb is a AGN
+ATLAS17jlp is a Other
