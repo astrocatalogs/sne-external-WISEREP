@@ -9220,4 +9220,8 @@ Removing duplicate spectrum for SN2017gbo -- tAT2017gbo_20170820_Gr13_Free_slit1
 Presumably no other duplicate files found for SN2017gbo
 Removing duplicate spectrum for SN2017gbb -- tAT2017gbb_20170820_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2017gbb
-Runtime: 1.599006982644399 minutes
+Runtime: 1.599006982644399 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2017ggi -- tPS17ecn_20170821_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ggi
+Removing duplicate spectrum for SN2017ggg -- tPS17ebj_20170821_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ggg
+Runtime: 1.0743685166041057 minutes
