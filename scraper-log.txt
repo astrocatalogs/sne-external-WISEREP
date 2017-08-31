@@ -9224,4 +9224,12 @@ Runtime: 1.599006982644399 minutesType not specified by WISeREP.Check the Open S
 Presumably no other duplicate files found for SN2017ggi
 Removing duplicate spectrum for SN2017ggg -- tPS17ebj_20170821_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2017ggg
-Runtime: 1.0743685166041057 minutes
+Runtime: 1.0743685166041057 minutesRemoving duplicate spectrum for SN2017gir -- tATLAS17jsb_20170827_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017gir
+Removing duplicate spectrum for SN2017giu -- tATLAS17jrl_20170827_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017giu
+Removing duplicate spectrum for SN2017git -- tATLAS17jnr_20170827_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017git
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2017ggw -- tAT2017ggw_20170827_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ggw
+Runtime: 1.5973861813545227 minutes

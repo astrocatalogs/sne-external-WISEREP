@@ -370,3 +370,7 @@ ATLAS17jqk is a CV
 ATLAS17jqb is a CV
 ATLAS17jsb is a AGN
 ATLAS17jlp is a Other
+AT2017gjb is a Galaxy
+AT2017gjc is a Galaxy
+OGLE17nif is a Varstar
+AT2017gih is a Other
