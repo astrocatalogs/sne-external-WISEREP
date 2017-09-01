@@ -1,16 +1,16 @@
 {
-    "tATLAS17jxe_20170828_Gr13_Free_slit1.5_1_f.asci": {
+    "tns_2017gin_2017-08-29_09-12-16_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
         "Type": "SN Ia",
         "Redshift": "0.057",
         "Obs. Date": "2017-08-29",
-        "Program": "ePESSTO",
+        "Program": "",
         "Contributor": "",
         "Bibcode": "",
         "Instrument": "ESO-NTT - EFOSC2-NTT",
         "Observer": "Lyman, Homan",
         "Reducer": "Lyman",
-        "Reduction Status": "rapid",
-        "Last Modified": "2017-08-29",
-        "Modified By": "ilanm-UploadSet"
+        "Reduction Status": "final",
+        "Last Modified": "2017-08-30",
+        "Modified By": "upload-TNS"
     }
 }

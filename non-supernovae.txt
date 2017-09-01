@@ -374,3 +374,5 @@ AT2017gjb is a Galaxy
 AT2017gjc is a Galaxy
 OGLE17nif is a Varstar
 AT2017gih is a Other
+AT2017ghc is a Other
+AT2017gie is a Other

@@ -1,14 +1,14 @@
 {
-    "tns_2017ggl_2017-08-29_07-09-41_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
-        "Type": "SN Ia-91T-like",
-        "Redshift": "0.063",
-        "Obs. Date": "2017-08-29",
+    "tns_2017ghl_2017-08-30_03-02-38_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.114",
+        "Obs. Date": "2017-08-30",
         "Program": "",
         "Contributor": "",
         "Bibcode": "",
         "Instrument": "ESO-NTT - EFOSC2-NTT",
-        "Observer": "Lyman, Homan",
-        "Reducer": "Lyman",
+        "Observer": "Lyman,Homan",
+        "Reducer": "Galbany",
         "Reduction Status": "final",
         "Last Modified": "2017-08-30",
         "Modified By": "upload-TNS"
