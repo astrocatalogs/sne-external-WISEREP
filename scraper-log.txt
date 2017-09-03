@@ -9282,4 +9282,30 @@ Removing duplicate spectrum for SN2017git -- tATLAS17jnr_20170827_Gr13_Free_slit
 Presumably no other duplicate files found for SN2017git
 Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2017ggw -- tAT2017ggw_20170827_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2017ggw
-Runtime: 1.7091607491175334 minutes
+Runtime: 1.7091607491175334 minutesRemoving duplicate spectrum for SN2017gjd -- tAT2017gjd_20170830_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017gjd
+Removing duplicate spectrum for SN2017ghl -- tATLAS17jua_20170829_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ghl
+Removing duplicate spectrum for SN2017gin -- tATLAS17jxe_20170828_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017gin
+Removing duplicate spectrum for SN2017gil -- tATLAS17jxd_20170828_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017gil
+Removing duplicate spectrum for SN2017ggl -- tATLAS17jsk_20170828_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017ggl
+Removing duplicate spectrum for SN2017gip -- tAT2017gip_20170828_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017gip
+Removing duplicate spectrum for SN2017gig -- tAT2017gig_20170828_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017gig
+Removing duplicate spectrum for SN2017ghw -- tAT2017ghw_20170828_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017ghw
+Removing duplicate spectrum for SN2017ggv -- tAT2017ggv_20170828_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017ggv
+Removing duplicate spectrum for SN2017gir -- tATLAS17jsb_20170827_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017gir
+Removing duplicate spectrum for SN2017giu -- tATLAS17jrl_20170827_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017giu
+Removing duplicate spectrum for SN2017git -- tATLAS17jnr_20170827_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017git
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for SN2017ggw -- tAT2017ggw_20170827_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ggw
+Runtime: 1.6650152365366617 minutes
