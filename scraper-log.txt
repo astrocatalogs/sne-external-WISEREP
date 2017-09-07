@@ -9378,4 +9378,8 @@ Removing duplicate spectrum for SN2017ghw -- tAT2017ghw_20170828_Gr13_Free_slit1
 Presumably no other duplicate files found for SN2017ghw
 Removing duplicate spectrum for SN2017ggv -- tAT2017ggv_20170828_Gr13_Free_slit1.5_1_f.asci
 Presumably no other duplicate files found for SN2017ggv
-Runtime: 1.2577038725217184 minutes
+Runtime: 1.2577038725217184 minutesRemoving duplicate spectrum for SN2017gjd -- tAT2017gjd_20170830_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017gjd
+Removing duplicate spectrum for SN2017ghl -- tATLAS17jua_20170829_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ghl
+Runtime: 0.8304187178611755 minutes
