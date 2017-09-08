@@ -9382,4 +9382,6 @@ Runtime: 1.2577038725217184 minutesRemoving duplicate spectrum for SN2017gjd -- 
 Presumably no other duplicate files found for SN2017gjd
 Removing duplicate spectrum for SN2017ghl -- tATLAS17jua_20170829_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2017ghl
-Runtime: 0.8304187178611755 minutes
+Runtime: 0.8304187178611755 minutesRemoving duplicate spectrum for SN2017gjd -- tAT2017gjd_20170830_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017gjd
+Runtime: 0.9060693303743999 minutes
