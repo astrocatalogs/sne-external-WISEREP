@@ -1,0 +1,16 @@
+{
+    "lris16jhj.spec": {
+        "Type": "SN II",
+        "Redshift": "0.34",
+        "Obs. Date": "2017-01-03",
+        "Program": "",
+        "Contributor": "de Jaeger et al. 2017",
+        "Bibcode": "2017arXiv170901513D",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-09-08",
+        "Modified By": "ofer"
+    }
+}
