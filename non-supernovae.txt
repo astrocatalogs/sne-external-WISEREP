@@ -378,3 +378,6 @@ AT2017ghc is a Other
 AT2017gie is a Other
 OGLE17nfr is a Other
 AT2017ghm is a Other
+AT2017grk is a AGN
+AT2017gpp is a Other
+AT2017glg is a Galaxy
