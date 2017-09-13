@@ -1,16 +1,16 @@
 {
-    "tATLAS17kgv_20170910_Gr13_Free_slit1.5_1_f.asci": {
+    "tns_2017glz_2017-09-11_05-03-10_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
         "Type": "SN Ia",
         "Redshift": "0.05",
         "Obs. Date": "2017-09-11",
-        "Program": "ePESSTO",
+        "Program": "",
         "Contributor": "",
         "Bibcode": "",
         "Instrument": "ESO-NTT - EFOSC2-NTT",
         "Observer": "Gromadzki,Rybicki",
         "Reducer": "Fraser,Callis",
-        "Reduction Status": "rapid",
+        "Reduction Status": "final",
         "Last Modified": "2017-09-11",
-        "Modified By": "ilanm-UploadSet"
+        "Modified By": "upload-TNS"
     }
 }
