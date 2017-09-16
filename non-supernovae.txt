@@ -383,3 +383,5 @@ AT2017gpp is a Other
 AT2017glg is a Galaxy
 OGLE17osk is a Other
 AT2017gjp is a Other
+AT2017gge is a Other
+AT2017gsa is a CV
