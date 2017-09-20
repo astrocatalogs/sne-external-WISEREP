@@ -9497,4 +9497,10 @@ Presumably no other duplicate files found for SN2017glz
 Removing duplicate spectrum for SN2017gih -- tAT2017gih_20170828_Gr13_Free_slit1.0_1_f.asci
 Removing duplicate spectrum for SN2017gih -- tAT2017gih_20170910_Gr13_Free_slit1.5_1_f.asci
 Presumably no other duplicate files found for SN2017gih
-Runtime: 1.2166026433308919 minutes
+Runtime: 1.2166026433308919 minutesRemoving duplicate spectrum for SN2017glu -- tGaia17cfa_20170911_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017glu
+Removing duplicate spectrum for SN2017grd -- tATLAS17koa_20170911_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017grd
+Removing duplicate spectrum for SN2017gqg -- tATLAS17klo_20170911_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017gqg
+Runtime: 0.7087942361831665 minutes

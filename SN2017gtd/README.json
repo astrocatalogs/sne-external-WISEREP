@@ -1,0 +1,16 @@
+{
+    "tns_2017gtd_2458014.3034_BAO-2.16m_Cassegrain.txt": {
+        "Type": "SN IIP",
+        "Redshift": "0.017",
+        "Obs. Date": "2017-09-17",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Cassegrain",
+        "Observer": "Junjun Jia(NAOC)",
+        "Reducer": "Danfeng Xiang",
+        "Reduction Status": "final",
+        "Last Modified": "2017-09-18",
+        "Modified By": "upload-TNS"
+    }
+}
