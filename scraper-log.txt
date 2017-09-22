@@ -9503,4 +9503,6 @@ Removing duplicate spectrum for SN2017grd -- tATLAS17koa_20170911_Gr13_Free_slit
 Presumably no other duplicate files found for SN2017grd
 Removing duplicate spectrum for SN2017gqg -- tATLAS17klo_20170911_Gr13_Free_slit1.5_1_f.asci
 Presumably no other duplicate files found for SN2017gqg
-Runtime: 0.7087942361831665 minutes
+Runtime: 0.7087942361831665 minutesRuntime: 0.319833242893219 minutesFrom statement 3: SN2017guh has no spectra to collect
+From statement 4: SN2017guh has no spectra to collect
+Runtime: 0.34643405278523765 minutes
