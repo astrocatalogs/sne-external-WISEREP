@@ -1,0 +1,16 @@
+{
+    "tns_2017gut_2017-09-21_02-34-27_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+        "Type": "SN",
+        "Redshift": "0.031",
+        "Obs. Date": "2017-09-21",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Kostrzewa-Rutkowska,Hodgkin,Gromadzki",
+        "Reducer": "Fraser,Callis",
+        "Reduction Status": "final",
+        "Last Modified": "2017-09-22",
+        "Modified By": "upload-TNS"
+    }
+}
