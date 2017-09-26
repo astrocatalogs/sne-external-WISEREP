@@ -1,0 +1,16 @@
+{
+    "SN2008if_2008-12-19_fast_1.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.0115",
+        "Obs. Date": "2008-12-19",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "FLWO 1.5m - FAST",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-09-25",
+        "Modified By": "ofer-UploadSet"
+    }
+}

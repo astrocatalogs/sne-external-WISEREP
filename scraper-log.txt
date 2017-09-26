@@ -9515,4 +9515,22 @@ Removing duplicate spectrum for SN2017gts -- tATLAS17kwe_20170920_Gr13_Free_slit
 Presumably no other duplicate files found for SN2017gts
 Removing duplicate spectrum for SN2017gut -- tAT2017gut_20170920_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2017gut
-Runtime: 0.7318910717964172 minutes
+Runtime: 0.7318910717964172 minutesRemoving duplicate spectrum for SN2017gtw -- tATLAS17kxb_20170920_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017gtw
+Removing duplicate spectrum for SN2017gto -- tATLAS17kwi_20170920_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017gto
+Removing duplicate spectrum for SN2017gts -- tATLAS17kwe_20170920_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017gts
+Removing duplicate spectrum for SN2017gut -- tAT2017gut_20170920_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017gut
+Runtime: 0.5094477415084839 minutesPresumably no other duplicate files found for SN2009ay
+Presumably no other duplicate files found for SN2004am
+Removing duplicate spectrum for SN2017gtw -- tATLAS17kxb_20170920_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017gtw
+Removing duplicate spectrum for SN2017gto -- tATLAS17kwi_20170920_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017gto
+Removing duplicate spectrum for SN2017gts -- tATLAS17kwe_20170920_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017gts
+Removing duplicate spectrum for SN2017gut -- tAT2017gut_20170920_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017gut
+Runtime: 1.1027073899904887 minutes
