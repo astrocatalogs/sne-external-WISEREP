@@ -1,0 +1,30 @@
+{
+    "tns_2017gww_2458024.2077_BAO-2.16m_Cassegrain.txt": {
+        "Type": "SN II",
+        "Redshift": "0.017",
+        "Obs. Date": "2017-09-27",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Cassegrain",
+        "Observer": "Qian Yang(PKU), Feng Xiao(NAOC)",
+        "Reducer": "Han Lin(THU)",
+        "Reduction Status": "final",
+        "Last Modified": "2017-09-28",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2017gww_2017-09-28_03-25-18_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+        "Type": "SN II",
+        "Redshift": "0.017",
+        "Obs. Date": "2017-09-28",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "S.T. Hodgkin, K. Rybicki",
+        "Reducer": "M. Fraser, E. Callis",
+        "Reduction Status": "final",
+        "Last Modified": "2017-09-28",
+        "Modified By": "upload-TNS"
+    }
+}

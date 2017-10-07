@@ -1,0 +1,16 @@
+{
+    "test5.asci": {
+        "Type": "SN II",
+        "Redshift": "0.0075",
+        "Obs. Date": "2017-08-31",
+        "Program": "Sladjana-Novae",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "nikola knezevic",
+        "Reducer": "nikola k",
+        "Reduction Status": "final",
+        "Last Modified": "2017-10-01",
+        "Modified By": "nikola-UploadSet"
+    }
+}

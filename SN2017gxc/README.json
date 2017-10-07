@@ -1,0 +1,30 @@
+{
+    "tns_2017gxc_2017-09-30_04-13-40_P60_SED-Machine.txt": {
+        "Type": "SN II",
+        "Redshift": "0.03",
+        "Obs. Date": "2017-09-30",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SED-Machine",
+        "Observer": "D. Neill / R. Walters / N. Blagorodnova",
+        "Reducer": "Neill",
+        "Reduction Status": "final",
+        "Last Modified": "2017-10-01",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2017gxc_2017-10-01_04-11-10_P60_SED-Machine_iPTF.txt": {
+        "Type": "SN II",
+        "Redshift": "0.03",
+        "Obs. Date": "2017-10-01",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SED-Machine",
+        "Observer": "Walters/Neill/Blagorodnova",
+        "Reducer": "Neill",
+        "Reduction Status": "final",
+        "Last Modified": "2017-10-01",
+        "Modified By": "upload-TNS"
+    }
+}

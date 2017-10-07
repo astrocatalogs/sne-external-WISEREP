@@ -1,0 +1,16 @@
+{
+    "tns_2017hbi_2017-10-05_08-01-16_P60_SED-Machine.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.04",
+        "Obs. Date": "2017-10-05",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SED-Machine",
+        "Observer": "Walters/Neill/Blagorodnvoa",
+        "Reducer": "Neill",
+        "Reduction Status": "final",
+        "Last Modified": "2017-10-05",
+        "Modified By": "upload-TNS"
+    }
+}

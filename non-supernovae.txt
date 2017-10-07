@@ -385,3 +385,6 @@ OGLE17osk is a Other
 AT2017gjp is a Other
 AT2017gge is a Other
 AT2017gsa is a CV
+AT2017gvi is a Other
+AT2017gum is a Other
+AT2017gwx is a CV
