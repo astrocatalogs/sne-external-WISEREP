@@ -1,0 +1,16 @@
+{
+    "tns_2017hfp_2017-10-11_03-29-06_P60_SED-Machine.txt": {
+        "Type": "SN II",
+        "Redshift": "0.06",
+        "Obs. Date": "2017-10-11",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SED-Machine",
+        "Observer": "Walters/Neill/Blagorodnvoa",
+        "Reducer": "Neill",
+        "Reduction Status": "final",
+        "Last Modified": "2017-10-12",
+        "Modified By": "upload-TNS"
+    }
+}

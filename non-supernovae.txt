@@ -388,3 +388,8 @@ AT2017gsa is a CV
 AT2017gvi is a Other
 AT2017gum is a Other
 AT2017gwx is a CV
+AT2017grf is a Other
+AT2017gyv is a Varstar
+AT2017hfx is a Other
+AT2017hbc is a Other
+AT2017gso is a Other
