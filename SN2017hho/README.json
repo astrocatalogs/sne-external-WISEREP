@@ -1,14 +1,14 @@
 {
-    "tns_2017hef_2017-10-12_05-00-42_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+    "tns_2017hho_2017-10-12_05-30-11_P60_SED-Machine_iPTF.txt": {
         "Type": "SN Ia",
-        "Redshift": "0.07",
+        "Redshift": "0.0758",
         "Obs. Date": "2017-10-12",
         "Program": "",
         "Contributor": "",
         "Bibcode": "",
-        "Instrument": "ESO-NTT - EFOSC2-NTT",
-        "Observer": "E. Kankare, D. O'Neill",
-        "Reducer": "M. Magee",
+        "Instrument": "P60 - SED-Machine",
+        "Observer": "Walters/Neill/Blagorodnova",
+        "Reducer": "Neill",
         "Reduction Status": "final",
         "Last Modified": "2017-10-12",
         "Modified By": "upload-TNS"

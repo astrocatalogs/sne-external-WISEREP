@@ -1,16 +1,30 @@
 {
-    "tAT2017hgz_20171011_Gr13_Free_slit1.5_1_f.asci": {
+    "tns_2017hgz_2017-10-12_03-48-12_P60_SED-Machine_iPTF.txt": {
         "Type": "SN Ia",
         "Redshift": "0.016",
         "Obs. Date": "2017-10-12",
-        "Program": "ePESSTO",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SED-Machine",
+        "Observer": "Walters/Neill/Blagorodnova",
+        "Reducer": "Neill",
+        "Reduction Status": "final",
+        "Last Modified": "2017-10-12",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2017hgz_2017-10-12_03-45-14_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.016",
+        "Obs. Date": "2017-10-12",
+        "Program": "",
         "Contributor": "",
         "Bibcode": "",
         "Instrument": "ESO-NTT - EFOSC2-NTT",
         "Observer": "E. Kankare, D. O'Neill",
         "Reducer": "M. Magee",
-        "Reduction Status": "rapid",
+        "Reduction Status": "final",
         "Last Modified": "2017-10-12",
-        "Modified By": "nikola-UploadSet"
+        "Modified By": "upload-TNS"
     }
 }
