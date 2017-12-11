@@ -393,3 +393,16 @@ AT2017gyv is a Varstar
 AT2017hfx is a Other
 AT2017hbc is a Other
 AT2017gso is a Other
+test_HBC is a Other
+test_GSO is a Other
+AT2017hjp is a CV
+AT2017hnj is a Other
+AT2017hqk is a Other
+ATLAS17mzy is a Other
+AT2017hyy is a Other
+AT2017igt is a Other
+AT2017ihf is a Other
+AT2017igy is a Other
+AT2017iln is a Other
+AT2017ili is a Other
+AT2017imy is a CV

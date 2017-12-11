@@ -1,4 +1,18 @@
 {
+    "SN2011by_2011-04-28_kast_1.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.002843",
+        "Obs. Date": "2011-04-28",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Clubb, Kandrashoff",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
     "sw00031977006ugu_1ord_20110501.dat": {
         "Type": "SN Ia",
         "Redshift": "0.002843",
@@ -13,6 +27,20 @@
         "Last Modified": "2016-02-07",
         "Modified By": "ilanm-UploadSet"
     },
+    "SN2011by_2011-05-04_kast_4.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.002843",
+        "Obs. Date": "2011-05-04",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Canalizo, Hiner, Lazarova",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
     "sw00031977014ugu_1ord_20110505.dat": {
         "Type": "SN Ia",
         "Redshift": "0.002843",
@@ -26,6 +54,20 @@
         "Reduction Status": "final",
         "Last Modified": "2016-02-07",
         "Modified By": "ilanm-UploadSet"
+    },
+    "SN2011by_2011-05-06_kast_6.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.002843",
+        "Obs. Date": "2011-05-06",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Canalizo, Hiner, Lazarova",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
     },
     "sw00031977019ugu_1ord_20110507.dat": {
         "Type": "SN Ia",
@@ -54,5 +96,117 @@
         "Reduction Status": "final",
         "Last Modified": "2016-02-07",
         "Modified By": "ilanm-UploadSet"
+    },
+    "SN2011by_2011-05-10_kast_9.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.002843",
+        "Obs. Date": "2011-05-10",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Diamond-Stanic, Hiner",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2011by_2011-05-14_kast_10.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.002843",
+        "Obs. Date": "2011-05-14",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Clubb, Kandrashoff",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2011by_2011-05-22_kast_11.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.002843",
+        "Obs. Date": "2011-05-22",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Gates",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2011by_2011-05-25_kast_12.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.002843",
+        "Obs. Date": "2011-05-25",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Cooper",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2011by_2011-06-08_kast_13.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.002843",
+        "Obs. Date": "2011-06-08",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Greene",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2011by_2011-06-30_kast_14.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.002843",
+        "Obs. Date": "2011-06-30",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "Clubb, Silverman",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2011by_2011-12-02_lris_15.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.002843",
+        "Obs. Date": "2011-12-02",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Silverman, Miller, Nugent",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
+    },
+    "SN2011by_2012-03-15_lris_16.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.002843",
+        "Obs. Date": "2012-03-15",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Silverman, Cenko, Miller, Nugent",
+        "Reducer": "Jeffrey Silverman",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-08",
+        "Modified By": "admin-UploadSet"
     }
 }

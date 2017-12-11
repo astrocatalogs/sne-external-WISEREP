@@ -1,0 +1,58 @@
+{
+    "nov15.ascii": {
+        "Type": "Other",
+        "Redshift": "",
+        "Obs. Date": "2014-11-15",
+        "Program": "",
+        "Contributor": "Karamehmetoglu et al. 2017",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "G. Dimitriadis, M. Smith, R. Firth",
+        "Reducer": "E. Karamehmetoglu",
+        "Reduction Status": "final",
+        "Last Modified": "2017-03-09",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "nov16.ascii": {
+        "Type": "Other",
+        "Redshift": "",
+        "Obs. Date": "2014-11-16",
+        "Program": "",
+        "Contributor": "Karamehmetoglu et al. 2017",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "M. Smith, R. Firth, G. Dimitriadis",
+        "Reducer": "E. Karamehmetoglu",
+        "Reduction Status": "final",
+        "Last Modified": "2017-03-09",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "Nov29.ascii": {
+        "Type": "Other",
+        "Redshift": "",
+        "Obs. Date": "2014-11-29",
+        "Program": "",
+        "Contributor": "Karamehmetoglu et al. 2017",
+        "Bibcode": "",
+        "Instrument": "VLT-UT1 - FORS2",
+        "Observer": "Unknown",
+        "Reducer": "E. Karamehmetoglu",
+        "Reduction Status": "final",
+        "Last Modified": "2017-03-09",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "Dec14.ascii": {
+        "Type": "Other",
+        "Redshift": "",
+        "Obs. Date": "2014-12-14",
+        "Program": "",
+        "Contributor": "Karamehmetoglu et al. 2017",
+        "Bibcode": "",
+        "Instrument": "VLT-UT1 - FORS2",
+        "Observer": "P.-F. Leget, N. Chotard, M. Ducrot",
+        "Reducer": "E. Karamehmetoglu",
+        "Reduction Status": "final",
+        "Last Modified": "2017-03-09",
+        "Modified By": "ilanm-UploadSet"
+    }
+}

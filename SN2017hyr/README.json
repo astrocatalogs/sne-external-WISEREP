@@ -1,0 +1,16 @@
+{
+    "tns_2017hyr_2017-11-12_05-50-32_P200_DBSP_iPTF.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.04",
+        "Obs. Date": "2017-11-12",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P200 - DBSP",
+        "Observer": "Ho Yang Frederick Cunningham",
+        "Reducer": "Ho",
+        "Reduction Status": "final",
+        "Last Modified": "2017-11-17",
+        "Modified By": "upload-TNS"
+    }
+}

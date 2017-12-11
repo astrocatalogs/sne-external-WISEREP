@@ -54,5 +54,19 @@
         "Reduction Status": "final",
         "Last Modified": "2014-06-19",
         "Modified By": "ofer-UploadSet"
+    },
+    "ptf11rks_host_lris120715.spec": {
+        "Type": "SLSN-I",
+        "Redshift": "0.193",
+        "Obs. Date": "2012-07-15",
+        "Program": "",
+        "Contributor": "Perley et al. 2016",
+        "Bibcode": "2016ApJ...830...13P",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Kulkarni",
+        "Reducer": "Perley",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-25",
+        "Modified By": "ilanm-UploadSet"
     }
 }

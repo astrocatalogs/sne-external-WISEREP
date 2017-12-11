@@ -1,0 +1,16 @@
+{
+    "tns_2017hnv_2458051.42_Ekar_AFOSC_Padova-Asiago.dat": {
+        "Type": "SN Ic",
+        "Redshift": "0.03",
+        "Obs. Date": "2017-10-24",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Taubenberger",
+        "Reducer": "Taubenberger",
+        "Reduction Status": "final",
+        "Last Modified": "2017-10-25",
+        "Modified By": "upload-TNS"
+    }
+}

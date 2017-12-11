@@ -9682,4 +9682,908 @@ Removing duplicate spectrum for SN2017hbj -- tAT2017hbj_20171009_Gr13_Free_slit1
 Presumably no other duplicate files found for SN2017hbj
 Removing duplicate spectrum for SN2017hbf -- tAT2017hbf_20171009_Gr13_Free_slit1.0_1_f.asci
 Presumably no other duplicate files found for SN2017hbf
-Runtime: 1.6848004698753356 minutes
+Runtime: 1.6848004698753356 minutesPresumably no other duplicate files found for SN2017hho
+Removing duplicate spectrum for SN2017hef -- tGaia17cno_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hef
+Removing duplicate spectrum for SN2017hej -- tATLAS17lyt_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hej
+Removing duplicate spectrum for SN2017hhl -- tATLAS17lwk_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hhl
+Removing duplicate spectrum for SN2017hgz -- tAT2017hgz_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hgz
+Removing duplicate spectrum for SN2017hdn -- tAT2017hdn_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hdn
+Removing duplicate spectrum for SN2017hcx -- tAT2017hcx_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hcx
+Removing duplicate spectrum for SN2017hbv -- tAT2017hbv_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hbv
+Removing duplicate spectrum for SN2017hfw -- tATLAS17mai_20171010_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hfw
+Removing duplicate spectrum for SN2017heg -- tATLAS17lyu_20171010_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017heg
+Removing duplicate spectrum for SN2017hcy -- tAT2017hcy_20171010_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hcy
+Removing duplicate spectrum for SN2017hbh -- tATLAS17lfh_20171009_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hbh
+Removing duplicate spectrum for SN2017hdq -- tAT2017hdq_20171009_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hdq
+Removing duplicate spectrum for SN2017hbj -- tAT2017hbj_20171009_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hbj
+Removing duplicate spectrum for SN2017hbf -- tAT2017hbf_20171009_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hbf
+Runtime: 2.182090401649475 minutesPresumably no other duplicate files found for SN2017hfv
+Presumably no other duplicate files found for SN2017hho
+Removing duplicate spectrum for SN2017hef -- tGaia17cno_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hef
+Removing duplicate spectrum for SN2017hej -- tATLAS17lyt_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hej
+Removing duplicate spectrum for SN2017hhl -- tATLAS17lwk_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hhl
+Removing duplicate spectrum for SN2017hgz -- tAT2017hgz_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hgz
+Removing duplicate spectrum for SN2017hdn -- tAT2017hdn_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hdn
+Removing duplicate spectrum for SN2017hcx -- tAT2017hcx_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hcx
+Removing duplicate spectrum for SN2017hbv -- tAT2017hbv_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hbv
+Removing duplicate spectrum for SN2017hfw -- tATLAS17mai_20171010_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hfw
+Removing duplicate spectrum for SN2017heg -- tATLAS17lyu_20171010_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017heg
+Removing duplicate spectrum for SN2017hcy -- tAT2017hcy_20171010_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hcy
+Removing duplicate spectrum for SN2017hbh -- tATLAS17lfh_20171009_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hbh
+Removing duplicate spectrum for SN2017hdq -- tAT2017hdq_20171009_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hdq
+Removing duplicate spectrum for SN2017hbj -- tAT2017hbj_20171009_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hbj
+Removing duplicate spectrum for SN2017hbf -- tAT2017hbf_20171009_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hbf
+Runtime: 2.471965173880259 minutesPresumably no other duplicate files found for SN2017hfv
+Presumably no other duplicate files found for SN2017hho
+Removing duplicate spectrum for SN2017hef -- tGaia17cno_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hef
+Removing duplicate spectrum for SN2017hej -- tATLAS17lyt_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hej
+Removing duplicate spectrum for SN2017hhl -- tATLAS17lwk_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hhl
+Removing duplicate spectrum for SN2017hgz -- tAT2017hgz_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hgz
+Removing duplicate spectrum for SN2017hdn -- tAT2017hdn_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hdn
+Removing duplicate spectrum for SN2017hcx -- tAT2017hcx_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hcx
+Removing duplicate spectrum for SN2017hbv -- tAT2017hbv_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hbv
+Removing duplicate spectrum for SN2017hfw -- tATLAS17mai_20171010_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hfw
+Removing duplicate spectrum for SN2017heg -- tATLAS17lyu_20171010_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017heg
+Removing duplicate spectrum for SN2017hcy -- tAT2017hcy_20171010_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hcy
+Removing duplicate spectrum for SN2017hbh -- tATLAS17lfh_20171009_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hbh
+Removing duplicate spectrum for SN2017hdq -- tAT2017hdq_20171009_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hdq
+Removing duplicate spectrum for SN2017hbj -- tAT2017hbj_20171009_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hbj
+Removing duplicate spectrum for SN2017hbf -- tAT2017hbf_20171009_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hbf
+Runtime: 2.0031906167666116 minutesPresumably no other duplicate files found for SN2017hho
+Removing duplicate spectrum for SN2017hef -- tGaia17cno_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hef
+Removing duplicate spectrum for SN2017hej -- tATLAS17lyt_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hej
+Removing duplicate spectrum for SN2017hhl -- tATLAS17lwk_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hhl
+Removing duplicate spectrum for SN2017hgz -- tAT2017hgz_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hgz
+Removing duplicate spectrum for SN2017hdn -- tAT2017hdn_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hdn
+Removing duplicate spectrum for SN2017hcx -- tAT2017hcx_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hcx
+Removing duplicate spectrum for SN2017hbv -- tAT2017hbv_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hbv
+Removing duplicate spectrum for SN2017hfw -- tATLAS17mai_20171010_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hfw
+Removing duplicate spectrum for SN2017heg -- tATLAS17lyu_20171010_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017heg
+Removing duplicate spectrum for SN2017hcy -- tAT2017hcy_20171010_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hcy
+Runtime: 1.6188721458117168 minutesPresumably no other duplicate files found for SN2017hix
+Presumably no other duplicate files found for SN2017hho
+Removing duplicate spectrum for SN2017hef -- tGaia17cno_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hef
+Removing duplicate spectrum for SN2017hej -- tATLAS17lyt_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hej
+Removing duplicate spectrum for SN2017hhl -- tATLAS17lwk_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hhl
+Removing duplicate spectrum for SN2017hgz -- tAT2017hgz_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hgz
+Removing duplicate spectrum for SN2017hdn -- tAT2017hdn_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hdn
+Removing duplicate spectrum for SN2017hcx -- tAT2017hcx_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hcx
+Removing duplicate spectrum for SN2017hbv -- tAT2017hbv_20171011_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hbv
+Runtime: 1.6458371877670288 minutesRemoving duplicate spectrum for SN2017guu -- tATLAS17lcr_20171018_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017guu
+Removing duplicate spectrum for SN2017his -- tAT2017his_20171018_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017his
+Removing duplicate spectrum for SN2017hes -- tAT2017hes_20171018_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hes
+Presumably no other duplicate files found for SN2017hix
+Runtime: 1.511419455210368 minutesPresumably no other duplicate files found for SN2017hle
+Removing duplicate spectrum for SN2017guu -- tATLAS17lcr_20171018_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017guu
+Removing duplicate spectrum for SN2017his -- tAT2017his_20171018_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017his
+Removing duplicate spectrum for SN2017hes -- tAT2017hes_20171018_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hes
+Presumably no other duplicate files found for SN2017hix
+Runtime: 1.403312047322591 minutesRemoving duplicate spectrum for SN2017hmz -- tATLAS17mlp_20171020_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hmz
+Presumably no other duplicate files found for SN2017hle
+Removing duplicate spectrum for SN2017guu -- tATLAS17lcr_20171018_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017guu
+Removing duplicate spectrum for SN2017his -- tAT2017his_20171018_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017his
+Removing duplicate spectrum for SN2017hes -- tAT2017hes_20171018_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hes
+Runtime: 1.3169247031211853 minutesRemoving duplicate spectrum for SN2017hmz -- tATLAS17mlp_20171020_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hmz
+Presumably no other duplicate files found for SN2017hle
+Removing duplicate spectrum for SN2017guu -- tATLAS17lcr_20171018_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017guu
+Removing duplicate spectrum for SN2017his -- tAT2017his_20171018_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017his
+Removing duplicate spectrum for SN2017hes -- tAT2017hes_20171018_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hes
+Runtime: 1.2736886183420817 minutesRemoving duplicate spectrum for SN2017hmz -- tATLAS17mlp_20171020_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hmz
+Presumably no other duplicate files found for SN2017hle
+Removing duplicate spectrum for SN2017guu -- tATLAS17lcr_20171018_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017guu
+Removing duplicate spectrum for SN2017his -- tAT2017his_20171018_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017his
+Removing duplicate spectrum for SN2017hes -- tAT2017hes_20171018_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hes
+Runtime: 1.3599256038665772 minutesRemoving duplicate spectrum for SN2017hmz -- tATLAS17mlp_20171020_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hmz
+Presumably no other duplicate files found for SN2017hle
+Removing duplicate spectrum for SN2017guu -- tATLAS17lcr_20171018_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017guu
+Removing duplicate spectrum for SN2017his -- tAT2017his_20171018_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017his
+Removing duplicate spectrum for SN2017hes -- tAT2017hes_20171018_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hes
+Runtime: 1.3565985798835754 minutesRemoving duplicate spectrum for SN2017hmz -- tATLAS17mlp_20171020_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hmz
+Removing duplicate spectrum for SN2017guu -- tATLAS17lcr_20171018_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017guu
+Removing duplicate spectrum for SN2017his -- tAT2017his_20171018_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017his
+Removing duplicate spectrum for SN2017hes -- tAT2017hes_20171018_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hes
+Runtime: 1.3982085824012755 minutesPresumably no other duplicate files found for SN2017hng
+Removing duplicate spectrum for SN2017hmz -- tATLAS17mlp_20171020_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hmz
+Runtime: 1.4278398950894673 minutesPresumably no other duplicate files found for SN2017hng
+Removing duplicate spectrum for SN2017hmz -- tATLAS17mlp_20171020_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hmz
+Runtime: 1.3041945219039917 minutesPresumably no other duplicate files found for SN2017hng
+Runtime: 1.4884623527526855 minutesRemoving duplicate spectrum for SN2017hnq -- tATLAS17mnc_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hnq
+Removing duplicate spectrum for SN2017hjb -- tATLAS17mft_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hjb
+Removing duplicate spectrum for SN2017hip -- tATLAS17mfa_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hip
+Removing duplicate spectrum for SN2017hpj -- tAT2017hpj_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hpj
+Runtime: 1.7105681657791139 minutesRemoving duplicate spectrum for SN2017hpi -- tAT2017hpi_20171029_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hpi
+Removing duplicate spectrum for SN2017hkn -- tAT2017hkn_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hkn
+Removing duplicate spectrum for SN2017hnq -- tATLAS17mnc_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hnq
+Removing duplicate spectrum for SN2017hjb -- tATLAS17mft_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hjb
+Removing duplicate spectrum for SN2017hip -- tATLAS17mfa_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hip
+Removing duplicate spectrum for SN2017hpj -- tAT2017hpj_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hpj
+Runtime: 1.8331271290779114 minutesRemoving duplicate spectrum for SN2017hql -- tATLAS17mvp_20171030_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hql
+Removing duplicate spectrum for SN2017hqe -- tATLAS17muy_20171030_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hqe
+Removing duplicate spectrum for SN2017hpk -- tATLAS17muk_20171030_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hpk
+Removing duplicate spectrum for SN2017hpi -- tAT2017hpi_20171029_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hpi
+Removing duplicate spectrum for SN2017hkn -- tAT2017hkn_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hkn
+Removing duplicate spectrum for SN2017hnq -- tATLAS17mnc_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hnq
+Removing duplicate spectrum for SN2017hjb -- tATLAS17mft_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hjb
+Removing duplicate spectrum for SN2017hip -- tATLAS17mfa_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hip
+Removing duplicate spectrum for SN2017hpj -- tAT2017hpj_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hpj
+Runtime: 1.5806170264879862 minutesRemoving duplicate spectrum for SN2017hql -- tATLAS17mvp_20171030_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hql
+Removing duplicate spectrum for SN2017hqe -- tATLAS17muy_20171030_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hqe
+Removing duplicate spectrum for SN2017hpk -- tATLAS17muk_20171030_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hpk
+Removing duplicate spectrum for SN2017hpi -- tAT2017hpi_20171029_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hpi
+Removing duplicate spectrum for SN2017hkn -- tAT2017hkn_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hkn
+Removing duplicate spectrum for SN2017hnq -- tATLAS17mnc_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hnq
+Removing duplicate spectrum for SN2017hjb -- tATLAS17mft_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hjb
+Removing duplicate spectrum for SN2017hip -- tATLAS17mfa_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hip
+Removing duplicate spectrum for SN2017hpj -- tAT2017hpj_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hpj
+Runtime: 1.5981416384379068 minutesRemoving duplicate spectrum for SN2017hql -- tATLAS17mvp_20171030_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hql
+Removing duplicate spectrum for SN2017hqe -- tATLAS17muy_20171030_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hqe
+Removing duplicate spectrum for SN2017hpk -- tATLAS17muk_20171030_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hpk
+Removing duplicate spectrum for SN2017hpi -- tAT2017hpi_20171029_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hpi
+Removing duplicate spectrum for SN2017hkn -- tAT2017hkn_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hkn
+Removing duplicate spectrum for SN2017hnq -- tATLAS17mnc_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hnq
+Removing duplicate spectrum for SN2017hjb -- tATLAS17mft_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hjb
+Removing duplicate spectrum for SN2017hip -- tATLAS17mfa_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hip
+Removing duplicate spectrum for SN2017hpj -- tAT2017hpj_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hpj
+Runtime: 1.5080074071884155 minutesFrom statement 3: SN2017htp has no spectra to collect
+From statement 4: SN2017htp has no spectra to collect
+Removing duplicate spectrum for SN2017hql -- tATLAS17mvp_20171030_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hql
+Removing duplicate spectrum for SN2017hqe -- tATLAS17muy_20171030_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hqe
+Removing duplicate spectrum for SN2017hpk -- tATLAS17muk_20171030_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hpk
+Removing duplicate spectrum for SN2017hpi -- tAT2017hpi_20171029_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hpi
+Removing duplicate spectrum for SN2017hkn -- tAT2017hkn_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hkn
+Removing duplicate spectrum for SN2017hnq -- tATLAS17mnc_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hnq
+Removing duplicate spectrum for SN2017hjb -- tATLAS17mft_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hjb
+Removing duplicate spectrum for SN2017hip -- tATLAS17mfa_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hip
+Removing duplicate spectrum for SN2017hpj -- tAT2017hpj_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hpj
+Runtime: 1.352695902188619 minutesFrom statement 3: SN2017htp has no spectra to collect
+From statement 4: SN2017htp has no spectra to collect
+Removing duplicate spectrum for SN2017hql -- tATLAS17mvp_20171030_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hql
+Removing duplicate spectrum for SN2017hqe -- tATLAS17muy_20171030_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hqe
+Removing duplicate spectrum for SN2017hpk -- tATLAS17muk_20171030_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hpk
+Removing duplicate spectrum for SN2017hpi -- tAT2017hpi_20171029_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hpi
+Removing duplicate spectrum for SN2017hkn -- tAT2017hkn_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hkn
+Removing duplicate spectrum for SN2017hnq -- tATLAS17mnc_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hnq
+Removing duplicate spectrum for SN2017hjb -- tATLAS17mft_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hjb
+Removing duplicate spectrum for SN2017hip -- tATLAS17mfa_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hip
+Removing duplicate spectrum for SN2017hpj -- tAT2017hpj_20171028_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hpj
+Runtime: 1.3541457056999207 minutesFrom statement 3: SN2017htp has no spectra to collect
+From statement 4: SN2017htp has no spectra to collect
+Removing duplicate spectrum for SN2017hql -- tATLAS17mvp_20171030_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hql
+Removing duplicate spectrum for SN2017hqe -- tATLAS17muy_20171030_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hqe
+Removing duplicate spectrum for SN2017hpk -- tATLAS17muk_20171030_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hpk
+Removing duplicate spectrum for SN2017hpi -- tAT2017hpi_20171029_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hpi
+Runtime: 1.0346539775530497 minutesRemoving duplicate spectrum for SN2017htb -- tns_2017htb_2458063.3359_Other_Other.dat
+From statement 3: SN2017htp has no spectra to collect
+From statement 4: SN2017htp has no spectra to collect
+Removing duplicate spectrum for SN2017hql -- tATLAS17mvp_20171030_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hql
+Removing duplicate spectrum for SN2017hqe -- tATLAS17muy_20171030_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hqe
+Removing duplicate spectrum for SN2017hpk -- tATLAS17muk_20171030_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hpk
+Runtime: 0.8767260630925496 minutesPresumably no other duplicate files found for ASASSN-14ms
+Removing duplicate spectrum for SN2017htb -- tns_2017htb_2458063.3359_Other_Other.dat
+From statement 3: SN2017htp has no spectra to collect
+From statement 4: SN2017htp has no spectra to collect
+Runtime: 0.6251483678817749 minutesPresumably no other duplicate files found for ASASSN-14ms
+Removing duplicate spectrum for SN2017htb -- tns_2017htb_2458063.3359_Other_Other.dat
+From statement 3: SN2017htp has no spectra to collect
+From statement 4: SN2017htp has no spectra to collect
+Runtime: 0.7198481400807698 minutesRemoving duplicate spectrum for SN2017hxt -- tAT2017hxt_20171109_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hxt
+Removing duplicate spectrum for SN2017hrq -- tATLAS17mwz_20171108_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hrq
+Removing duplicate spectrum for SN2017hrm -- tATLAS17mwu_20171108_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hrm
+Removing duplicate spectrum for SN2017hrg -- tATLAS17mwk_20171108_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hrg
+Presumably no other duplicate files found for ASASSN-14ms
+Runtime: 0.9932240605354309 minutesRemoving duplicate spectrum for SN2017hof -- tATLAS17mrm_20171110_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hof
+Removing duplicate spectrum for SN2016eei -- tSN2016eei_20171110_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2016eei
+Removing duplicate spectrum for SN2017hxt -- tAT2017hxt_20171109_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hxt
+Removing duplicate spectrum for SN2017hrq -- tATLAS17mwz_20171108_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hrq
+Removing duplicate spectrum for SN2017hrm -- tATLAS17mwu_20171108_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hrm
+Removing duplicate spectrum for SN2017hrg -- tATLAS17mwk_20171108_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hrg
+Presumably no other duplicate files found for ASASSN-14ms
+Runtime: 1.539193336168925 minutesRuntime: 0.4409707387288411 minutesPresumably no other duplicate files found for iPTF14hls
+Runtime: 1.6347702383995055 minutesRuntime: 0.4144234538078308 minutesRuntime: 0.2556987484296163 minutesRuntime: 0.11573866605758668 minutesRuntime: 0.09614588022232055 minutesPresumably no other duplicate files found for LSQ13zm
+Runtime: 0.38812118768692017 minutesRuntime: 0.17614490588506063 minutesFrom statement 4: PTF12hsx has no spectra to collect
+Runtime: 0.2207552472750346 minutesRuntime: 0.9124307870864868 minutesFrom statement 3: SN2005kd has no spectra to collect
+From statement 4: SN2005kd has no spectra to collect
+Runtime: 0.20795547167460124 minutesRuntime: 0.5510030865669251 minutesFrom statement 4: SN2010Y has no spectra to collect
+Runtime: 0.2125619173049927 minutesFrom statement 4: PTF12cxj has no spectra to collect
+Runtime: 0.21636218627293904 minutesFrom statement 4: SN2011ba has no spectra to collect
+2 objects returned for SN2011bm
+Presumably no other duplicate files found for SN2011bm
+2 objects returned for SN2011bn
+From statement 4: SN2011bn has no spectra to collect
+Presumably no other duplicate files found for SN2011by
+From statement 4: PTF11bkd has no spectra to collect
+From statement 4: PTF11bni has no spectra to collect
+From statement 4: PTF11bov has no spectra to collect
+Runtime: 1.7096879402796428 minutesFrom statement 4: SN2009an has no spectra to collect
+Runtime: 0.20262981255849202 minutesRuntime: 0.5034712592760722 minutesFrom statement 4: SN2004ex has no spectra to collect
+Runtime: 0.22625173330307008 minutesRuntime: 0.3032278656959534 minutesFrom statement 4: SN2011ao has no spectra to collect
+Runtime: 0.20660397211710613 minutesPresumably no other duplicate files found for SN2009kn
+Presumably no other duplicate files found for SN2009kr
+Runtime: 0.4569628675778707 minutesFrom statement 4: SN2005ir has no spectra to collect
+Runtime: 0.23625768820444742 minutesRuntime: 0.23724756638209024 minutesFrom statement 3: SN2011cc has no spectra to collect
+From statement 4: SN2011cc has no spectra to collect
+Runtime: 0.21053003867467243 minutesPresumably no other duplicate files found for SN2007tt
+Presumably no other duplicate files found for SN2007tq
+Presumably no other duplicate files found for SN2007tg
+Presumably no other duplicate files found for SN2007tw
+Presumably no other duplicate files found for SN2007ty
+Presumably no other duplicate files found for SN2007ti
+Runtime: 3.136190195878347 minutesPresumably no other duplicate files found for LSQ13zm
+Runtime: 0.5179775317509969 minutesFrom statement 4: SN2010kd has no spectra to collect
+Runtime: 0.22528560161590577 minutesRuntime: 0.23548792600631713 minutesRuntime: 0.3108172297477722 minutesFrom statement 4: PTF11fzz has no spectra to collect
+Runtime: 0.23932309150695802 minutesRuntime: 0.3185808817545573 minutesRuntime: 0.2649013002713521 minutesFrom statement 4: PTF11go has no spectra to collect
+Runtime: 0.2157551407814026 minutesFrom statement 3: SN2016acs has no spectra to collect
+From statement 4: SN2016acs has no spectra to collect
+Runtime: 0.21464602947235106 minutesFrom statement 3: SN2007jm has no spectra to collect
+From statement 4: SN2007jm has no spectra to collect
+Runtime: 0.19666124979654948 minutes2 objects returned for SN2012dp
+2 objects returned for SN2012ds
+2 objects returned for SN2012dq
+Removing duplicate spectrum for SN2012dt -- SN2012dt_20120922_wifes_B.dat
+From statement 4: SN2012db has no spectra to collect
+From statement 4: SN2012da has no spectra to collect
+From statement 4: PTF12hnm has no spectra to collect
+From statement 4: PTF12ghy has no spectra to collect
+From statement 4: PTF12fes has no spectra to collect
+2 objects returned for PTF12fo
+From statement 4: PTF12fo has no spectra to collect
+Runtime: 6.770707639058431 minutesRuntime: 0.26200071175893147 minutesRemoving duplicate spectrum for LSQ12caf -- fLSQ12caf_20120422_Gr13_Free_slit1.5_1_f.asci
+Runtime: 0.2920291264851888 minutesRemoving duplicate spectrum for PS15cww -- tPS15cww_20151122_Gr13_Free_slit1.5_1_f.asci
+Removing duplicate spectrum for PS15cww -- tPS15cww_20151122_Gr13_Free_slit1.5_2_f.asci
+Not collecting spectra of PS15cww at this time
+Runtime: 0.20781629880269367 minutesFrom statement 3: SN2003ma has no spectra to collect
+From statement 4: SN2003ma has no spectra to collect
+Runtime: 0.19687606890996298 minutesRuntime: 0.2785107731819153 minutesFrom statement 4: SN2007kh has no spectra to collect
+Runtime: 0.2134530782699585 minutes2 objects returned for SN2010jj
+From statement 4: SN2010jj has no spectra to collect
+From statement 4: PTF10aazn has no spectra to collect
+Runtime: 0.33376527627309166 minutesRemoving duplicate spectrum for OGLE-2013-SN-012 -- tOGLE-2013-SN-012_20130130_Gr13_Free_slit1.0_1_f.asci
+Removing duplicate spectrum for OGLE-2013-SN-012 -- tOGLE-2013-SN-012_20130130_Gr13_Free_slit1.0_2_f.asci
+Removing duplicate spectrum for OGLE-2013-SN-012 -- tOGLE-2013-SN-012_20130130_Gr13_Free_slit1.0_comb_f.asci
+Removing duplicate spectrum for OGLE-2013-SN-012 -- OGLE-2013-SN-012_20130130_Gr13_Free_slit1.0_56456_1.ascii
+Runtime: 0.2500782608985901 minutesRuntime: 0.31902870734532673 minutesFrom statement 3: SN2012as has no spectra to collect
+From statement 4: SN2012as has no spectra to collect
+Runtime: 0.21796708504358928 minutesFrom statement 4: PTF11htj has no spectra to collect
+Runtime: 0.20300400257110596 minutesRemoving duplicate spectrum for OGLE-2014-SN-009 -- tOGLE-2014-SN-009_20140207_Gr13_Free_slit1.0_1_f.asci
+Removing duplicate spectrum for OGLE-2014-SN-009 -- tOGLE-2014-SN-009_20140220_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for OGLE-2014-SN-009
+Runtime: 0.23908089796702067 minutesFrom statement 4: SN2013ex has no spectra to collect
+Runtime: 0.22389914592107138 minutesFrom statement 4: SN2010iw has no spectra to collect
+Runtime: 0.2078423539797465 minutesRuntime: 0.2290768305460612 minutesPresumably no other duplicate files found for PTF10iue
+Runtime: 0.30587535301844276 minutesFrom statement 4: SN2005dp has no spectra to collect
+Runtime: 0.24902623097101848 minutesPresumably no other duplicate files found for PS1-10ky
+Runtime: 0.3530098994572957 minutesRuntime: 0.2714303175608317 minutes3 objects returned for SN2016S
+From statement 3: SN2016S has no spectra to collect
+From statement 4: SN2016S has no spectra to collect
+Runtime: 0.4204621354738871 minutes2 objects returned for SN2011hb
+From statement 4: SN2011hb has no spectra to collect
+From statement 4: PTF11pbp has no spectra to collect
+Runtime: 0.2614287773768107 minutesRemoving duplicate spectrum for OGLE-2014-SN-131 -- tOGLE-2014-SN-131_20141114_Gr13_Free_slit1.0_1_f.asci
+Removing duplicate spectrum for OGLE-2014-SN-131 -- tOGLE-2014-SN-131_20141115_Gr16_OG530_slit1.0_1_f.asci
+Presumably no other duplicate files found for OGLE-2014-SN-131
+Runtime: 0.264539643128713 minutesFrom statement 4: PTF10achk has no spectra to collect
+Runtime: 0.21697243849436443 minutes2 objects returned for SN2010hy
+From statement 4: SN2010hy has no spectra to collect
+Runtime: 0.3507794221242269 minutesRuntime: 0.21290173927942913 minutesFrom statement 3: SN2016ehy has no spectra to collect
+From statement 4: SN2016ehy has no spectra to collect
+Runtime: 0.21872711976369222 minutesRemoving duplicate spectrum for OGLE-2013-SN-138 -- tOGLE-2013-SN-138_20131221_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for OGLE-2013-SN-138
+Runtime: 0.22874250411987304 minutesFrom statement 4: SN2005Z has no spectra to collect
+Runtime: 0.21758839686711628 minutesRuntime: 0.2913464864095052 minutesFrom statement 4: SN2005bw has no spectra to collect
+Runtime: 0.2012929876645406 minutesRemoving duplicate spectrum for OGLE-2013-SN-137 -- tOGLE-2013-SN-137_20131222_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for OGLE-2013-SN-137
+Runtime: 0.2741982062657674 minutesPresumably no other duplicate files found for SN2010bh
+From statement 3: SN2010bt has no spectra to collect
+From statement 4: SN2010bt has no spectra to collect
+From statement 4: PTF10fjh has no spectra to collect
+Runtime: 0.7581539551417033 minutesPresumably no other duplicate files found for SN2011kf
+Presumably no other duplicate files found for SN2011ke
+Presumably no other duplicate files found for PTF11rks
+From statement 4: PTF11epi has no spectra to collect
+From statement 4: PTF11fuv has no spectra to collect
+From statement 4: PTF11be has no spectra to collect
+Runtime: 0.9337684591611226 minutesFrom statement 4: SN2013ag has no spectra to collect
+Runtime: 0.209725821018219 minutesFrom statement 3: SN2007nx has no spectra to collect
+From statement 4: SN2007nx has no spectra to collect
+Runtime: 0.20239636898040772 minutesRuntime: 0.19935646057128906 minutesRuntime: 0.21108135382334392 minutesFrom statement 4: PTF11cml has no spectra to collect
+Runtime: 0.20369868675867717 minutesFrom statement 4: PTF11cwi has no spectra to collect
+Runtime: 0.2132493257522583 minutesPresumably no other duplicate files found for PS1-10afx
+Runtime: 0.39217042525609336 minutesFrom statement 4: PTF12ena has no spectra to collect
+Runtime: 0.18880735635757445 minutesFrom statement 4: SN2005bp has no spectra to collect
+Runtime: 0.22881488800048827 minutesFrom statement 3: SN2007oe has no spectra to collect
+From statement 4: SN2007oe has no spectra to collect
+Runtime: 0.23632490237553913 minutesRemoving duplicate spectrum for OGLE-2013-SN-100 -- tOGLE-2013-SN-100_20131130_Gr16_OG530_slit1.0_1_f.asci
+Runtime: 0.3620416323343913 minutesFrom statement 4: SN2016O has no spectra to collect
+Runtime: 0.20820614496866863 minutesRuntime: 0.2591059565544128 minutesFrom statement 3: SN2005jr has no spectra to collect
+From statement 4: SN2005jr has no spectra to collect
+Runtime: 0.20868818759918212 minutesFrom statement 3: SN2005jq has no spectra to collect
+From statement 4: SN2005jq has no spectra to collect
+Runtime: 0.22130189736684164 minutesRuntime: 0.23142767747243245 minutesRemoving duplicate spectrum for OGLE-2015-SN-035 -- tOGLE-2015-SN-035_20150126_Gr13_Free_slit1.0_1_f.asci
+Removing duplicate spectrum for OGLE-2015-SN-035 -- tOGLE-2015-SN-035_20150209_Gr13_Free_slit1.0_1_f.asci
+Not collecting spectra of OGLE-2015-SN-035 at this time
+Runtime: 0.2512432893117269 minutesRuntime: 0.22858415444691976 minutesFrom statement 3: SN2016coi has no spectra to collect
+From statement 4: SN2016coi has no spectra to collect
+Runtime: 0.1911951700846354 minutesRuntime: 0.30627098083496096 minutesFrom statement 4: SN2010cn has no spectra to collect
+Runtime: 0.20121434529622395 minutesFrom statement 4: PTF11ajz has no spectra to collect
+Runtime: 0.18870221773783366 minutesFrom statement 4: SN2012da has no spectra to collect
+Runtime: 0.2043144742647807 minutes11 objects returned for SN2016ad
+Removing duplicate spectrum for SN2016adq -- tns_2016adq_2016-02-11.11_Ekar_AFOSC_Padova-Asiago.txt
+Presumably no other duplicate files found for SN2016adn
+Presumably no other duplicate files found for SN2016adg
+Presumably no other duplicate files found for SN2016adj
+Runtime: 1.3423199613889059 minutesFrom statement 3: SN2016ews has no spectra to collect
+From statement 4: SN2016ews has no spectra to collect
+Runtime: 0.18697038491566975 minutes2 objects returned for SN2010hy
+From statement 4: SN2010hy has no spectra to collect
+From statement 3: SN2010hd has no spectra to collect
+From statement 4: SN2010hd has no spectra to collect
+Presumably no other duplicate files found for PTF10ufj
+Presumably no other duplicate files found for PTF10tce
+Runtime: 0.7781417449315389 minutesRuntime: 0.21907260417938232 minutesFrom statement 4: SN2004dy has no spectra to collect
+Runtime: 0.22018990914026895 minutesFrom statement 4: SN2005ba has no spectra to collect
+Runtime: 0.19357486565907797 minutesFrom statement 4: SN2009nq has no spectra to collect
+Runtime: 0.21972740093866985 minutesRemoving duplicate spectrum for OGLE-2014-SN-053 -- tOGLE-2014-SN-053_20140821_Gr13_Free_slit1.0_1_f.asci
+Removing duplicate spectrum for OGLE-2014-SN-053 -- tOGLE-2014-SN-053_20140821_Gr13_Free_slit1.0_2_f.asci
+Not collecting spectra of OGLE-2014-SN-053 at this time
+Runtime: 0.21246110995610554 minutesFrom statement 3: SN2010bt has no spectra to collect
+From statement 4: SN2010bt has no spectra to collect
+Runtime: 0.21864842573801677 minutesRuntime: 0.3287897825241089 minutesFrom statement 4: PTF10weh has no spectra to collect
+Runtime: 0.19448359807332358 minutesFrom statement 3: SN2016iog has no spectra to collect
+From statement 4: SN2016iog has no spectra to collect
+Runtime: 0.20366288820902506 minutesFrom statement 4: SN2006an has no spectra to collect
+Runtime: 0.2333547830581665 minutesFrom statement 3: SN2009au has no spectra to collect
+From statement 4: SN2009au has no spectra to collect
+Runtime: 0.24731909036636351 minutesRuntime: 0.29701244831085205 minutesRuntime: 0.35842060248057045 minutesRemoving duplicate spectrum for AT2016enl -- tAT2016enl_20160808_Gr13_Free_slit1.0_1_f.asci
+Removing duplicate spectrum for AT2016enl -- tAT2016enl_20160808_Gr13_Free_slit1.0_2_f.asci
+Not collecting spectra of AT2016enl at this time
+Runtime: 0.1937263528505961 minutesRemoving duplicate spectrum for LSQ15ey -- tLSQ15ey_20150125_Gr13_Free_slit1.0_1_f.asci
+Removing duplicate spectrum for LSQ15ey -- tLSQ15ey_20150211_Gr13_Free_slit1.0_1_f.asci
+Removing duplicate spectrum for LSQ15ey -- LSQ15ey_20150129_wifes_B.dat
+Runtime: 0.2576339284578959 minutesRuntime: 0.2324177662531535 minutesFrom statement 4: PTF11hsj has no spectra to collect
+Runtime: 0.22318404515584309 minutesFrom statement 3: SN2016R has no spectra to collect
+From statement 4: SN2016R has no spectra to collect
+Runtime: 0.1780694842338562 minutesRuntime: 0.22360883951187133 minutesFrom statement 4: PTF12emp has no spectra to collect
+Runtime: 0.2014613389968872 minutesFrom statement 3: SN2016avh has no spectra to collect
+From statement 4: SN2016avh has no spectra to collect
+Runtime: 0.21333242257436116 minutesRemoving duplicate spectrum for SN2017hof -- tATLAS17mrm_20171110_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hof
+Removing duplicate spectrum for SN2016eei -- tSN2016eei_20171110_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2016eei
+Removing duplicate spectrum for SN2017hxt -- tAT2017hxt_20171109_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hxt
+Removing duplicate spectrum for SN2017hrq -- tATLAS17mwz_20171108_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hrq
+Removing duplicate spectrum for SN2017hrm -- tATLAS17mwu_20171108_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hrm
+Removing duplicate spectrum for SN2017hrg -- tATLAS17mwk_20171108_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hrg
+Presumably no other duplicate files found for ASASSN-14ms
+Runtime: 2.311376631259918 minutesRemoving duplicate spectrum for SN2017hyh -- tATLAS17naq_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyh
+Removing duplicate spectrum for SN2017hyx -- tAT2017hyx_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyx
+Removing duplicate spectrum for SN2017hyw -- tAT2017hyw_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyw
+Removing duplicate spectrum for SN2017hxv -- tAT2017hxv_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hxv
+Removing duplicate spectrum for SN2017hcz -- tLSQ14cqo_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hcz
+Removing duplicate spectrum for SN2017hyn -- tATLAS17nbj_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyn
+Removing duplicate spectrum for SN2017hrh -- tATLAS17mwl_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hrh
+Removing duplicate spectrum for SN2017hop -- tATLAS17msd_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hop
+Removing duplicate spectrum for SN2017hyy -- tAT2017hyy_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyy
+Removing duplicate spectrum for SN2017hya -- tAT2017hya_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hya
+Removing duplicate spectrum for SN2017hxz -- tAT2017hxz_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hxz
+Removing duplicate spectrum for SN2017huu -- tAT2017huu_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017huu
+Removing duplicate spectrum for SN2017hof -- tATLAS17mrm_20171110_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hof
+Removing duplicate spectrum for SN2016eei -- tSN2016eei_20171110_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2016eei
+Removing duplicate spectrum for SN2017hxt -- tAT2017hxt_20171109_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hxt
+Removing duplicate spectrum for SN2017hrq -- tATLAS17mwz_20171108_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hrq
+Removing duplicate spectrum for SN2017hrm -- tATLAS17mwu_20171108_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hrm
+Removing duplicate spectrum for SN2017hrg -- tATLAS17mwk_20171108_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hrg
+Presumably no other duplicate files found for ASASSN-14ms
+Runtime: 2.2558079878489177 minutesRemoving duplicate spectrum for SN2017hyh -- tATLAS17naq_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyh
+Removing duplicate spectrum for SN2017hyx -- tAT2017hyx_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyx
+Removing duplicate spectrum for SN2017hyw -- tAT2017hyw_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyw
+Removing duplicate spectrum for SN2017hxv -- tAT2017hxv_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hxv
+Removing duplicate spectrum for SN2017hcz -- tLSQ14cqo_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hcz
+Removing duplicate spectrum for SN2017hyn -- tATLAS17nbj_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyn
+Removing duplicate spectrum for SN2017hrh -- tATLAS17mwl_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hrh
+Removing duplicate spectrum for SN2017hop -- tATLAS17msd_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hop
+Removing duplicate spectrum for SN2017hyy -- tAT2017hyy_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyy
+Removing duplicate spectrum for SN2017hya -- tAT2017hya_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hya
+Removing duplicate spectrum for SN2017hxz -- tAT2017hxz_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hxz
+Removing duplicate spectrum for SN2017huu -- tAT2017huu_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017huu
+Removing duplicate spectrum for SN2017hof -- tATLAS17mrm_20171110_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hof
+Removing duplicate spectrum for SN2016eei -- tSN2016eei_20171110_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2016eei
+Removing duplicate spectrum for SN2017hxt -- tAT2017hxt_20171109_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hxt
+Removing duplicate spectrum for SN2017hrq -- tATLAS17mwz_20171108_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hrq
+Removing duplicate spectrum for SN2017hrm -- tATLAS17mwu_20171108_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hrm
+Removing duplicate spectrum for SN2017hrg -- tATLAS17mwk_20171108_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hrg
+Runtime: 2.19508851369222 minutesRemoving duplicate spectrum for SN2017hyh -- tATLAS17naq_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyh
+Removing duplicate spectrum for SN2017hyx -- tAT2017hyx_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyx
+Removing duplicate spectrum for SN2017hyw -- tAT2017hyw_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyw
+Removing duplicate spectrum for SN2017hxv -- tAT2017hxv_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hxv
+Removing duplicate spectrum for SN2017hcz -- tLSQ14cqo_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hcz
+Removing duplicate spectrum for SN2017hyn -- tATLAS17nbj_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyn
+Removing duplicate spectrum for SN2017hrh -- tATLAS17mwl_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hrh
+Removing duplicate spectrum for SN2017hop -- tATLAS17msd_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hop
+Removing duplicate spectrum for SN2017hyy -- tAT2017hyy_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyy
+Removing duplicate spectrum for SN2017hya -- tAT2017hya_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hya
+Removing duplicate spectrum for SN2017hxz -- tAT2017hxz_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hxz
+Removing duplicate spectrum for SN2017huu -- tAT2017huu_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017huu
+Removing duplicate spectrum for SN2017hof -- tATLAS17mrm_20171110_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hof
+Removing duplicate spectrum for SN2016eei -- tSN2016eei_20171110_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2016eei
+Removing duplicate spectrum for SN2017hxt -- tAT2017hxt_20171109_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hxt
+Removing duplicate spectrum for SN2017hrq -- tATLAS17mwz_20171108_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hrq
+Removing duplicate spectrum for SN2017hrm -- tATLAS17mwu_20171108_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hrm
+Removing duplicate spectrum for SN2017hrg -- tATLAS17mwk_20171108_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017hrg
+Runtime: 2.062751865386963 minutesRemoving duplicate spectrum for SN2017hyh -- tATLAS17naq_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyh
+Removing duplicate spectrum for SN2017hyx -- tAT2017hyx_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyx
+Removing duplicate spectrum for SN2017hyw -- tAT2017hyw_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyw
+Removing duplicate spectrum for SN2017hxv -- tAT2017hxv_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hxv
+Removing duplicate spectrum for SN2017hcz -- tLSQ14cqo_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hcz
+Removing duplicate spectrum for SN2017hyn -- tATLAS17nbj_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyn
+Removing duplicate spectrum for SN2017hrh -- tATLAS17mwl_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hrh
+Removing duplicate spectrum for SN2017hop -- tATLAS17msd_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hop
+Removing duplicate spectrum for SN2017hyy -- tAT2017hyy_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyy
+Removing duplicate spectrum for SN2017hya -- tAT2017hya_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hya
+Removing duplicate spectrum for SN2017hxz -- tAT2017hxz_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hxz
+Removing duplicate spectrum for SN2017huu -- tAT2017huu_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017huu
+Removing duplicate spectrum for SN2017hof -- tATLAS17mrm_20171110_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hof
+Removing duplicate spectrum for SN2016eei -- tSN2016eei_20171110_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2016eei
+Runtime: 1.4122073809305826 minutesPresumably no other duplicate files found for SN2012au
+Removing duplicate spectrum for SN2017hyh -- tATLAS17naq_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyh
+Removing duplicate spectrum for SN2017hyx -- tAT2017hyx_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyx
+Removing duplicate spectrum for SN2017hyw -- tAT2017hyw_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyw
+Removing duplicate spectrum for SN2017hxv -- tAT2017hxv_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hxv
+Removing duplicate spectrum for SN2017hcz -- tLSQ14cqo_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hcz
+Removing duplicate spectrum for SN2017hyn -- tATLAS17nbj_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyn
+Removing duplicate spectrum for SN2017hrh -- tATLAS17mwl_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hrh
+Removing duplicate spectrum for SN2017hop -- tATLAS17msd_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hop
+Removing duplicate spectrum for SN2017hyy -- tAT2017hyy_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyy
+Removing duplicate spectrum for SN2017hya -- tAT2017hya_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hya
+Removing duplicate spectrum for SN2017hxz -- tAT2017hxz_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hxz
+Removing duplicate spectrum for SN2017huu -- tAT2017huu_20171111_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017huu
+Runtime: 1.2750323136647543 minutesPresumably no other duplicate files found for SN2012au
+Runtime: 0.3780250827471415 minutesRemoving duplicate spectrum for SN2017hyh -- tATLAS17naq_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyh
+Removing duplicate spectrum for SN2017hyx -- tAT2017hyx_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyx
+Removing duplicate spectrum for SN2017hyw -- tAT2017hyw_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hyw
+Removing duplicate spectrum for SN2017hxv -- tAT2017hxv_20171112_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017hxv
+Runtime: 0.8127345085144043 minutesRuntime: 0.7737134019533793 minutesRuntime: 0.6235753575960795 minutesRuntime: 0.6161088347434998 minutesRuntime: 0.7480979839960734 minutesRuntime: 1.0039343555768332 minutesRuntime: 1.0205887834231058 minutesType not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for MASTERJ034412.48-263556.5 -- tMASTERJ034412.48-263556.5_20171124_Gr11_Free_slit1.5_1_f.asci
+Removing duplicate spectrum for MASTERJ034412.48-263556.5 -- tMASTERJ034412.48-263556.5_20171125_Gr13_Free_slit1.0_1_f.asci
+Not collecting spectra of MASTERJ034412.48-263556.5 at this time
+Removing duplicate spectrum for SN2017igt -- tPS17fcg_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017igt
+Removing duplicate spectrum for SN2017ihf -- tATLAS17ngb_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017ihf
+Removing duplicate spectrum for SN2017igy -- tPS17fcj_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017igy
+Removing duplicate spectrum for SN2017iln -- tATLAS17njg_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017iln
+Removing duplicate spectrum for SN2017ili -- tATLAS17nja_20171124_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ili
+Runtime: 1.6044660051663717 minutesRemoving duplicate spectrum for SN2017imw -- tATLAS17nkf_20171126_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017imw
+Removing duplicate spectrum for SN2017ijk -- tATLAS17nic_20171126_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ijk
+Removing duplicate spectrum for SN2017ihg -- tATLAS17nfm_20171126_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ihg
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for MASTERJ034412.48-263556.5 -- tMASTERJ034412.48-263556.5_20171124_Gr11_Free_slit1.5_1_f.asci
+Removing duplicate spectrum for MASTERJ034412.48-263556.5 -- tMASTERJ034412.48-263556.5_20171125_Gr13_Free_slit1.0_1_f.asci
+Not collecting spectra of MASTERJ034412.48-263556.5 at this time
+Removing duplicate spectrum for SN2017igt -- tPS17fcg_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017igt
+Removing duplicate spectrum for SN2017ihf -- tATLAS17ngb_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017ihf
+Removing duplicate spectrum for SN2017igy -- tPS17fcj_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017igy
+Removing duplicate spectrum for SN2017iln -- tATLAS17njg_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017iln
+Removing duplicate spectrum for SN2017ili -- tATLAS17nja_20171124_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ili
+Runtime: 2.1407560467720033 minutesRemoving duplicate spectrum for SN2017imw -- tATLAS17nkf_20171126_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017imw
+Removing duplicate spectrum for SN2017ijk -- tATLAS17nic_20171126_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ijk
+Removing duplicate spectrum for SN2017ihg -- tATLAS17nfm_20171126_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ihg
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for MASTERJ034412.48-263556.5 -- tMASTERJ034412.48-263556.5_20171124_Gr11_Free_slit1.5_1_f.asci
+Removing duplicate spectrum for MASTERJ034412.48-263556.5 -- tMASTERJ034412.48-263556.5_20171125_Gr13_Free_slit1.0_1_f.asci
+Not collecting spectra of MASTERJ034412.48-263556.5 at this time
+Removing duplicate spectrum for SN2017igt -- tPS17fcg_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017igt
+Removing duplicate spectrum for SN2017ihf -- tATLAS17ngb_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017ihf
+Removing duplicate spectrum for SN2017igy -- tPS17fcj_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017igy
+Removing duplicate spectrum for SN2017iln -- tATLAS17njg_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017iln
+Removing duplicate spectrum for SN2017ili -- tATLAS17nja_20171124_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ili
+Runtime: 2.0730044643084207 minutesRemoving duplicate spectrum for SN2017ipa -- tAT2017ipa_20171128_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ipa
+Removing duplicate spectrum for SN2017imd -- tAT2017imd_20171127_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017imd
+Removing duplicate spectrum for SN2017ilv -- tAT2017ilv_20171127_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ilv
+Removing duplicate spectrum for SN2017ilt -- tAT2017ilt_20171127_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ilt
+Removing duplicate spectrum for SN2017ile -- tAT2017ile_20171127_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ile
+Removing duplicate spectrum for SN2017ijq -- tAT2017ijq_20171127_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ijq
+Removing duplicate spectrum for SN2017imw -- tATLAS17nkf_20171126_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017imw
+Removing duplicate spectrum for SN2017ijk -- tATLAS17nic_20171126_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ijk
+Removing duplicate spectrum for SN2017ihg -- tATLAS17nfm_20171126_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ihg
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for MASTERJ034412.48-263556.5 -- tMASTERJ034412.48-263556.5_20171124_Gr11_Free_slit1.5_1_f.asci
+Removing duplicate spectrum for MASTERJ034412.48-263556.5 -- tMASTERJ034412.48-263556.5_20171125_Gr13_Free_slit1.0_1_f.asci
+Not collecting spectra of MASTERJ034412.48-263556.5 at this time
+Removing duplicate spectrum for SN2017igt -- tPS17fcg_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017igt
+Removing duplicate spectrum for SN2017ihf -- tATLAS17ngb_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017ihf
+Removing duplicate spectrum for SN2017igy -- tPS17fcj_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017igy
+Removing duplicate spectrum for SN2017iln -- tATLAS17njg_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017iln
+Removing duplicate spectrum for SN2017ili -- tATLAS17nja_20171124_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ili
+Runtime: 2.0508262594540914 minutesRemoving duplicate spectrum for SN2017ipa -- tAT2017ipa_20171128_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ipa
+Removing duplicate spectrum for SN2017imd -- tAT2017imd_20171127_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017imd
+Removing duplicate spectrum for SN2017ilv -- tAT2017ilv_20171127_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ilv
+Removing duplicate spectrum for SN2017ilt -- tAT2017ilt_20171127_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ilt
+Removing duplicate spectrum for SN2017ile -- tAT2017ile_20171127_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ile
+Removing duplicate spectrum for SN2017ijq -- tAT2017ijq_20171127_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ijq
+Removing duplicate spectrum for SN2017imw -- tATLAS17nkf_20171126_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017imw
+Removing duplicate spectrum for SN2017ijk -- tATLAS17nic_20171126_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ijk
+Removing duplicate spectrum for SN2017ihg -- tATLAS17nfm_20171126_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ihg
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for MASTERJ034412.48-263556.5 -- tMASTERJ034412.48-263556.5_20171124_Gr11_Free_slit1.5_1_f.asci
+Removing duplicate spectrum for MASTERJ034412.48-263556.5 -- tMASTERJ034412.48-263556.5_20171125_Gr13_Free_slit1.0_1_f.asci
+Not collecting spectra of MASTERJ034412.48-263556.5 at this time
+Removing duplicate spectrum for SN2017igt -- tPS17fcg_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017igt
+Removing duplicate spectrum for SN2017ihf -- tATLAS17ngb_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017ihf
+Removing duplicate spectrum for SN2017igy -- tPS17fcj_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017igy
+Removing duplicate spectrum for SN2017iln -- tATLAS17njg_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017iln
+Removing duplicate spectrum for SN2017ili -- tATLAS17nja_20171124_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ili
+Runtime: 1.8988599061965943 minutesRemoving duplicate spectrum for SN2017ipa -- tAT2017ipa_20171128_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ipa
+Removing duplicate spectrum for SN2017imd -- tAT2017imd_20171127_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017imd
+Removing duplicate spectrum for SN2017ilv -- tAT2017ilv_20171127_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ilv
+Removing duplicate spectrum for SN2017ilt -- tAT2017ilt_20171127_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ilt
+Removing duplicate spectrum for SN2017ile -- tAT2017ile_20171127_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ile
+Removing duplicate spectrum for SN2017ijq -- tAT2017ijq_20171127_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ijq
+Removing duplicate spectrum for SN2017imw -- tATLAS17nkf_20171126_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017imw
+Removing duplicate spectrum for SN2017ijk -- tATLAS17nic_20171126_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ijk
+Removing duplicate spectrum for SN2017ihg -- tATLAS17nfm_20171126_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ihg
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for MASTERJ034412.48-263556.5 -- tMASTERJ034412.48-263556.5_20171124_Gr11_Free_slit1.5_1_f.asci
+Removing duplicate spectrum for MASTERJ034412.48-263556.5 -- tMASTERJ034412.48-263556.5_20171125_Gr13_Free_slit1.0_1_f.asci
+Not collecting spectra of MASTERJ034412.48-263556.5 at this time
+Removing duplicate spectrum for SN2017igt -- tPS17fcg_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017igt
+Removing duplicate spectrum for SN2017ihf -- tATLAS17ngb_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017ihf
+Removing duplicate spectrum for SN2017igy -- tPS17fcj_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017igy
+Removing duplicate spectrum for SN2017iln -- tATLAS17njg_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017iln
+Removing duplicate spectrum for SN2017ili -- tATLAS17nja_20171124_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ili
+Runtime: 1.7218737641970316 minutesNot collecting spectra of SN2017iro at this time
+Removing duplicate spectrum for SN2017ipa -- tAT2017ipa_20171128_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ipa
+Removing duplicate spectrum for SN2017imd -- tAT2017imd_20171127_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017imd
+Removing duplicate spectrum for SN2017ilv -- tAT2017ilv_20171127_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ilv
+Removing duplicate spectrum for SN2017ilt -- tAT2017ilt_20171127_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ilt
+Removing duplicate spectrum for SN2017ile -- tAT2017ile_20171127_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ile
+Removing duplicate spectrum for SN2017ijq -- tAT2017ijq_20171127_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ijq
+Removing duplicate spectrum for SN2017imw -- tATLAS17nkf_20171126_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017imw
+Removing duplicate spectrum for SN2017ijk -- tATLAS17nic_20171126_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ijk
+Removing duplicate spectrum for SN2017ihg -- tATLAS17nfm_20171126_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ihg
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Removing duplicate spectrum for MASTERJ034412.48-263556.5 -- tMASTERJ034412.48-263556.5_20171124_Gr11_Free_slit1.5_1_f.asci
+Removing duplicate spectrum for MASTERJ034412.48-263556.5 -- tMASTERJ034412.48-263556.5_20171125_Gr13_Free_slit1.0_1_f.asci
+Not collecting spectra of MASTERJ034412.48-263556.5 at this time
+Removing duplicate spectrum for SN2017igt -- tPS17fcg_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017igt
+Removing duplicate spectrum for SN2017ihf -- tATLAS17ngb_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017ihf
+Removing duplicate spectrum for SN2017igy -- tPS17fcj_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017igy
+Removing duplicate spectrum for SN2017iln -- tATLAS17njg_20171124_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017iln
+Removing duplicate spectrum for SN2017ili -- tATLAS17nja_20171124_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ili
+Runtime: 1.47641255458196 minutesNot collecting spectra of SN2017iro at this time
+Removing duplicate spectrum for SN2017ipa -- tAT2017ipa_20171128_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ipa
+Removing duplicate spectrum for SN2017imd -- tAT2017imd_20171127_Gr13_Free_slit1.5_1_f.asci
+Presumably no other duplicate files found for SN2017imd
+Removing duplicate spectrum for SN2017ilv -- tAT2017ilv_20171127_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ilv
+Removing duplicate spectrum for SN2017ilt -- tAT2017ilt_20171127_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ilt
+Removing duplicate spectrum for SN2017ile -- tAT2017ile_20171127_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ile
+Removing duplicate spectrum for SN2017ijq -- tAT2017ijq_20171127_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ijq
+Runtime: 0.8418062647183736 minutesNot collecting spectra of SN2017iro at this time
+Removing duplicate spectrum for SN2017ipa -- tAT2017ipa_20171128_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2017ipa
+Runtime: 0.5303810358047485 minutesFrom statement 4: SN2017isq has no spectra to collect
+Not collecting spectra of SN2017iro at this time
+Runtime: 0.5630465586980183 minutesRuntime: 0.4507378617922465 minutesFrom statement 3: SN2017iuk has no spectra to collect
+From statement 4: SN2017iuk has no spectra to collect
+Runtime: 0.44489670197168985 minutesFrom statement 3: SN2017iuk has no spectra to collect
+From statement 4: SN2017iuk has no spectra to collect
+Runtime: 0.5117496887842814 minutes

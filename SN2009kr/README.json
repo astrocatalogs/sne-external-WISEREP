@@ -1,0 +1,30 @@
+{
+    "SN2009kr_2009-11-11_fast_1.ascii": {
+        "Type": "SN IIn",
+        "Redshift": "0.0063",
+        "Obs. Date": "2009-11-11",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "FLWO 1.5m - FAST",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-09-25",
+        "Modified By": "ofer-UploadSet"
+    },
+    "SN2009kr_2009-11-12_fast_2.ascii": {
+        "Type": "SN IIn",
+        "Redshift": "0.0063",
+        "Obs. Date": "2009-11-12",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "FLWO 1.5m - FAST",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-09-25",
+        "Modified By": "ofer-UploadSet"
+    }
+}

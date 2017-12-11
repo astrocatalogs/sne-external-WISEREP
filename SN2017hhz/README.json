@@ -1,0 +1,16 @@
+{
+    "tns_2017hhz_2017-10-14_09-00-13_P60_SED-Machine_iPTF.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.0392",
+        "Obs. Date": "2017-10-14",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SED-Machine",
+        "Observer": "Walters/Neill/Blagorodnova",
+        "Reducer": "Neill",
+        "Reduction Status": "final",
+        "Last Modified": "2017-10-14",
+        "Modified By": "upload-TNS"
+    }
+}

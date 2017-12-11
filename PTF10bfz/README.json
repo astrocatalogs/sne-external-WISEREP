@@ -1,0 +1,16 @@
+{
+    "ptf10bfz_host_lris150423.spec": {
+        "Type": "SN Ic-BL",
+        "Redshift": "0.169",
+        "Obs. Date": "2015-04-23",
+        "Program": "",
+        "Contributor": "Perley et al. 2016",
+        "Bibcode": "2016ApJ...830...13P",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Perley",
+        "Reducer": "Perley",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-25",
+        "Modified By": "ilanm-UploadSet"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "OGLE-2013-SN-012_20130130_Gr13_Free_slit1.0_56456_2.ascii": {
+        "Type": "Other",
+        "Redshift": "0.083",
+        "Obs. Date": "2013-01-31",
+        "Program": "PESSTO-SSDR",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Nancy Elias-Rosa, Antonia Morales Garoffolo",
+        "Reducer": "Stefan Taubenberger, Sandra Benitez",
+        "Reduction Status": "final",
+        "Last Modified": "2014-07-30",
+        "Modified By": "ofer-UploadSet"
+    }
+}

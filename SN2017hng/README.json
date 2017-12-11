@@ -1,0 +1,30 @@
+{
+    "tns_2017hng_2017-10-25.7_LJT_YFOSC_PTSS.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.03",
+        "Obs. Date": "2017-10-25",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LJT - YFOSC",
+        "Observer": "Jujia Zhang",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2017-10-26",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2017hng_2017-10-26_00-42-32_Ekar_AFOSC_Padova-Asiago.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.03",
+        "Obs. Date": "2017-10-26",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Taubenberger",
+        "Reducer": "Taubenberger",
+        "Reduction Status": "final",
+        "Last Modified": "2017-10-26",
+        "Modified By": "upload-TNS"
+    }
+}

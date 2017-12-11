@@ -1,1 +1,58 @@
-{}
+{
+    "SN06bo_b01_BAA_IM_16apr06.txt": {
+        "Type": "SN IIn",
+        "Redshift": "0.0153",
+        "Obs. Date": "2006-04-16",
+        "Program": "CSP",
+        "Contributor": "Taddia et al 2013",
+        "Bibcode": "2013A&A...555A..10T",
+        "Instrument": "Magellan-Baade - IMACS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2013-04-22",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "SN06bo_g01_BAA_IM_16apr06.txt": {
+        "Type": "SN IIn",
+        "Redshift": "0.0153",
+        "Obs. Date": "2006-04-16",
+        "Program": "CSP",
+        "Contributor": "Taddia et al 2013",
+        "Bibcode": "2013A&A...555A..10T",
+        "Instrument": "Magellan-Baade - IMACS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2013-04-22",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "SN06bo_r01_BAA_IM_16apr06.txt": {
+        "Type": "SN IIn",
+        "Redshift": "0.0153",
+        "Obs. Date": "2006-04-16",
+        "Program": "CSP",
+        "Contributor": "Taddia et al 2013",
+        "Bibcode": "2013A&A...555A..10T",
+        "Instrument": "Magellan-Baade - IMACS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2013-04-22",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "SN06bo_b01_DUP_WF_26apr06.txt": {
+        "Type": "SN IIn",
+        "Redshift": "0.0153",
+        "Obs. Date": "2006-04-26",
+        "Program": "CSP",
+        "Contributor": "Taddia et al 2013",
+        "Bibcode": "2013A&A...555A..10T",
+        "Instrument": "LCO-duPont - WFCCD",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2013-04-22",
+        "Modified By": "ilanm-UploadSet"
+    }
+}

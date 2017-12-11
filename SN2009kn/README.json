@@ -1,0 +1,58 @@
+{
+    "SN2009kn_2009-11-15_fast_1.ascii": {
+        "Type": "SN IIn",
+        "Redshift": "",
+        "Obs. Date": "2009-11-15",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "FLWO 1.5m - FAST",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-09-25",
+        "Modified By": "ofer-UploadSet"
+    },
+    "SN2009kn_2009-11-17_fast_2.ascii": {
+        "Type": "SN IIn",
+        "Redshift": "",
+        "Obs. Date": "2009-11-17",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "FLWO 1.5m - FAST",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-09-25",
+        "Modified By": "ofer-UploadSet"
+    },
+    "SN2009kn_2009-11-21_fast_3.ascii": {
+        "Type": "SN IIn",
+        "Redshift": "",
+        "Obs. Date": "2009-11-21",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "FLWO 1.5m - FAST",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-09-25",
+        "Modified By": "ofer-UploadSet"
+    },
+    "SN2009kn_2009-11-22_other_4.ascii": {
+        "Type": "SN IIn",
+        "Redshift": "",
+        "Obs. Date": "2009-11-22",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-09-25",
+        "Modified By": "ofer-UploadSet"
+    }
+}

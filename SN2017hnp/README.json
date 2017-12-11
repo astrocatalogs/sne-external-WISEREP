@@ -1,0 +1,16 @@
+{
+    "tns_2017hnp_2017-10-23_06-56-19_P60_SED-Machine_iPTF.txt": {
+        "Type": "SN Ia-91T-like",
+        "Redshift": "0.1473",
+        "Obs. Date": "2017-10-23",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SED-Machine",
+        "Observer": "Walters/Neill/Blagorodnova",
+        "Reducer": "Neill",
+        "Reduction Status": "final",
+        "Last Modified": "2017-10-23",
+        "Modified By": "upload-TNS"
+    }
+}

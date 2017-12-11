@@ -1,0 +1,16 @@
+{
+    "tns_2016ad_2016-01-28_04-19-59_ESO-NTT_EFOSC2-NTT_PESSTO.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.05",
+        "Obs. Date": "2016-01-28",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": " N. Elias-Rosa, G. Terreran, A. Cikota",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2017-04-07",
+        "Modified By": "upload-TNS"
+    }
+}

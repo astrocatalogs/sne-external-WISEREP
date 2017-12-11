@@ -1,0 +1,72 @@
+{
+    "ps1-10afx-20100911-gmos+err.flm": {
+        "Type": "SN Ia",
+        "Redshift": "1.3883",
+        "Obs. Date": "2010-09-11",
+        "Program": "",
+        "Contributor": "Chornock et al. 2013",
+        "Bibcode": "2013ApJ...767..162C",
+        "Instrument": "Gemini-N - GMOS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-06-14",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "ps1-10afx-fire-20100918-air+err-sca.flm": {
+        "Type": "SN Ia",
+        "Redshift": "1.3883",
+        "Obs. Date": "2010-09-18",
+        "Program": "",
+        "Contributor": "Chornock et al. 2013",
+        "Bibcode": "2013ApJ...767..162C",
+        "Instrument": "Magellan-Baade - FIRE",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-06-14",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "ps1-10afx-20100926-gmos+err.flm": {
+        "Type": "SN Ia",
+        "Redshift": "1.3883",
+        "Obs. Date": "2010-09-26",
+        "Program": "",
+        "Contributor": "Chornock et al. 2013",
+        "Bibcode": "2013ApJ...767..162C",
+        "Instrument": "Gemini-S - GMOS-S",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-06-14",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "ps1-10afx-mmirs-zJ-20100928.flm": {
+        "Type": "SN Ia",
+        "Redshift": "1.3883",
+        "Obs. Date": "2010-09-28",
+        "Program": "",
+        "Contributor": "Chornock et al. 2013",
+        "Bibcode": "2013ApJ...767..162C",
+        "Instrument": "MMT - MMIRS",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2017-06-14",
+        "Modified By": "ilanm-UploadSet"
+    },
+    "PS1-10afx_host+lens.dat": {
+        "Type": "SN Ia",
+        "Redshift": "1.3883",
+        "Obs. Date": "2013-09-07",
+        "Program": "",
+        "Contributor": "Quimby et al. (2014)",
+        "Bibcode": "2014Sci...344..396Q",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Quimby, Oguri, Moriya",
+        "Reducer": "Quimby",
+        "Reduction Status": "final",
+        "Last Modified": "2014-04-27",
+        "Modified By": "ofer"
+    }
+}

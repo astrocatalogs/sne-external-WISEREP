@@ -1,0 +1,16 @@
+{
+    "tns_2017hlx_2017-10-22.31_LCO-duPont_WFCCD_ASAS-SN.txt": {
+        "Type": "SN II",
+        "Redshift": "0.0162",
+        "Obs. Date": "2017-10-22",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LCO-duPont - WFCCD",
+        "Observer": "M. Seibert",
+        "Reducer": "S. Bose",
+        "Reduction Status": "final",
+        "Last Modified": "2017-10-25",
+        "Modified By": "upload-TNS"
+    }
+}

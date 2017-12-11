@@ -1,0 +1,30 @@
+{
+    "tns_2017htb_2017-11-05_20-03-41_Other_Other.dat": {
+        "Type": "SN Ia",
+        "Redshift": "",
+        "Obs. Date": "2017-11-05",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "R Leadbeater",
+        "Reducer": "R Leadbeater",
+        "Reduction Status": "final",
+        "Last Modified": "2017-11-06",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2017htb_2017-11-06.5_LJT_YFOSC.dat": {
+        "Type": "SN Ia",
+        "Redshift": "",
+        "Obs. Date": "2017-11-06",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lijiang-2.4m - YFOSC",
+        "Observer": "Jujia Zhang",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2017-11-07",
+        "Modified By": "upload-TNS"
+    }
+}

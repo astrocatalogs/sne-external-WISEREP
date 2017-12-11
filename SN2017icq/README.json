@@ -1,0 +1,16 @@
+{
+    "tns_2017icq_2017-11-15_15-51-24_Keck1_LRIS_iPTF.spec": {
+        "Type": "SN Ia",
+        "Redshift": "0.09",
+        "Obs. Date": "2017-11-15",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Blagorodnova,Fremling,Frederick,Cunningham",
+        "Reducer": "Ho",
+        "Reduction Status": "final",
+        "Last Modified": "2017-11-21",
+        "Modified By": "upload-TNS"
+    }
+}

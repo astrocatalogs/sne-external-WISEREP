@@ -1,0 +1,16 @@
+{
+    "tns_2017bzc_2017-03-29.4_LCO-duPont_WFCCD.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.005365",
+        "Obs. Date": "2017-03-29",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LCO-duPont - WFCCD",
+        "Observer": "N. Morrell",
+        "Reducer": "N. Morrell",
+        "Reduction Status": "final",
+        "Last Modified": "2017-07-04",
+        "Modified By": "upload-TNS"
+    }
+}

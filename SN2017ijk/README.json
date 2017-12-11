@@ -1,0 +1,16 @@
+{
+    "tns_2017ijk_2017-11-27_03-53-48_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.063",
+        "Obs. Date": "2017-11-27",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "K. M. Lopez, Z. Kostrzewa-Rutkowska",
+        "Reducer": "K. M. Lopez, Z. Kostrzewa-Rutkowska",
+        "Reduction Status": "final",
+        "Last Modified": "2017-11-27",
+        "Modified By": "upload-TNS"
+    }
+}

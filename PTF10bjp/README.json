@@ -1,0 +1,16 @@
+{
+    "ptf10bjp_host_lris131204.spec": {
+        "Type": "SN",
+        "Redshift": "0.359",
+        "Obs. Date": "2013-12-04",
+        "Program": "",
+        "Contributor": "Perley et al. 2016",
+        "Bibcode": "2016ApJ...830...13P",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Perley",
+        "Reducer": "Perley",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-25",
+        "Modified By": "ilanm-UploadSet"
+    }
+}

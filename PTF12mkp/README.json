@@ -1,0 +1,16 @@
+{
+    "ptf12mkp_late_lris141119.spec": {
+        "Type": "SN IIn",
+        "Redshift": "0.153",
+        "Obs. Date": "2014-11-19",
+        "Program": "",
+        "Contributor": "Perley et al. 2016",
+        "Bibcode": "2016ApJ...830...13P",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Perley",
+        "Reducer": "Perley",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-25",
+        "Modified By": "ilanm-UploadSet"
+    }
+}

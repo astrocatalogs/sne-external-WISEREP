@@ -1,0 +1,16 @@
+{
+    "tns_2017hro_2017-11-01.8_NOT_ALFOSC.txt": {
+        "Type": "SN II",
+        "Redshift": "0.015",
+        "Obs. Date": "2017-11-01",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "NOT - ALFOSC",
+        "Observer": "C. Babooram, J. Jormanainen, S. Wagner, F. Wierda, H. Kuncarayakti, G. Fedorets, S. Dyrbye",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2017-11-02",
+        "Modified By": "upload-TNS"
+    }
+}

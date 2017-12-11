@@ -1,0 +1,16 @@
+{
+    "tns_2017hpa_2017-10-25_23-55-02_Ekar_AFOSC_Padova-Asiago.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.015654",
+        "Obs. Date": "2017-10-25",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Taubenberger",
+        "Reducer": "Taubenberger",
+        "Reduction Status": "final",
+        "Last Modified": "2017-10-26",
+        "Modified By": "upload-TNS"
+    }
+}

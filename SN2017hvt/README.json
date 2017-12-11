@@ -1,0 +1,16 @@
+{
+    "tns_2017hvt_2017-11-08.00_SOAR_Goodman.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.021",
+        "Obs. Date": "2017-11-08",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "SOAR - Goodman",
+        "Observer": "Jay Strader",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2017-11-08",
+        "Modified By": "upload-TNS"
+    }
+}

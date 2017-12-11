@@ -1,0 +1,30 @@
+{
+    "tns_2017hle_2458046.42_Ekar_AFOSC_Padova-Asiago.dat": {
+        "Type": "SN Ia-91bg-like",
+        "Redshift": "0.015",
+        "Obs. Date": "2017-10-19",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "tomasella",
+        "Reducer": "tomasella",
+        "Reduction Status": "final",
+        "Last Modified": "2017-10-20",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2017hle_2458046.53_LT_SPRAT.txt": {
+        "Type": "SN Ia-91bg-like",
+        "Redshift": "0.015",
+        "Obs. Date": "2017-10-20",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LT - SPRAT",
+        "Observer": "Simon Prentice",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2017-10-20",
+        "Modified By": "upload-TNS"
+    }
+}
