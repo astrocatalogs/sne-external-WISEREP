@@ -1,0 +1,72 @@
+{
+    "PTF11mnb.111007.snifs.unknown.smoothed.dat": {
+        "Type": "SN Ic",
+        "Redshift": "0.0603",
+        "Obs. Date": "2011-10-07",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "UH88 - SNIFS",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    },
+    "PTF11mnb.111030.dbsp.b600r158.smoothed.dat": {
+        "Type": "SN Ic",
+        "Redshift": "0.0603",
+        "Obs. Date": "2011-10-30",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "P200 - DBSP",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    },
+    "PTF11mnb.111126.lris.b400r400.smoothed.dat": {
+        "Type": "SN Ic",
+        "Redshift": "0.0603",
+        "Obs. Date": "2011-11-26",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    },
+    "PTF11mnb.111221.dbsp.b600r316.smoothed.dat": {
+        "Type": "SN Ic",
+        "Redshift": "0.0603",
+        "Obs. Date": "2011-12-21",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "P200 - DBSP",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    },
+    "PTF11mnb.120127.kpno.unknown.smoothed.dat": {
+        "Type": "SN Ic",
+        "Redshift": "0.0603",
+        "Obs. Date": "2012-01-27",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "Mayall - RC Spec",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    }
+}

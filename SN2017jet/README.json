@@ -1,0 +1,30 @@
+{
+    "tns_2017jet_2017-12-27_23-15-54_Other_Other.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.04",
+        "Obs. Date": "2017-12-27",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "R Leadbeater",
+        "Reducer": "R Leadbeater",
+        "Reduction Status": "final",
+        "Last Modified": "2017-12-28",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2017jet_2017-12-28.48_P200_DBSP_ASAS-SN.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.04",
+        "Obs. Date": "2017-12-28",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P200 - DBSP",
+        "Observer": "S. Bose, P. Chen",
+        "Reducer": "S. Bose",
+        "Reduction Status": "final",
+        "Last Modified": "2017-12-31",
+        "Modified By": "upload-TNS"
+    }
+}

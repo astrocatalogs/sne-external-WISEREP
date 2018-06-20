@@ -1,0 +1,44 @@
+{
+    "PTF12hni.120809.lick.unknown.smoothed.dat": {
+        "Type": "SN Ic",
+        "Redshift": "0.1056",
+        "Obs. Date": "2012-08-09",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    },
+    "PTF12hni.120819.lris.unknown.smoothed.dat": {
+        "Type": "SN Ic",
+        "Redshift": "0.1056",
+        "Obs. Date": "2012-08-19",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    },
+    "PTF12hni.130712.deimos.unknown.smoothed.dat": {
+        "Type": "SN Ic",
+        "Redshift": "0.1056",
+        "Obs. Date": "2013-07-12",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "Keck2 - DEIMOS",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    }
+}

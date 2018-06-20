@@ -1,7 +1,35 @@
 {
+    "PTF10bjp.100307.lris.b400r400.smoothed.dat": {
+        "Type": "SLSN-I",
+        "Redshift": "0.3585",
+        "Obs. Date": "2010-03-07",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    },
+    "PTF10bjp.100314.lris.b300.smoothed.dat": {
+        "Type": "SLSN-I",
+        "Redshift": "0.3585",
+        "Obs. Date": "2010-03-14",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    },
     "ptf10bjp_host_lris131204.spec": {
-        "Type": "SN",
-        "Redshift": "0.359",
+        "Type": "SLSN-I",
+        "Redshift": "0.3585",
         "Obs. Date": "2013-12-04",
         "Program": "",
         "Contributor": "Perley et al. 2016",

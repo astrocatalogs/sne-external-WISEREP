@@ -1,0 +1,16 @@
+{
+    "tns_2018btj_2018-05-19_13-43-27_FTN_FLOYDS-N_Global_SN_Project.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.0632",
+        "Obs. Date": "2018-05-19",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "FTN - FLOYDS-N",
+        "Observer": "Las Cumbres Observatory",
+        "Reducer": "Daichi Hiramatsu",
+        "Reduction Status": "final",
+        "Last Modified": "2018-05-19",
+        "Modified By": "upload-TNS"
+    }
+}

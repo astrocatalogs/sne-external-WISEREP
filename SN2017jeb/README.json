@@ -1,0 +1,16 @@
+{
+    "tns_2017jeb_2017-12-29_04-26-51_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+        "Type": "SN I",
+        "Redshift": "0.064",
+        "Obs. Date": "2017-12-29",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "C. R. Angus, S. Jones",
+        "Reducer": "C. R. Angus, S. Jones, C. Frohmaier",
+        "Reduction Status": "final",
+        "Last Modified": "2017-12-29",
+        "Modified By": "upload-TNS"
+    }
+}

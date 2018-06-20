@@ -1,0 +1,16 @@
+{
+    "tns_2018bdo_2018-05-01.00_NOT_ALFOSC_NUTS.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.08",
+        "Obs. Date": "2018-05-01",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "NOT - ALFOSC",
+        "Observer": "T. Pursimo",
+        "Reducer": "M. Fraser",
+        "Reduction Status": "final",
+        "Last Modified": "2018-05-01",
+        "Modified By": "upload-TNS"
+    }
+}

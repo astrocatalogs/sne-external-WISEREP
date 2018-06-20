@@ -1,0 +1,16 @@
+{
+    "tns_2018po_2458161.57957_SOAR_Goodman.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.032",
+        "Obs. Date": "2018-02-12",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "SOAR - Goodman",
+        "Observer": "Jay Strader",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-12",
+        "Modified By": "upload-TNS"
+    }
+}

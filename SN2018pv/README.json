@@ -1,0 +1,16 @@
+{
+    "tns_2018pv_2018-02-08.7_Kanata_HOWPol.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.0031",
+        "Obs. Date": "2018-02-08",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Kanata - HOWPol",
+        "Observer": "T. Nakaoka, M. Kawabata, R. Huang",
+        "Reducer": "M. Yamanaka",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-08",
+        "Modified By": "upload-TNS"
+    }
+}

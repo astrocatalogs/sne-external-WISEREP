@@ -1,0 +1,30 @@
+{
+    "PTF12gty.120722.lick.unknown.smoothed.dat": {
+        "Type": "SLSN-I",
+        "Redshift": "0.1768",
+        "Obs. Date": "2012-07-22",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    },
+    "PTF12gty.120727.dbsp.b600r316.smoothed.dat": {
+        "Type": "SLSN-I",
+        "Redshift": "0.1768",
+        "Obs. Date": "2012-07-27",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "P200 - DBSP",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "tns_2018ld_2018-01-29_06-36-14_P60_SED-Machine_ZTF.txt": {
+        "Type": "SN IIP",
+        "Redshift": "0.01",
+        "Obs. Date": "2018-01-29",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SED-Machine",
+        "Observer": "Walters/Neill/Blagorodnova",
+        "Reducer": "Neill",
+        "Reduction Status": "final",
+        "Last Modified": "2018-01-29",
+        "Modified By": "upload-TNS"
+    }
+}

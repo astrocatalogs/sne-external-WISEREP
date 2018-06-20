@@ -1,0 +1,16 @@
+{
+    "tns_2018aup_2018-04-18_03-37-08_P60_SED-Machine.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.0405",
+        "Obs. Date": "2018-04-18",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SED-Machine",
+        "Observer": "SEDM Robot",
+        "Reducer": "James Neill",
+        "Reduction Status": "final",
+        "Last Modified": "2018-04-19",
+        "Modified By": "upload-TNS"
+    }
+}

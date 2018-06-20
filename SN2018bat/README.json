@@ -1,0 +1,16 @@
+{
+    "tns_2018bat_2018-04-10.0_P200_DBSP_ZTF.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.124",
+        "Obs. Date": "2018-04-10",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P200 - DBSP",
+        "Observer": "C. Fremling",
+        "Reducer": "C. Fremling",
+        "Reduction Status": "final",
+        "Last Modified": "2018-04-24",
+        "Modified By": "upload-TNS"
+    }
+}

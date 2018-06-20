@@ -1,0 +1,16 @@
+{
+    "tns_2018bsr_2018-05-18_00-49-45_LT_SPRAT_ASAS-SN.dat": {
+        "Type": "SN Ia",
+        "Redshift": "",
+        "Obs. Date": "2018-05-18",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LT - SPRAT",
+        "Observer": "David Bersier",
+        "Reducer": "David Bersier",
+        "Reduction Status": "final",
+        "Last Modified": "2018-05-18",
+        "Modified By": "upload-TNS"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "tns_2018cib_2458281.630868_SALT_RSS_ASAS-SN.txt": {
+        "Type": "SN Ia-91T-like",
+        "Redshift": "0.03",
+        "Obs. Date": "2018-06-12",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "SALT - RSS",
+        "Observer": "D. A. H. Buckley",
+        "Reducer": "M. Gromadzki",
+        "Reduction Status": "final",
+        "Last Modified": "2018-06-13",
+        "Modified By": "upload-TNS"
+    }
+}

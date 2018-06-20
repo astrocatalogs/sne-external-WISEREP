@@ -1,0 +1,16 @@
+{
+    "tns_2017jdn_2458115.3456_BAO-2.16m_Cassegrain.txt": {
+        "Type": "SN IIb",
+        "Redshift": "0.0317",
+        "Obs. Date": "2017-12-27",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Cassegrain",
+        "Observer": "F. Xiao, P. Qiu(NAOC)",
+        "Reducer": "H. Lin(THU)",
+        "Reduction Status": "final",
+        "Last Modified": "2017-12-28",
+        "Modified By": "upload-TNS"
+    }
+}

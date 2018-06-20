@@ -1,0 +1,16 @@
+{
+    "tAT2017jir_20180111_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.035",
+        "Obs. Date": "2018-01-12",
+        "Program": "ePESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "M. Berton, F. Bufano",
+        "Reducer": "A. Floers, S. Taubenberger, C. Vogl",
+        "Reduction Status": "rapid",
+        "Last Modified": "2018-01-12",
+        "Modified By": "ilanm-UploadSet"
+    }
+}

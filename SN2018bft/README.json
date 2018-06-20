@@ -1,0 +1,16 @@
+{
+    "tns_2018bft_2018-05-08_07-13-22_Lick_3m_KAST.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.075",
+        "Obs. Date": "2018-05-08",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "G. Dimitriadis",
+        "Reducer": "G. Dimitriadis",
+        "Reduction Status": "final",
+        "Last Modified": "2018-05-09",
+        "Modified By": "upload-TNS"
+    }
+}

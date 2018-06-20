@@ -1,0 +1,16 @@
+{
+    "tns_2018hb_2018-01-16_08-29-29_Keck1_LRIS.flm": {
+        "Type": "SN Ib",
+        "Redshift": "0.114",
+        "Obs. Date": "2018-01-16",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "G. Dimitriadis, M. R. Siebert, R. J. Foley (UCSC)",
+        "Reducer": "G. Dimitriadis",
+        "Reduction Status": "final",
+        "Last Modified": "2018-01-16",
+        "Modified By": "upload-TNS"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "tns_2018if_2018-01-20.71_Lijiang-2.4m_YFOSC_TNTS.dat": {
+        "Type": "SN Ic-BL",
+        "Redshift": "0.031",
+        "Obs. Date": "2018-01-20",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lijiang-2.4m - YFOSC",
+        "Observer": "Kaixin Lu",
+        "Reducer": "Jujia Zhang",
+        "Reduction Status": "final",
+        "Last Modified": "2018-01-22",
+        "Modified By": "upload-TNS"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "tns_2018pm_2018-02-08_06-50-44_Lick_3m_KAST.flm": {
+        "Type": "SN II",
+        "Redshift": "0.06",
+        "Obs. Date": "2018-02-08",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "C. Rojas-Bravo",
+        "Reducer": "G. Dimitriadis",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "upload-TNS"
+    }
+}

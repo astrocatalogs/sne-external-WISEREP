@@ -1,0 +1,16 @@
+{
+    "tBRUTUS8204_3_20180326_Gr13_Free_slit1.5_1_f.asci": {
+        "Type": "SN Ia-pec",
+        "Redshift": "0.047",
+        "Obs. Date": "2018-03-27",
+        "Program": "ePESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Christian Vogl, Andreas Fl\u00f6rs, Stefan Taubenberger",
+        "Reducer": "Stefano Benetti",
+        "Reduction Status": "final",
+        "Last Modified": "2018-03-27",
+        "Modified By": "nikola-UploadSet"
+    }
+}

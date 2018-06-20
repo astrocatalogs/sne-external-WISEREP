@@ -1,0 +1,16 @@
+{
+    "tns_2018bbk_2018-03-20.0_APO_3.5m_DIS_ZTF.txt": {
+        "Type": "SN II",
+        "Redshift": "0.038",
+        "Obs. Date": "2018-03-20",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "APO 3.5m - DIS",
+        "Observer": "M. Graham",
+        "Reducer": "M. Graham",
+        "Reduction Status": "final",
+        "Last Modified": "2018-04-25",
+        "Modified By": "upload-TNS"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "tns_2018aoq_2018-04-02.6_Kanata_HOWPol.txt": {
+        "Type": "SN II",
+        "Redshift": "0.003319",
+        "Obs. Date": "2018-04-02",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Kanata - HOWPol",
+        "Observer": "Nakaoka, T., Kawabata, M., Takagi, K.",
+        "Reducer": "M. Yamanaka",
+        "Reduction Status": "final",
+        "Last Modified": "2018-04-02",
+        "Modified By": "upload-TNS"
+    }
+}

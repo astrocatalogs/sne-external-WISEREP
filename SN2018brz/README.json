@@ -1,0 +1,16 @@
+{
+    "tns_2018brz_2018-05-19_09-15-00_Other_Other.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.019",
+        "Obs. Date": "2018-05-19",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": " Lluis Galbany (U. Pitt), Angel R. Lopez-Sanchez (AAO, Maquarie U.), Yago Ascasibar (UAM), Kristin Fiegert (AAO)",
+        "Reducer": " Angel R. Lopez-Sanchez (AAO, Maquarie U.)",
+        "Reduction Status": "final",
+        "Last Modified": "2018-05-19",
+        "Modified By": "upload-TNS"
+    }
+}

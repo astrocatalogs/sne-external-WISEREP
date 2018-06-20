@@ -1,7 +1,7 @@
 {
     "PTF10cwr_20100318_P200.dat": {
         "Type": "SLSN-I",
-        "Redshift": "0.231",
+        "Redshift": "0.2301",
         "Obs. Date": "2010-03-18",
         "Program": "PTF",
         "Contributor": "Quimby et al. 2011",
@@ -12,5 +12,89 @@
         "Reduction Status": "final",
         "Last Modified": "2011-08-01",
         "Modified By": "admin"
+    },
+    "PTF10cwr.100318.dbsp.b600r158.smoothed.dat": {
+        "Type": "SLSN-I",
+        "Redshift": "0.2301",
+        "Obs. Date": "2010-03-18",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "P200 - DBSP",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    },
+    "PTF10cwr.100408.dbsp.b600r158.smoothed.dat": {
+        "Type": "SLSN-I",
+        "Redshift": "0.2301",
+        "Obs. Date": "2010-04-08",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "P200 - DBSP",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    },
+    "PTF10cwr.100507.dbsp.b600r158.smoothed.dat": {
+        "Type": "SLSN-I",
+        "Redshift": "0.2301",
+        "Obs. Date": "2010-05-07",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "P200 - DBSP",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    },
+    "PTF10cwr.100617.lris.b400r400.smoothed.dat": {
+        "Type": "SLSN-I",
+        "Redshift": "0.2301",
+        "Obs. Date": "2010-06-17",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    },
+    "PTF10cwr.110326.lris.b400r400.smoothed.dat": {
+        "Type": "SLSN-I",
+        "Redshift": "0.2301",
+        "Obs. Date": "2011-03-26",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    },
+    "ptf10cwr_host_lris141119.spec": {
+        "Type": "SLSN-I",
+        "Redshift": "0.2301",
+        "Obs. Date": "2014-11-19",
+        "Program": "",
+        "Contributor": "Perley et al. 2016",
+        "Bibcode": "2016ApJ...830...13P",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Perley",
+        "Reducer": "Perley",
+        "Reduction Status": "final",
+        "Last Modified": "2016-09-25",
+        "Modified By": "ilanm-UploadSet"
     }
 }

@@ -1,0 +1,16 @@
+{
+    "tns_2015cp_2016-01-02_12-49-31_ESO-NTT_EFOSC2-NTT.asci": {
+        "Type": "SN Ia-91T-like",
+        "Redshift": "0.0413",
+        "Obs. Date": "2016-01-02",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Firth, Dimitriadis, Frohmaier",
+        "Reducer": "Firth, Dimitriadis, Frohmaier",
+        "Reduction Status": "final",
+        "Last Modified": "2018-03-29",
+        "Modified By": "upload-TNS"
+    }
+}

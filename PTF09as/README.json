@@ -1,7 +1,21 @@
 {
+    "PTF09as.090331.lris.b400r400.smoothed.dat": {
+        "Type": "SLSN-I",
+        "Redshift": "0.1864",
+        "Obs. Date": "2009-03-31",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    },
     "ptf09as_host_lris160112.spec": {
-        "Type": "SN Ia",
-        "Redshift": "0.19",
+        "Type": "SLSN-I",
+        "Redshift": "0.1864",
         "Obs. Date": "2016-01-12",
         "Program": "",
         "Contributor": "Perley et al. 2016",

@@ -1,0 +1,30 @@
+{
+    "snonly_05D1dx_1013_Balland_etal_17.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.58",
+        "Obs. Date": "2005-10-10",
+        "Program": "",
+        "Contributor": "Balland et al. 2017",
+        "Bibcode": "2017arXiv171207379B",
+        "Instrument": "VLT-UT1 - FORS2",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2018-01-22",
+        "Modified By": "ofer"
+    },
+    "snonly_05D1dx_1046_Balland_etal_17.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.58",
+        "Obs. Date": "2005-11-12",
+        "Program": "",
+        "Contributor": "Balland et al. 2017",
+        "Bibcode": "2017arXiv171207379B",
+        "Instrument": "VLT-UT1 - FORS2",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2018-01-22",
+        "Modified By": "ofer"
+    }
+}

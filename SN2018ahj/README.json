@@ -1,0 +1,16 @@
+{
+    "tns_2018ahj_2458195.300_UH88_SNIFS.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.082",
+        "Obs. Date": "2018-03-17",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "UH88 - SNIFS",
+        "Observer": "Tucker/Shappee",
+        "Reducer": "Tucker/Shappee",
+        "Reduction Status": "final",
+        "Last Modified": "2018-03-18",
+        "Modified By": "upload-TNS"
+    }
+}

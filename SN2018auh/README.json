@@ -1,0 +1,16 @@
+{
+    "tns_2018auh_2018-04-14_05-15-44_P60_SED-Machine_ZTF.txt": {
+        "Type": "SN I",
+        "Redshift": "0.06",
+        "Obs. Date": "2018-04-14",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SED-Machine",
+        "Observer": "SEDM",
+        "Reducer": "Neill",
+        "Reduction Status": "final",
+        "Last Modified": "2018-04-19",
+        "Modified By": "upload-TNS"
+    }
+}

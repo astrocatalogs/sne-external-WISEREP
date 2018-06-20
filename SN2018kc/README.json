@@ -1,0 +1,16 @@
+{
+    "tns_2018kc_2018-01-24_07-12-03_Lick_3m_KAST.flm": {
+        "Type": "SN Ia",
+        "Redshift": "0.064",
+        "Obs. Date": "2018-01-24",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "G. Dimitriadis, D. A Coulter",
+        "Reducer": "G. Dimitriadis",
+        "Reduction Status": "final",
+        "Last Modified": "2018-01-26",
+        "Modified By": "upload-TNS"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "tns_2018gj_2458133.2929_Other_Other.dat": {
+        "Type": "SN IIb",
+        "Redshift": "0.004556",
+        "Obs. Date": "2018-01-14",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "Etienne Bertrand",
+        "Reducer": "Etienne Bertrand",
+        "Reduction Status": "final",
+        "Last Modified": "2018-01-14",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2018gj_2018-01-15_15-00-08_FTN_FLOYDS-N.flm": {
+        "Type": "SN IIb",
+        "Redshift": "0.004556",
+        "Obs. Date": "2018-01-15",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "FTN - FLOYDS-N",
+        "Observer": "Kilpatrick",
+        "Reducer": "Kilpatrick",
+        "Reduction Status": "final",
+        "Last Modified": "2018-01-15",
+        "Modified By": "upload-TNS"
+    }
+}

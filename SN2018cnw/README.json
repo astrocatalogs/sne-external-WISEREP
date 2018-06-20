@@ -1,0 +1,16 @@
+{
+    "tns_2018cnw_2018-06-15_00-00-00_APO_3.5m_DIS_ZTF.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.02416",
+        "Obs. Date": "2018-06-15",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "APO 3.5m - DIS",
+        "Observer": "Eric Bellm",
+        "Reducer": "Melissa Graham",
+        "Reduction Status": "final",
+        "Last Modified": "2018-06-16",
+        "Modified By": "upload-TNS"
+    }
+}

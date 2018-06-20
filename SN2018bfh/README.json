@@ -1,0 +1,30 @@
+{
+    "tns_2018bfh_2018-05-08_06-41-04_Lick_3m_KAST.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.044",
+        "Obs. Date": "2018-05-08",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick 3m - KAST",
+        "Observer": "G. Dimitriadis",
+        "Reducer": "G. Dimitriadis",
+        "Reduction Status": "final",
+        "Last Modified": "2018-05-09",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2018bfh_2018-05-08_06-01-05_Plaskett_Telescope_Plaskett_DAO_OTS.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.044",
+        "Obs. Date": "2018-05-08",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Plaskett Telescope - Plaskett",
+        "Observer": "Balam",
+        "Reducer": "Balam",
+        "Reduction Status": "final",
+        "Last Modified": "2018-05-11",
+        "Modified By": "upload-TNS"
+    }
+}

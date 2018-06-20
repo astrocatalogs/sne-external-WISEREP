@@ -1,0 +1,16 @@
+{
+    "tAT2018ahq_20180325_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.0255",
+        "Obs. Date": "2018-03-26",
+        "Program": "ePESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Christian Vogl, Andreas Fl\u00f6rs, Stefan Taubenberger",
+        "Reducer": "Stefano Benetti",
+        "Reduction Status": "rapid",
+        "Last Modified": "2018-03-26",
+        "Modified By": "nikola-UploadSet"
+    }
+}

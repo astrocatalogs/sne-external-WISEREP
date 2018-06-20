@@ -1,0 +1,16 @@
+{
+    "tns_2018avz_2018-04-21_11-48-43_P60_SED-Machine_ZTF.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.0606",
+        "Obs. Date": "2018-04-21",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SED-Machine",
+        "Observer": "SEDM",
+        "Reducer": "Nadia Blagorodnova",
+        "Reduction Status": "final",
+        "Last Modified": "2018-04-24",
+        "Modified By": "upload-TNS"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "tAT2018qp_20180213_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.03",
+        "Obs. Date": "2018-02-14",
+        "Program": "ePESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Jesse T. Palmerio, Ken W. Smith",
+        "Reducer": "David O'Neill",
+        "Reduction Status": "rapid",
+        "Last Modified": "2018-02-14",
+        "Modified By": "nikola-UploadSet"
+    }
+}

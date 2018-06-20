@@ -1,0 +1,16 @@
+{
+    "tns_2018bgc_2458247.0853_BAO-2.16m_Cassegrain.txt": {
+        "Type": "SN Ia",
+        "Redshift": "",
+        "Obs. Date": "2018-05-08",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Cassegrain",
+        "Observer": "L. Hu, M. Hu(PMO), F. Xiao(NAOC)",
+        "Reducer": "H. Lin(THU)",
+        "Reduction Status": "final",
+        "Last Modified": "2018-05-09",
+        "Modified By": "upload-TNS"
+    }
+}

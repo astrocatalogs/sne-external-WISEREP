@@ -1,0 +1,16 @@
+{
+    "tns_2018awn_2018-04-20_19-20-15_Ekar_AFOSC_Padova-Asiago.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.029",
+        "Obs. Date": "2018-04-20",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Granata",
+        "Reducer": "Benetti",
+        "Reduction Status": "final",
+        "Last Modified": "2018-04-24",
+        "Modified By": "upload-TNS"
+    }
+}

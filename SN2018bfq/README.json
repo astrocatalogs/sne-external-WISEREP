@@ -1,0 +1,16 @@
+{
+    "tAT2018bfq_20180510_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.06",
+        "Obs. Date": "2018-05-11",
+        "Program": "ePESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Owen McBrien, Peter Clark",
+        "Reducer": "David O'Neill, Ken Smith",
+        "Reduction Status": "rapid",
+        "Last Modified": "2018-05-11",
+        "Modified By": "nikola-UploadSet"
+    }
+}

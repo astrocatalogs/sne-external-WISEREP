@@ -1,0 +1,16 @@
+{
+    "PTF09q.090320.dbsp.b600r158.smoothed.dat": {
+        "Type": "SN Ic",
+        "Redshift": "0.09",
+        "Obs. Date": "2009-03-20",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "P200 - DBSP",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    }
+}

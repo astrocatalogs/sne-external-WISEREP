@@ -1,0 +1,16 @@
+{
+    "tns_2018bfc_2018-05-10_14-59-00_Keck1_LRIS.flm": {
+        "Type": "SN Ia",
+        "Redshift": "0.034",
+        "Obs. Date": "2018-05-10",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": " R. J. Foley, C. Rojas-Bravo ",
+        "Reducer": " R. J. Foley",
+        "Reduction Status": "final",
+        "Last Modified": "2018-05-10",
+        "Modified By": "upload-TNS"
+    }
+}

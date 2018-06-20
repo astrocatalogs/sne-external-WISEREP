@@ -1,0 +1,16 @@
+{
+    "snonly_06D1hi_1424_Balland_etal_17.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.803",
+        "Obs. Date": "2006-11-25",
+        "Program": "",
+        "Contributor": "Balland et al. 2017",
+        "Bibcode": "2017arXiv171207379B",
+        "Instrument": "VLT-UT1 - FORS2",
+        "Observer": "Unknown",
+        "Reducer": "Unknown",
+        "Reduction Status": "final",
+        "Last Modified": "2018-01-22",
+        "Modified By": "ilanm-UploadSet"
+    }
+}

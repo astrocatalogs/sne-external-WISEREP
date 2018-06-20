@@ -1,0 +1,16 @@
+{
+    "tAT2018wh_20180220_Gr13_Free_slit1.0_1_f.asci": {
+        "Type": "SN Ib/c",
+        "Redshift": "0.05",
+        "Obs. Date": "2018-02-21",
+        "Program": "ePESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "K. W. Smith, J. T. Palmerio",
+        "Reducer": "D. O'Neill, O. McBrien, P. Clark, E. Kankare",
+        "Reduction Status": "rapid",
+        "Last Modified": "2018-02-21",
+        "Modified By": "ilanm-UploadSet"
+    }
+}

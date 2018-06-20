@@ -1,0 +1,16 @@
+{
+    "tns_2017iso_2017-12-14_04-31-42_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+        "Type": "SN II",
+        "Redshift": "0.029",
+        "Obs. Date": "2017-12-14",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "C.R. Angus, M. Smith",
+        "Reducer": "C.R. Angus, M. Smith",
+        "Reduction Status": "final",
+        "Last Modified": "2017-12-14",
+        "Modified By": "upload-TNS"
+    }
+}

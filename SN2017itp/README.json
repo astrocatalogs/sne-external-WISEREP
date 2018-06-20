@@ -1,0 +1,16 @@
+{
+    "tns_2017itp_2017-12-12_01-27-37_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.057",
+        "Obs. Date": "2017-12-12",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "C.R. Angus",
+        "Reducer": "C.R. Angus, C. Frohmaier, R.E. Firth",
+        "Reduction Status": "final",
+        "Last Modified": "2017-12-12",
+        "Modified By": "upload-TNS"
+    }
+}

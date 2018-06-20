@@ -1,6 +1,6 @@
 {
     "snPS1-1000037_NOT_ALFOSC_gm4.20100321_cal.ascii": {
-        "Type": "SN Ic",
+        "Type": "SLSN-I",
         "Redshift": "0.23",
         "Obs. Date": "2010-03-21",
         "Program": "",
@@ -14,7 +14,7 @@
         "Modified By": "ilanm-UploadSet"
     },
     "snPS1-1000037_GS_GMOS_R150.20100322_cal.ascii": {
-        "Type": "SN Ic",
+        "Type": "SLSN-I",
         "Redshift": "0.23",
         "Obs. Date": "2010-03-22",
         "Program": "",
@@ -28,7 +28,7 @@
         "Modified By": "ilanm-UploadSet"
     },
     "snPS1-1000037_WHT_ISIS_R300BR158R.20100401_cal.ascii": {
-        "Type": "SN Ic",
+        "Type": "SLSN-I",
         "Redshift": "0.23",
         "Obs. Date": "2010-04-01",
         "Program": "",
@@ -42,7 +42,7 @@
         "Modified By": "ilanm-UploadSet"
     },
     "snPS1-1000037_GS_GMOS_B600.20100409_cal.ascii": {
-        "Type": "SN Ic",
+        "Type": "SLSN-I",
         "Redshift": "0.23",
         "Obs. Date": "2010-04-09",
         "Program": "",
@@ -56,7 +56,7 @@
         "Modified By": "ilanm-UploadSet"
     },
     "snPS1-1000037_GS_GMOS_R400.20100422_cal.ascii": {
-        "Type": "SN Ic",
+        "Type": "SLSN-I",
         "Redshift": "0.23",
         "Obs. Date": "2010-04-22",
         "Program": "",
@@ -70,7 +70,7 @@
         "Modified By": "ilanm-UploadSet"
     },
     "snPS1-1000037_WHT_ISIS_R300BR158R.20100502_cal.ascii": {
-        "Type": "SN Ic",
+        "Type": "SLSN-I",
         "Redshift": "0.23",
         "Obs. Date": "2010-05-02",
         "Program": "",
@@ -84,7 +84,7 @@
         "Modified By": "ilanm-UploadSet"
     },
     "snPS1-1000037_GS_GMOS_R400.20100605_cal.ascii": {
-        "Type": "SN Ic",
+        "Type": "SLSN-I",
         "Redshift": "0.23",
         "Obs. Date": "2010-06-05",
         "Program": "",

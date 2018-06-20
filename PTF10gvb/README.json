@@ -1,0 +1,44 @@
+{
+    "PTF10gvb.100506.lris.unknown.smoothed.dat": {
+        "Type": "SN Ic-BL",
+        "Redshift": "0.098",
+        "Obs. Date": "2010-05-06",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    },
+    "PTF10gvb.100515.lris.unknown.smoothed.dat": {
+        "Type": "SN Ic-BL",
+        "Redshift": "0.098",
+        "Obs. Date": "2010-05-15",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    },
+    "PTF10gvb.100708.lris.unknown.smoothed.dat": {
+        "Type": "SN Ic-BL",
+        "Redshift": "0.098",
+        "Obs. Date": "2010-07-08",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    }
+}

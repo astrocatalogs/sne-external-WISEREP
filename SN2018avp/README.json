@@ -1,0 +1,30 @@
+{
+    "tns_2018avp_2018-04-10.0_APO_3.5m_DIS_ZTF.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.053",
+        "Obs. Date": "2018-04-10",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "APO 3.5m - DIS",
+        "Observer": "M. Graham",
+        "Reducer": "M. Graham",
+        "Reduction Status": "final",
+        "Last Modified": "2018-04-24",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2018avp_2018-04-21_19-33-00_Ekar_AFOSC_Padova-Asiago.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.053",
+        "Obs. Date": "2018-04-21",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Tomasella",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2018-04-22",
+        "Modified By": "upload-TNS"
+    }
+}

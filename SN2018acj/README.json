@@ -1,0 +1,16 @@
+{
+    "tns_2018acj_2458187.2863_BAO-2.16m_Cassegrain.txt": {
+        "Type": "SN IIP",
+        "Redshift": "",
+        "Obs. Date": "2018-03-09",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Cassegrain",
+        "Observer": "W. Li(THU), Y. Wang(NAOC)",
+        "Reducer": "H. Lin(THU)",
+        "Reduction Status": "final",
+        "Last Modified": "2018-03-10",
+        "Modified By": "upload-TNS"
+    }
+}

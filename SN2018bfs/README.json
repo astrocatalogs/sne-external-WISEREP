@@ -1,0 +1,30 @@
+{
+    "tns_2018bfs_2018-05-07_06-24-12_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.102",
+        "Obs. Date": "2018-05-07",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "P. Clark, O. McBrien",
+        "Reducer": "E. Kankare",
+        "Reduction Status": "final",
+        "Last Modified": "2018-05-07",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2018bfs_2018-05-13_05-23-00_SOAR_Goodman.flm": {
+        "Type": "SN Ia",
+        "Redshift": "0.102",
+        "Obs. Date": "2018-05-13",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "SOAR - Goodman",
+        "Observer": "Y.-C. Pan",
+        "Reducer": "Y.-C. Pan",
+        "Reduction Status": "final",
+        "Last Modified": "2018-05-13",
+        "Modified By": "upload-TNS"
+    }
+}

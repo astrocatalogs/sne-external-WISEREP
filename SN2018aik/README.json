@@ -1,0 +1,16 @@
+{
+    "tns_2018aik_2018-03-20_10-50-06_P60_SED-Machine_iPTF.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.09",
+        "Obs. Date": "2018-03-20",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SED-Machine",
+        "Observer": "SEDM robot",
+        "Reducer": "Don Neill",
+        "Reduction Status": "final",
+        "Last Modified": "2018-03-21",
+        "Modified By": "upload-TNS"
+    }
+}

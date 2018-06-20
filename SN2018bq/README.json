@@ -1,0 +1,16 @@
+{
+    "tns_2018bq_2458128.3048_BAO-2.16m_Cassegrain.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.0256",
+        "Obs. Date": "2018-01-09",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Cassegrain",
+        "Observer": "F. Xiao, J. Ren(NAOC)",
+        "Reducer": "H. Lin(THU)",
+        "Reduction Status": "final",
+        "Last Modified": "2018-01-10",
+        "Modified By": "upload-TNS"
+    }
+}

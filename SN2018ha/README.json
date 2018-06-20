@@ -1,0 +1,16 @@
+{
+    "tns_2018ha_2018-01-16_07-51-23_Keck1_LRIS.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.061",
+        "Obs. Date": "2018-01-16",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "G. Dimitriadis, M. R. Siebert, R. J. Foley (UCSC)",
+        "Reducer": "G. Dimitriadis",
+        "Reduction Status": "final",
+        "Last Modified": "2018-01-16",
+        "Modified By": "upload-TNS"
+    }
+}

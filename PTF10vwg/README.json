@@ -1,6 +1,34 @@
 {
+    "PTF10vwg.101014.lris.b600r400.smoothed.dat": {
+        "Type": "SLSN-I",
+        "Redshift": "0.19",
+        "Obs. Date": "2010-10-14",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    },
+    "PTF10vwg.110312.lris.b400r400.smoothed.dat": {
+        "Type": "SLSN-I",
+        "Redshift": "0.19",
+        "Obs. Date": "2011-03-12",
+        "Program": "PTF",
+        "Contributor": "Quimby et al. 2018",
+        "Bibcode": "2018ApJ...855....2Q",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "NA",
+        "Reducer": "NA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-02-11",
+        "Modified By": "ofer-UploadSet"
+    },
     "ptf10vwg_host_lris131006.spec": {
-        "Type": "SN Ic",
+        "Type": "SLSN-I",
         "Redshift": "0.19",
         "Obs. Date": "2013-10-06",
         "Program": "",

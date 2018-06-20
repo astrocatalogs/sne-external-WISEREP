@@ -1,0 +1,16 @@
+{
+    "tns_2017jbl_2017-12-21_23-13-00_Ekar_AFOSC_Padova-Asiago.dat": {
+        "Type": "SN IIb",
+        "Redshift": "0.015054",
+        "Obs. Date": "2017-12-21",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "tomasella",
+        "Reducer": "tomasella",
+        "Reduction Status": "final",
+        "Last Modified": "2017-12-22",
+        "Modified By": "upload-TNS"
+    }
+}

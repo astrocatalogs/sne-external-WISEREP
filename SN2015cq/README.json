@@ -1,0 +1,16 @@
+{
+    "tns_2015cq_2015-05-20.0_Other_Other.txt": {
+        "Type": "SN II",
+        "Redshift": "0.028",
+        "Obs. Date": "2015-05-20",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Other - Other",
+        "Observer": "MaNGA",
+        "Reducer": "MaNGA",
+        "Reduction Status": "final",
+        "Last Modified": "2018-05-02",
+        "Modified By": "upload-TNS"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "tns_2017jzp_2018-01-12.3_NOT_ALFOSC_NUTS.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.055",
+        "Obs. Date": "2018-01-12",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "NOT - ALFOSC",
+        "Observer": "NOT ToO",
+        "Reducer": "Kuncarayakti",
+        "Reduction Status": "final",
+        "Last Modified": "2018-01-13",
+        "Modified By": "upload-TNS"
+    }
+}

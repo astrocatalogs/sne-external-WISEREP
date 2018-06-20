@@ -1,0 +1,30 @@
+{
+    "tns_2018bac_2018-04-24_06-55-23_P60_SED-Machine_ZTF.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.0372",
+        "Obs. Date": "2018-04-24",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SED-Machine",
+        "Observer": "SEDM",
+        "Reducer": "Don Neill",
+        "Reduction Status": "final",
+        "Last Modified": "2018-04-25",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2018bac_2018-04-24_06-55-24_P60_SED-Machine.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.0372",
+        "Obs. Date": "2018-04-24",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SED-Machine",
+        "Observer": "SEDM Robot",
+        "Reducer": "James Neill",
+        "Reduction Status": "final",
+        "Last Modified": "2018-04-25",
+        "Modified By": "upload-TNS"
+    }
+}

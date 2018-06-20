@@ -1,0 +1,16 @@
+{
+    "tns_2018bfu_2018-05-10_07-21-39_Gemini-N_GMOS.flm": {
+        "Type": "SN Ic",
+        "Redshift": "0.045",
+        "Obs. Date": "2018-05-10",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Gemini-N - GMOS",
+        "Observer": "T. Dupuy",
+        "Reducer": "Yen-Chen Pan",
+        "Reduction Status": "final",
+        "Last Modified": "2018-05-11",
+        "Modified By": "upload-TNS"
+    }
+}

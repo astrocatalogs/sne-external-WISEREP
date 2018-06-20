@@ -1,0 +1,44 @@
+{
+    "tns_2016brx_2016-06-18.41_LCO-duPont_WFCCD_ASAS-SN.txt": {
+        "Type": "SN Ia-91bg-like",
+        "Redshift": "0.010167",
+        "Obs. Date": "2016-06-18",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LCO-duPont - WFCCD",
+        "Observer": " N. Morrell",
+        "Reducer": " N. Morrell",
+        "Reduction Status": "final",
+        "Last Modified": "2018-06-17",
+        "Modified By": "upload-TNS"
+    },
+    "2016brx_GTC_20160813.txt": {
+        "Type": "SN Ia-91bg-like",
+        "Redshift": "0.010167",
+        "Obs. Date": "2016-08-13",
+        "Program": "",
+        "Contributor": "Dong et al. 2018",
+        "Bibcode": "2018MNRAS.tmpL.101D",
+        "Instrument": "GTC - OSIRIS",
+        "Observer": "Unknown",
+        "Reducer": "Subhash Bose",
+        "Reduction Status": "final",
+        "Last Modified": "2018-06-17",
+        "Modified By": "ofer"
+    },
+    "2016brx_LDSS3_20161020.txt": {
+        "Type": "SN Ia-91bg-like",
+        "Redshift": "0.010167",
+        "Obs. Date": "2016-10-20",
+        "Program": "",
+        "Contributor": "Dong et al. 2018",
+        "Bibcode": "2018MNRAS.tmpL.101D",
+        "Instrument": "Magellan-Clay - LDSS-3",
+        "Observer": "Unknown",
+        "Reducer": "Subhash Bose",
+        "Reduction Status": "final",
+        "Last Modified": "2018-06-17",
+        "Modified By": "ilanm-UploadSet"
+    }
+}

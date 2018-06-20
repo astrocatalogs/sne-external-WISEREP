@@ -1,0 +1,16 @@
+{
+    "tns_2018aks_2018-03-22_19-17-00_Ekar_AFOSC_Padova-Asiago.dat": {
+        "Type": "SN Ic",
+        "Redshift": "0.06",
+        "Obs. Date": "2018-03-22",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Ochner",
+        "Reducer": "Benetti",
+        "Reduction Status": "final",
+        "Last Modified": "2018-03-23",
+        "Modified By": "upload-TNS"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "tns_2017jeh_2017-12-28.40_P200_DBSP_ASAS-SN.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.021",
+        "Obs. Date": "2017-12-28",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P200 - DBSP",
+        "Observer": "S. Bose, P. Chen",
+        "Reducer": "S. Bose",
+        "Reduction Status": "final",
+        "Last Modified": "2017-12-31",
+        "Modified By": "upload-TNS"
+    }
+}

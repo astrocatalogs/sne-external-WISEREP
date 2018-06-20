@@ -1,0 +1,16 @@
+{
+    "tns_2018cjy_2018-06-18_01-01-00_SOAR_Goodman.flm": {
+        "Type": "SN Ia",
+        "Redshift": "0.064",
+        "Obs. Date": "2018-06-18",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "SOAR - Goodman",
+        "Observer": "Y.-C. Pan",
+        "Reducer": "Y.-C. Pan",
+        "Reduction Status": "final",
+        "Last Modified": "2018-06-19",
+        "Modified By": "upload-TNS"
+    }
+}

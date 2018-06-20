@@ -1,0 +1,16 @@
+{
+    "PSNJ11492548_20160202_3Ang.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.0056",
+        "Obs. Date": "2016-02-02",
+        "Program": "",
+        "Contributor": "Maguire et al. 2018",
+        "Bibcode": "2018arXiv180310252M",
+        "Instrument": "VLT-UT2 - X-Shooter",
+        "Observer": "Service mode",
+        "Reducer": "K. Maguire",
+        "Reduction Status": "final",
+        "Last Modified": "2018-04-02",
+        "Modified By": "ofer-UploadSet"
+    }
+}
