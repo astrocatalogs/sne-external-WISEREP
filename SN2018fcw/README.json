@@ -1,0 +1,30 @@
+{
+    "tns_2018fcw_2018-08-17.1_NOT_ALFOSC.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.05",
+        "Obs. Date": "2018-08-17",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "NOT - ALFOSC",
+        "Observer": "A. Grosch, F. L. Guttesen, C. P. Knudsen, K. Loeve, and K. S. Nielsen",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2018-08-17",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2018fcw_2018-08-17.00_Ekar_AFOSC_Padova-Asiago.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.05",
+        "Obs. Date": "2018-08-17",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Tomasella",
+        "Reducer": "Tomasella",
+        "Reduction Status": "final",
+        "Last Modified": "2018-08-17",
+        "Modified By": "upload-TNS"
+    }
+}

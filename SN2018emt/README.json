@@ -1,0 +1,30 @@
+{
+    "tns_2018emt_2018-08-04_09-15-30_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+        "Type": "SN II",
+        "Redshift": "0.0239",
+        "Obs. Date": "2018-08-04",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "F. Onori, R. Stein",
+        "Reducer": "G. Cannizzaro",
+        "Reduction Status": "final",
+        "Last Modified": "2018-08-04",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2018emt_2018-08-11_03-39-57_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+        "Type": "SN II",
+        "Redshift": "0.0239",
+        "Obs. Date": "2018-08-11",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "E. Callis,  Z. Kostrzewa-Rutkowska, R. Stein",
+        "Reducer": "M. Fraser",
+        "Reduction Status": "final",
+        "Last Modified": "2018-08-11",
+        "Modified By": "upload-TNS"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "tns_2018dcw_2018-07-08_06-18-27_Lick_3m_KAST.dat": {
+        "Type": "SN II",
+        "Redshift": "0.019",
+        "Obs. Date": "2018-07-08",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick-3m - KAST",
+        "Observer": "G. Dimitriadis",
+        "Reducer": "G. Dimitriadis",
+        "Reduction Status": "final",
+        "Last Modified": "2018-07-08",
+        "Modified By": "upload-TNS"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "tns_2018fdv_2458348.4234_UH88_SNIFS_SCAT.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.094",
+        "Obs. Date": "2018-08-17",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "UH88 - SNIFS",
+        "Observer": "M.A.Tucker",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2018-08-18",
+        "Modified By": "upload-TNS"
+    }
+}

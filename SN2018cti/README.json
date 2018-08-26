@@ -1,0 +1,16 @@
+{
+    "tns_2018cti_2458291.894019_MDM-2.4_OSMOS_ASAS-SN.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.035",
+        "Obs. Date": "2018-06-22",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "MDM-2.4 - OSMOS",
+        "Observer": "Justin Rupert",
+        "Reducer": "Subhash Bose",
+        "Reduction Status": "final",
+        "Last Modified": "2018-06-26",
+        "Modified By": "upload-TNS"
+    }
+}

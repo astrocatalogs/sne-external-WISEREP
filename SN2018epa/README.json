@@ -1,0 +1,30 @@
+{
+    "tns_2018epa_2018-08-05_08-12-01_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.04",
+        "Obs. Date": "2018-08-05",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "F. Onori, R. Stein",
+        "Reducer": "G. Cannizzaro",
+        "Reduction Status": "final",
+        "Last Modified": "2018-08-06",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2018epa_2458336.4382_UH88_SNIFS_SCAT.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.04",
+        "Obs. Date": "2018-08-05",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "UH88 - SNIFS",
+        "Observer": "M.A.Tucker",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2018-08-06",
+        "Modified By": "upload-TNS"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "tns_2018enb_2018-08-05_09-10-59_Lick_3m_KAST.flm": {
+        "Type": "SN Ia",
+        "Redshift": "0.023",
+        "Obs. Date": "2018-08-05",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick-3m - KAST",
+        "Observer": "C. Rojas-Bravo, D. A. Coulter, R. J. Foley",
+        "Reducer": "R. J. Foley",
+        "Reduction Status": "final",
+        "Last Modified": "2018-08-05",
+        "Modified By": "upload-TNS"
+    }
+}

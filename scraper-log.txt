@@ -11299,4 +11299,1073 @@ From statement 3: SN2018cny has no spectra to collect
 From statement 4: SN2018cny has no spectra to collect
 From statement 3: SN2018cnx has no spectra to collect
 From statement 4: SN2018cnx has no spectra to collect
-Runtime: 1.4124353329340618 minutes
+Runtime: 1.4124353329340618 minutesFrom statement 3: SN2018cri has no spectra to collect
+From statement 4: SN2018cri has no spectra to collect
+From statement 3: SN2018cnz has no spectra to collect
+From statement 4: SN2018cnz has no spectra to collect
+From statement 3: SN2018cnj has no spectra to collect
+From statement 4: SN2018cnj has no spectra to collect
+Presumably no other duplicate files found for SN2016brx
+From statement 3: SN2018coj has no spectra to collect
+From statement 4: SN2018coj has no spectra to collect
+From statement 3: SN2018coi has no spectra to collect
+From statement 4: SN2018coi has no spectra to collect
+From statement 3: SN2018coh has no spectra to collect
+From statement 4: SN2018coh has no spectra to collect
+From statement 3: SN2018cog has no spectra to collect
+From statement 4: SN2018cog has no spectra to collect
+From statement 3: SN2018cof has no spectra to collect
+From statement 4: SN2018cof has no spectra to collect
+From statement 3: SN2018cod has no spectra to collect
+From statement 4: SN2018cod has no spectra to collect
+From statement 3: SN2018cny has no spectra to collect
+From statement 4: SN2018cny has no spectra to collect
+From statement 3: SN2018cnx has no spectra to collect
+From statement 4: SN2018cnx has no spectra to collect
+Runtime: 1.5392181158065796 minutesFrom statement 3: SN2018crr has no spectra to collect
+From statement 4: SN2018crr has no spectra to collect
+From statement 3: SN2018cri has no spectra to collect
+From statement 4: SN2018cri has no spectra to collect
+From statement 3: SN2018cnz has no spectra to collect
+From statement 4: SN2018cnz has no spectra to collect
+From statement 3: SN2018cnj has no spectra to collect
+From statement 4: SN2018cnj has no spectra to collect
+Presumably no other duplicate files found for SN2016brx
+From statement 3: SN2018coj has no spectra to collect
+From statement 4: SN2018coj has no spectra to collect
+From statement 3: SN2018coi has no spectra to collect
+From statement 4: SN2018coi has no spectra to collect
+From statement 3: SN2018coh has no spectra to collect
+From statement 4: SN2018coh has no spectra to collect
+From statement 3: SN2018cog has no spectra to collect
+From statement 4: SN2018cog has no spectra to collect
+From statement 3: SN2018cof has no spectra to collect
+From statement 4: SN2018cof has no spectra to collect
+From statement 3: SN2018cod has no spectra to collect
+From statement 4: SN2018cod has no spectra to collect
+From statement 3: SN2018cny has no spectra to collect
+From statement 4: SN2018cny has no spectra to collect
+From statement 3: SN2018cnx has no spectra to collect
+From statement 4: SN2018cnx has no spectra to collect
+Runtime: 1.8116887172063192 minutesFrom statement 3: SN2018ctj has no spectra to collect
+From statement 4: SN2018ctj has no spectra to collect
+From statement 3: SN2018crs has no spectra to collect
+From statement 4: SN2018crs has no spectra to collect
+From statement 3: SN2018cro has no spectra to collect
+From statement 4: SN2018cro has no spectra to collect
+From statement 3: SN2018crn has no spectra to collect
+From statement 4: SN2018crn has no spectra to collect
+From statement 3: SN2018cqp has no spectra to collect
+From statement 4: SN2018cqp has no spectra to collect
+From statement 3: SN2018coe has no spectra to collect
+From statement 4: SN2018coe has no spectra to collect
+From statement 3: SN2018coc has no spectra to collect
+From statement 4: SN2018coc has no spectra to collect
+From statement 3: SN2018crr has no spectra to collect
+From statement 4: SN2018crr has no spectra to collect
+From statement 3: SN2018cri has no spectra to collect
+From statement 4: SN2018cri has no spectra to collect
+From statement 3: SN2018cnz has no spectra to collect
+From statement 4: SN2018cnz has no spectra to collect
+From statement 3: SN2018cnj has no spectra to collect
+From statement 4: SN2018cnj has no spectra to collect
+Presumably no other duplicate files found for SN2016brx
+From statement 3: SN2018coj has no spectra to collect
+From statement 4: SN2018coj has no spectra to collect
+From statement 3: SN2018coi has no spectra to collect
+From statement 4: SN2018coi has no spectra to collect
+From statement 3: SN2018coh has no spectra to collect
+From statement 4: SN2018coh has no spectra to collect
+From statement 3: SN2018cog has no spectra to collect
+From statement 4: SN2018cog has no spectra to collect
+From statement 3: SN2018cof has no spectra to collect
+From statement 4: SN2018cof has no spectra to collect
+From statement 3: SN2018cod has no spectra to collect
+From statement 4: SN2018cod has no spectra to collect
+From statement 3: SN2018cny has no spectra to collect
+From statement 4: SN2018cny has no spectra to collect
+From statement 3: SN2018cnx has no spectra to collect
+From statement 4: SN2018cnx has no spectra to collect
+Runtime: 2.2467745184898376 minutesFrom statement 3: SN2018cts has no spectra to collect
+From statement 4: SN2018cts has no spectra to collect
+From statement 3: SN2018cow has no spectra to collect
+From statement 4: SN2018cow has no spectra to collect
+From statement 3: SN2018ctj has no spectra to collect
+From statement 4: SN2018ctj has no spectra to collect
+From statement 3: SN2018crs has no spectra to collect
+From statement 4: SN2018crs has no spectra to collect
+From statement 3: SN2018cro has no spectra to collect
+From statement 4: SN2018cro has no spectra to collect
+From statement 3: SN2018crn has no spectra to collect
+From statement 4: SN2018crn has no spectra to collect
+From statement 3: SN2018cqp has no spectra to collect
+From statement 4: SN2018cqp has no spectra to collect
+From statement 3: SN2018coe has no spectra to collect
+From statement 4: SN2018coe has no spectra to collect
+From statement 3: SN2018coc has no spectra to collect
+From statement 4: SN2018coc has no spectra to collect
+From statement 3: SN2018crr has no spectra to collect
+From statement 4: SN2018crr has no spectra to collect
+From statement 3: SN2018cri has no spectra to collect
+From statement 4: SN2018cri has no spectra to collect
+From statement 3: SN2018cnz has no spectra to collect
+From statement 4: SN2018cnz has no spectra to collect
+Presumably no other duplicate files found for SN2016brx
+From statement 3: SN2018coj has no spectra to collect
+From statement 4: SN2018coj has no spectra to collect
+From statement 3: SN2018coi has no spectra to collect
+From statement 4: SN2018coi has no spectra to collect
+From statement 3: SN2018coh has no spectra to collect
+From statement 4: SN2018coh has no spectra to collect
+From statement 3: SN2018cog has no spectra to collect
+From statement 4: SN2018cog has no spectra to collect
+From statement 3: SN2018cof has no spectra to collect
+From statement 4: SN2018cof has no spectra to collect
+From statement 3: SN2018cod has no spectra to collect
+From statement 4: SN2018cod has no spectra to collect
+From statement 3: SN2018cny has no spectra to collect
+From statement 4: SN2018cny has no spectra to collect
+From statement 3: SN2018cnx has no spectra to collect
+From statement 4: SN2018cnx has no spectra to collect
+Runtime: 1.9760154684384663 minutesFrom statement 3: SN2018cts has no spectra to collect
+From statement 4: SN2018cts has no spectra to collect
+From statement 3: SN2018cow has no spectra to collect
+From statement 4: SN2018cow has no spectra to collect
+From statement 3: SN2018ctj has no spectra to collect
+From statement 4: SN2018ctj has no spectra to collect
+From statement 3: SN2018crs has no spectra to collect
+From statement 4: SN2018crs has no spectra to collect
+From statement 3: SN2018cro has no spectra to collect
+From statement 4: SN2018cro has no spectra to collect
+From statement 3: SN2018crn has no spectra to collect
+From statement 4: SN2018crn has no spectra to collect
+From statement 3: SN2018cqp has no spectra to collect
+From statement 4: SN2018cqp has no spectra to collect
+From statement 3: SN2018crr has no spectra to collect
+From statement 4: SN2018crr has no spectra to collect
+From statement 3: SN2018cri has no spectra to collect
+From statement 4: SN2018cri has no spectra to collect
+Presumably no other duplicate files found for SN2016brx
+Runtime: 1.160033146540324 minutesFrom statement 3: SN2018cts has no spectra to collect
+From statement 4: SN2018cts has no spectra to collect
+From statement 3: SN2018ctj has no spectra to collect
+From statement 4: SN2018ctj has no spectra to collect
+From statement 3: SN2018crs has no spectra to collect
+From statement 4: SN2018crs has no spectra to collect
+From statement 3: SN2018cro has no spectra to collect
+From statement 4: SN2018cro has no spectra to collect
+From statement 3: SN2018crn has no spectra to collect
+From statement 4: SN2018crn has no spectra to collect
+From statement 3: SN2018cqp has no spectra to collect
+From statement 4: SN2018cqp has no spectra to collect
+From statement 3: SN2018crr has no spectra to collect
+From statement 4: SN2018crr has no spectra to collect
+From statement 3: SN2018cri has no spectra to collect
+From statement 4: SN2018cri has no spectra to collect
+Runtime: 0.9055904428164164 minutesFrom statement 3: SN2018cve has no spectra to collect
+From statement 4: SN2018cve has no spectra to collect
+From statement 3: SN2018cvd has no spectra to collect
+From statement 4: SN2018cvd has no spectra to collect
+From statement 3: SN2018cua has no spectra to collect
+From statement 4: SN2018cua has no spectra to collect
+From statement 3: SN2018cty has no spectra to collect
+From statement 4: SN2018cty has no spectra to collect
+From statement 3: SN2018ctt has no spectra to collect
+From statement 4: SN2018ctt has no spectra to collect
+From statement 3: SN2018ctq has no spectra to collect
+From statement 4: SN2018ctq has no spectra to collect
+From statement 3: SN2018cto has no spectra to collect
+From statement 4: SN2018cto has no spectra to collect
+From statement 3: SN2018ctm has no spectra to collect
+From statement 4: SN2018ctm has no spectra to collect
+From statement 3: SN2018cts has no spectra to collect
+From statement 4: SN2018cts has no spectra to collect
+From statement 3: SN2018ctj has no spectra to collect
+From statement 4: SN2018ctj has no spectra to collect
+From statement 3: SN2018crs has no spectra to collect
+From statement 4: SN2018crs has no spectra to collect
+From statement 3: SN2018cro has no spectra to collect
+From statement 4: SN2018cro has no spectra to collect
+From statement 3: SN2018crn has no spectra to collect
+From statement 4: SN2018crn has no spectra to collect
+From statement 3: SN2018crr has no spectra to collect
+From statement 4: SN2018crr has no spectra to collect
+Runtime: 1.1891005754470825 minutesFrom statement 3: SN2018ctc has no spectra to collect
+From statement 4: SN2018ctc has no spectra to collect
+From statement 3: SN2018cve has no spectra to collect
+From statement 4: SN2018cve has no spectra to collect
+From statement 3: SN2018cvd has no spectra to collect
+From statement 4: SN2018cvd has no spectra to collect
+From statement 3: SN2018cua has no spectra to collect
+From statement 4: SN2018cua has no spectra to collect
+From statement 3: SN2018cty has no spectra to collect
+From statement 4: SN2018cty has no spectra to collect
+From statement 3: SN2018ctt has no spectra to collect
+From statement 4: SN2018ctt has no spectra to collect
+From statement 3: SN2018ctq has no spectra to collect
+From statement 4: SN2018ctq has no spectra to collect
+From statement 3: SN2018cto has no spectra to collect
+From statement 4: SN2018cto has no spectra to collect
+From statement 3: SN2018ctm has no spectra to collect
+From statement 4: SN2018ctm has no spectra to collect
+From statement 3: SN2018cts has no spectra to collect
+From statement 4: SN2018cts has no spectra to collect
+From statement 3: SN2018ctj has no spectra to collect
+From statement 4: SN2018ctj has no spectra to collect
+Runtime: 1.1022433042526245 minutesFrom statement 3: SN2018cvx has no spectra to collect
+From statement 4: SN2018cvx has no spectra to collect
+From statement 3: SN2018cvw has no spectra to collect
+From statement 4: SN2018cvw has no spectra to collect
+From statement 3: SN2018cvv has no spectra to collect
+From statement 4: SN2018cvv has no spectra to collect
+From statement 3: SN2018cvu has no spectra to collect
+From statement 4: SN2018cvu has no spectra to collect
+From statement 3: SN2018cvt has no spectra to collect
+From statement 4: SN2018cvt has no spectra to collect
+From statement 3: SN2018cvs has no spectra to collect
+From statement 4: SN2018cvs has no spectra to collect
+From statement 3: SN2018cvq has no spectra to collect
+From statement 4: SN2018cvq has no spectra to collect
+From statement 3: SN2018cvh has no spectra to collect
+From statement 4: SN2018cvh has no spectra to collect
+From statement 3: SN2018cuw has no spectra to collect
+From statement 4: SN2018cuw has no spectra to collect
+From statement 3: SN2018cug has no spectra to collect
+From statement 4: SN2018cug has no spectra to collect
+From statement 3: SN2018cve has no spectra to collect
+From statement 4: SN2018cve has no spectra to collect
+From statement 3: SN2018cvd has no spectra to collect
+From statement 4: SN2018cvd has no spectra to collect
+From statement 3: SN2018cua has no spectra to collect
+From statement 4: SN2018cua has no spectra to collect
+From statement 3: SN2018cty has no spectra to collect
+From statement 4: SN2018cty has no spectra to collect
+From statement 3: SN2018ctt has no spectra to collect
+From statement 4: SN2018ctt has no spectra to collect
+From statement 3: SN2018ctq has no spectra to collect
+From statement 4: SN2018ctq has no spectra to collect
+From statement 3: SN2018cto has no spectra to collect
+From statement 4: SN2018cto has no spectra to collect
+From statement 3: SN2018ctm has no spectra to collect
+From statement 4: SN2018ctm has no spectra to collect
+From statement 3: SN2018cts has no spectra to collect
+From statement 4: SN2018cts has no spectra to collect
+From statement 3: SN2018ctj has no spectra to collect
+From statement 4: SN2018ctj has no spectra to collect
+Runtime: 1.8014952619870503 minutesFrom statement 3: SN2018cvx has no spectra to collect
+From statement 4: SN2018cvx has no spectra to collect
+From statement 3: SN2018cvw has no spectra to collect
+From statement 4: SN2018cvw has no spectra to collect
+From statement 3: SN2018cvv has no spectra to collect
+From statement 4: SN2018cvv has no spectra to collect
+From statement 3: SN2018cvu has no spectra to collect
+From statement 4: SN2018cvu has no spectra to collect
+From statement 3: SN2018cvt has no spectra to collect
+From statement 4: SN2018cvt has no spectra to collect
+From statement 3: SN2018cvs has no spectra to collect
+From statement 4: SN2018cvs has no spectra to collect
+From statement 3: SN2018cvq has no spectra to collect
+From statement 4: SN2018cvq has no spectra to collect
+From statement 3: SN2018cvh has no spectra to collect
+From statement 4: SN2018cvh has no spectra to collect
+From statement 3: SN2018cuw has no spectra to collect
+From statement 4: SN2018cuw has no spectra to collect
+From statement 3: SN2018cug has no spectra to collect
+From statement 4: SN2018cug has no spectra to collect
+From statement 3: SN2018cve has no spectra to collect
+From statement 4: SN2018cve has no spectra to collect
+From statement 3: SN2018cvd has no spectra to collect
+From statement 4: SN2018cvd has no spectra to collect
+From statement 3: SN2018cua has no spectra to collect
+From statement 4: SN2018cua has no spectra to collect
+From statement 3: SN2018cty has no spectra to collect
+From statement 4: SN2018cty has no spectra to collect
+Runtime: 1.2620651443799338 minutesFrom statement 3: SN2018cvx has no spectra to collect
+From statement 4: SN2018cvx has no spectra to collect
+From statement 3: SN2018cvw has no spectra to collect
+From statement 4: SN2018cvw has no spectra to collect
+From statement 3: SN2018cvv has no spectra to collect
+From statement 4: SN2018cvv has no spectra to collect
+From statement 3: SN2018cvu has no spectra to collect
+From statement 4: SN2018cvu has no spectra to collect
+From statement 3: SN2018cvt has no spectra to collect
+From statement 4: SN2018cvt has no spectra to collect
+From statement 3: SN2018cvs has no spectra to collect
+From statement 4: SN2018cvs has no spectra to collect
+From statement 3: SN2018cvq has no spectra to collect
+From statement 4: SN2018cvq has no spectra to collect
+From statement 3: SN2018cvh has no spectra to collect
+From statement 4: SN2018cvh has no spectra to collect
+From statement 3: SN2018cuw has no spectra to collect
+From statement 4: SN2018cuw has no spectra to collect
+From statement 3: SN2018cve has no spectra to collect
+From statement 4: SN2018cve has no spectra to collect
+From statement 3: SN2018cvd has no spectra to collect
+From statement 4: SN2018cvd has no spectra to collect
+Runtime: 1.003829590479533 minutesFrom statement 3: SN2018dbd has no spectra to collect
+From statement 4: SN2018dbd has no spectra to collect
+From statement 3: SN2018dbc has no spectra to collect
+From statement 4: SN2018dbc has no spectra to collect
+From statement 3: SN2018cxl has no spectra to collect
+From statement 4: SN2018cxl has no spectra to collect
+From statement 3: SN2018cvf has no spectra to collect
+From statement 4: SN2018cvf has no spectra to collect
+From statement 3: SN2018cvx has no spectra to collect
+From statement 4: SN2018cvx has no spectra to collect
+From statement 3: SN2018cvw has no spectra to collect
+From statement 4: SN2018cvw has no spectra to collect
+From statement 3: SN2018cvv has no spectra to collect
+From statement 4: SN2018cvv has no spectra to collect
+From statement 3: SN2018cvu has no spectra to collect
+From statement 4: SN2018cvu has no spectra to collect
+From statement 3: SN2018cvt has no spectra to collect
+From statement 4: SN2018cvt has no spectra to collect
+From statement 3: SN2018cvs has no spectra to collect
+From statement 4: SN2018cvs has no spectra to collect
+From statement 3: SN2018cvq has no spectra to collect
+From statement 4: SN2018cvq has no spectra to collect
+From statement 3: SN2018cvh has no spectra to collect
+From statement 4: SN2018cvh has no spectra to collect
+From statement 3: SN2018cve has no spectra to collect
+From statement 4: SN2018cve has no spectra to collect
+From statement 3: SN2018cvd has no spectra to collect
+From statement 4: SN2018cvd has no spectra to collect
+Runtime: 1.1234106222788494 minutesFrom statement 3: SN2018cxj has no spectra to collect
+From statement 4: SN2018cxj has no spectra to collect
+From statement 3: SN2018dbd has no spectra to collect
+From statement 4: SN2018dbd has no spectra to collect
+From statement 3: SN2018dbc has no spectra to collect
+From statement 4: SN2018dbc has no spectra to collect
+From statement 3: SN2018cxl has no spectra to collect
+From statement 4: SN2018cxl has no spectra to collect
+From statement 3: SN2018cvx has no spectra to collect
+From statement 4: SN2018cvx has no spectra to collect
+From statement 3: SN2018cvw has no spectra to collect
+From statement 4: SN2018cvw has no spectra to collect
+From statement 3: SN2018cvv has no spectra to collect
+From statement 4: SN2018cvv has no spectra to collect
+From statement 3: SN2018cvu has no spectra to collect
+From statement 4: SN2018cvu has no spectra to collect
+From statement 3: SN2018cvt has no spectra to collect
+From statement 4: SN2018cvt has no spectra to collect
+From statement 3: SN2018cvs has no spectra to collect
+From statement 4: SN2018cvs has no spectra to collect
+From statement 3: SN2018cvq has no spectra to collect
+From statement 4: SN2018cvq has no spectra to collect
+Runtime: 0.9427153547604878 minutesFrom statement 3: SN2018cxj has no spectra to collect
+From statement 4: SN2018cxj has no spectra to collect
+From statement 3: SN2018dbd has no spectra to collect
+From statement 4: SN2018dbd has no spectra to collect
+From statement 3: SN2018dbc has no spectra to collect
+From statement 4: SN2018dbc has no spectra to collect
+From statement 3: SN2018cxl has no spectra to collect
+From statement 4: SN2018cxl has no spectra to collect
+Runtime: 0.47083617448806764 minutesFrom statement 3: SN2018ddh has no spectra to collect
+From statement 4: SN2018ddh has no spectra to collect
+From statement 3: SN2018dct has no spectra to collect
+From statement 4: SN2018dct has no spectra to collect
+From statement 3: SN2018cyg has no spectra to collect
+From statement 4: SN2018cyg has no spectra to collect
+From statement 3: SN2018dcn has no spectra to collect
+From statement 4: SN2018dcn has no spectra to collect
+From statement 3: SN2018dcm has no spectra to collect
+From statement 4: SN2018dcm has no spectra to collect
+From statement 3: SN2018cxj has no spectra to collect
+From statement 4: SN2018cxj has no spectra to collect
+From statement 3: SN2018dbd has no spectra to collect
+From statement 4: SN2018dbd has no spectra to collect
+From statement 3: SN2018dbc has no spectra to collect
+From statement 4: SN2018dbc has no spectra to collect
+From statement 3: SN2018cxl has no spectra to collect
+From statement 4: SN2018cxl has no spectra to collect
+Runtime: 0.7349580844243367 minutesFrom statement 3: SN2018ddh has no spectra to collect
+From statement 4: SN2018ddh has no spectra to collect
+From statement 3: SN2018dct has no spectra to collect
+From statement 4: SN2018dct has no spectra to collect
+From statement 3: SN2018cyg has no spectra to collect
+From statement 4: SN2018cyg has no spectra to collect
+From statement 3: SN2018dcn has no spectra to collect
+From statement 4: SN2018dcn has no spectra to collect
+From statement 3: SN2018dcm has no spectra to collect
+From statement 4: SN2018dcm has no spectra to collect
+From statement 3: SN2018dbd has no spectra to collect
+From statement 4: SN2018dbd has no spectra to collect
+From statement 3: SN2018dbc has no spectra to collect
+From statement 4: SN2018dbc has no spectra to collect
+Runtime: 0.6406612952550252 minutesFrom statement 3: SN2018deq has no spectra to collect
+From statement 4: SN2018deq has no spectra to collect
+From statement 3: SN2018dco has no spectra to collect
+From statement 4: SN2018dco has no spectra to collect
+From statement 3: SN2018ddh has no spectra to collect
+From statement 4: SN2018ddh has no spectra to collect
+From statement 3: SN2018dct has no spectra to collect
+From statement 4: SN2018dct has no spectra to collect
+From statement 3: SN2018dcn has no spectra to collect
+From statement 4: SN2018dcn has no spectra to collect
+From statement 3: SN2018dcm has no spectra to collect
+From statement 4: SN2018dcm has no spectra to collect
+From statement 3: SN2018dbd has no spectra to collect
+From statement 4: SN2018dbd has no spectra to collect
+From statement 3: SN2018dbc has no spectra to collect
+From statement 4: SN2018dbc has no spectra to collect
+Runtime: 0.767208476861318 minutesRuntime: 0.43209675550460813 minutesFrom statement 3: SN2018ecq has no spectra to collect
+From statement 4: SN2018ecq has no spectra to collect
+From statement 3: SN2018edw has no spectra to collect
+From statement 4: SN2018edw has no spectra to collect
+From statement 3: SN2018ecr has no spectra to collect
+From statement 4: SN2018ecr has no spectra to collect
+Runtime: 0.717603882153829 minutesFrom statement 3: SN2018ecq has no spectra to collect
+From statement 4: SN2018ecq has no spectra to collect
+From statement 3: SN2018edw has no spectra to collect
+From statement 4: SN2018edw has no spectra to collect
+From statement 3: SN2018ecr has no spectra to collect
+From statement 4: SN2018ecr has no spectra to collect
+Runtime: 0.729417602221171 minutesFrom statement 3: SN2018elm has no spectra to collect
+From statement 4: SN2018elm has no spectra to collect
+From statement 3: SN2018ecq has no spectra to collect
+From statement 4: SN2018ecq has no spectra to collect
+From statement 3: SN2018edw has no spectra to collect
+From statement 4: SN2018edw has no spectra to collect
+From statement 3: SN2018ecr has no spectra to collect
+From statement 4: SN2018ecr has no spectra to collect
+Runtime: 0.4930685559908549 minutesFrom statement 3: SN2018emx has no spectra to collect
+From statement 4: SN2018emx has no spectra to collect
+From statement 3: SN2018eml has no spectra to collect
+From statement 4: SN2018eml has no spectra to collect
+From statement 3: SN2018emi has no spectra to collect
+From statement 4: SN2018emi has no spectra to collect
+From statement 3: SN2018ell has no spectra to collect
+From statement 4: SN2018ell has no spectra to collect
+From statement 3: SN2018elk has no spectra to collect
+From statement 4: SN2018elk has no spectra to collect
+From statement 3: SN2018elj has no spectra to collect
+From statement 4: SN2018elj has no spectra to collect
+From statement 3: SN2018efk has no spectra to collect
+From statement 4: SN2018efk has no spectra to collect
+From statement 3: SN2018efg has no spectra to collect
+From statement 4: SN2018efg has no spectra to collect
+From statement 3: SN2018efe has no spectra to collect
+From statement 4: SN2018efe has no spectra to collect
+From statement 3: SN2018efb has no spectra to collect
+From statement 4: SN2018efb has no spectra to collect
+From statement 3: SN2018elm has no spectra to collect
+From statement 4: SN2018elm has no spectra to collect
+From statement 3: SN2018edw has no spectra to collect
+From statement 4: SN2018edw has no spectra to collect
+Runtime: 0.9839692711830139 minutesFrom statement 3: SN2018ejc has no spectra to collect
+From statement 4: SN2018ejc has no spectra to collect
+From statement 3: SN2018eni has no spectra to collect
+From statement 4: SN2018eni has no spectra to collect
+From statement 3: SN2018emy has no spectra to collect
+From statement 4: SN2018emy has no spectra to collect
+From statement 3: SN2018emv has no spectra to collect
+From statement 4: SN2018emv has no spectra to collect
+From statement 3: SN2018emx has no spectra to collect
+From statement 4: SN2018emx has no spectra to collect
+From statement 3: SN2018eml has no spectra to collect
+From statement 4: SN2018eml has no spectra to collect
+From statement 3: SN2018emi has no spectra to collect
+From statement 4: SN2018emi has no spectra to collect
+From statement 3: SN2018ell has no spectra to collect
+From statement 4: SN2018ell has no spectra to collect
+From statement 3: SN2018elk has no spectra to collect
+From statement 4: SN2018elk has no spectra to collect
+From statement 3: SN2018efk has no spectra to collect
+From statement 4: SN2018efk has no spectra to collect
+From statement 3: SN2018efg has no spectra to collect
+From statement 4: SN2018efg has no spectra to collect
+From statement 3: SN2018efe has no spectra to collect
+From statement 4: SN2018efe has no spectra to collect
+From statement 3: SN2018elm has no spectra to collect
+From statement 4: SN2018elm has no spectra to collect
+Runtime: 1.7714019457499186 minutesFrom statement 3: SN2018ejc has no spectra to collect
+From statement 4: SN2018ejc has no spectra to collect
+From statement 3: SN2018eni has no spectra to collect
+From statement 4: SN2018eni has no spectra to collect
+From statement 3: SN2018emy has no spectra to collect
+From statement 4: SN2018emy has no spectra to collect
+From statement 3: SN2018emv has no spectra to collect
+From statement 4: SN2018emv has no spectra to collect
+From statement 3: SN2018emx has no spectra to collect
+From statement 4: SN2018emx has no spectra to collect
+From statement 3: SN2018eml has no spectra to collect
+From statement 4: SN2018eml has no spectra to collect
+From statement 3: SN2018emi has no spectra to collect
+From statement 4: SN2018emi has no spectra to collect
+From statement 3: SN2018ell has no spectra to collect
+From statement 4: SN2018ell has no spectra to collect
+From statement 3: SN2018elk has no spectra to collect
+From statement 4: SN2018elk has no spectra to collect
+From statement 3: SN2018elm has no spectra to collect
+From statement 4: SN2018elm has no spectra to collect
+Runtime: 2.5503264824549357 minutesFrom statement 3: SN2000ei has no spectra to collect
+From statement 4: SN2000ei has no spectra to collect
+From statement 3: SN1995av has no spectra to collect
+From statement 4: SN1995av has no spectra to collect
+From statement 3: SNLS-07D3bs has no spectra to collect
+From statement 4: SNLS-07D3bs has no spectra to collect
+From statement 3: SN2011kl has no spectra to collect
+From statement 4: SN2011kl has no spectra to collect
+From statement 3: SN2011ep has no spectra to collect
+From statement 4: SN2011ep has no spectra to collect
+From statement 3: SN2009de has no spectra to collect
+From statement 4: SN2009de has no spectra to collect
+From statement 3: SN2007bw has no spectra to collect
+From statement 4: SN2007bw has no spectra to collect
+From statement 3: DES14S2qri has no spectra to collect
+From statement 4: DES14S2qri has no spectra to collect
+From statement 3: SN1999bd has no spectra to collect
+From statement 4: SN1999bd has no spectra to collect
+From statement 3: SN1000+0216 has no spectra to collect
+From statement 4: SN1000+0216 has no spectra to collect
+From statement 3: SN2213-1745 has no spectra to collect
+From statement 4: SN2213-1745 has no spectra to collect
+From statement 3: DES14X2byo has no spectra to collect
+From statement 4: DES14X2byo has no spectra to collect
+From statement 3: SN2008fz has no spectra to collect
+From statement 4: SN2008fz has no spectra to collect
+From statement 3: SN1999as has no spectra to collect
+From statement 4: SN1999as has no spectra to collect
+From statement 3: PS1-12zn has no spectra to collect
+From statement 4: PS1-12zn has no spectra to collect
+From statement 3: PS1-12bmy has no spectra to collect
+From statement 4: PS1-12bmy has no spectra to collect
+From statement 3: PS1-11bam has no spectra to collect
+From statement 4: PS1-11bam has no spectra to collect
+From statement 3: PS1-13or has no spectra to collect
+From statement 4: PS1-13or has no spectra to collect
+From statement 3: PS1-11afv has no spectra to collect
+From statement 4: PS1-11afv has no spectra to collect
+From statement 3: PS1-11tt has no spectra to collect
+From statement 4: PS1-11tt has no spectra to collect
+From statement 3: PS1-10pm has no spectra to collect
+From statement 4: PS1-10pm has no spectra to collect
+From statement 3: PS1-10ahf has no spectra to collect
+From statement 4: PS1-10ahf has no spectra to collect
+From statement 3: PS1-11aib has no spectra to collect
+From statement 4: PS1-11aib has no spectra to collect
+From statement 3: PS1-13gt has no spectra to collect
+From statement 4: PS1-13gt has no spectra to collect
+From statement 3: PS1-11bdn has no spectra to collect
+From statement 4: PS1-11bdn has no spectra to collect
+From statement 3: PS1-11ap has no spectra to collect
+From statement 4: PS1-11ap has no spectra to collect
+From statement 3: PS1-12bqf has no spectra to collect
+From statement 4: PS1-12bqf has no spectra to collect
+From statement 3: PS1-12cil has no spectra to collect
+From statement 4: PS1-12cil has no spectra to collect
+Removing duplicate spectrum for SN2018epx -- tns_2018epx_2458336.491377_UH88_SNIFS_SCAT.dat
+Presumably no other duplicate files found for SN2018epa
+From statement 3: SN2018eps has no spectra to collect
+From statement 4: SN2018eps has no spectra to collect
+From statement 3: SN2018eoe has no spectra to collect
+From statement 4: SN2018eoe has no spectra to collect
+Removing duplicate spectrum for SN2018eog -- tAT2018eog_20180804_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2018eog
+Removing duplicate spectrum for SN2018enb -- tAT2018enb_20180804_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2018enb
+From statement 3: SN2018eni has no spectra to collect
+From statement 4: SN2018eni has no spectra to collect
+From statement 3: SN2018emy has no spectra to collect
+From statement 4: SN2018emy has no spectra to collect
+From statement 3: SN2018emv has no spectra to collect
+From statement 4: SN2018emv has no spectra to collect
+From statement 3: SN2018emx has no spectra to collect
+From statement 4: SN2018emx has no spectra to collect
+From statement 3: SN2018eml has no spectra to collect
+From statement 4: SN2018eml has no spectra to collect
+From statement 3: SN2018emi has no spectra to collect
+From statement 4: SN2018emi has no spectra to collect
+Runtime: 4.359328063329061 minutesFrom statement 3: SN2018esa has no spectra to collect
+From statement 4: SN2018esa has no spectra to collect
+From statement 3: SN2018erw has no spectra to collect
+From statement 4: SN2018erw has no spectra to collect
+From statement 3: SN2018ert has no spectra to collect
+From statement 4: SN2018ert has no spectra to collect
+From statement 3: SN2018err has no spectra to collect
+From statement 4: SN2018err has no spectra to collect
+From statement 3: SN2000ei has no spectra to collect
+From statement 4: SN2000ei has no spectra to collect
+From statement 3: SN1995av has no spectra to collect
+From statement 4: SN1995av has no spectra to collect
+From statement 3: SNLS-07D3bs has no spectra to collect
+From statement 4: SNLS-07D3bs has no spectra to collect
+From statement 3: SN2011kl has no spectra to collect
+From statement 4: SN2011kl has no spectra to collect
+From statement 3: SN2011ep has no spectra to collect
+From statement 4: SN2011ep has no spectra to collect
+From statement 3: SN2009de has no spectra to collect
+From statement 4: SN2009de has no spectra to collect
+From statement 3: SN2007bw has no spectra to collect
+From statement 4: SN2007bw has no spectra to collect
+From statement 3: DES14S2qri has no spectra to collect
+From statement 4: DES14S2qri has no spectra to collect
+From statement 3: SN1999bd has no spectra to collect
+From statement 4: SN1999bd has no spectra to collect
+From statement 3: SN1000+0216 has no spectra to collect
+From statement 4: SN1000+0216 has no spectra to collect
+From statement 3: SN2213-1745 has no spectra to collect
+From statement 4: SN2213-1745 has no spectra to collect
+From statement 3: DES14X2byo has no spectra to collect
+From statement 4: DES14X2byo has no spectra to collect
+From statement 3: SN2008fz has no spectra to collect
+From statement 4: SN2008fz has no spectra to collect
+From statement 3: SN1999as has no spectra to collect
+From statement 4: SN1999as has no spectra to collect
+From statement 3: PS1-12zn has no spectra to collect
+From statement 4: PS1-12zn has no spectra to collect
+From statement 3: PS1-12bmy has no spectra to collect
+From statement 4: PS1-12bmy has no spectra to collect
+From statement 3: PS1-11bam has no spectra to collect
+From statement 4: PS1-11bam has no spectra to collect
+From statement 3: PS1-13or has no spectra to collect
+From statement 4: PS1-13or has no spectra to collect
+From statement 3: PS1-11afv has no spectra to collect
+From statement 4: PS1-11afv has no spectra to collect
+From statement 3: PS1-11tt has no spectra to collect
+From statement 4: PS1-11tt has no spectra to collect
+From statement 3: PS1-10pm has no spectra to collect
+From statement 4: PS1-10pm has no spectra to collect
+From statement 3: PS1-10ahf has no spectra to collect
+From statement 4: PS1-10ahf has no spectra to collect
+From statement 3: PS1-11aib has no spectra to collect
+From statement 4: PS1-11aib has no spectra to collect
+From statement 3: PS1-13gt has no spectra to collect
+From statement 4: PS1-13gt has no spectra to collect
+From statement 3: PS1-11bdn has no spectra to collect
+From statement 4: PS1-11bdn has no spectra to collect
+From statement 3: PS1-11ap has no spectra to collect
+From statement 4: PS1-11ap has no spectra to collect
+From statement 3: PS1-12bqf has no spectra to collect
+From statement 4: PS1-12bqf has no spectra to collect
+From statement 3: PS1-12cil has no spectra to collect
+From statement 4: PS1-12cil has no spectra to collect
+Removing duplicate spectrum for SN2018epx -- tns_2018epx_2458336.491377_UH88_SNIFS_SCAT.dat
+Presumably no other duplicate files found for SN2018epa
+From statement 3: SN2018eps has no spectra to collect
+From statement 4: SN2018eps has no spectra to collect
+From statement 3: SN2018eoe has no spectra to collect
+From statement 4: SN2018eoe has no spectra to collect
+Removing duplicate spectrum for SN2018eog -- tAT2018eog_20180804_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2018eog
+Removing duplicate spectrum for SN2018enb -- tAT2018enb_20180804_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2018enb
+From statement 3: SN2018eni has no spectra to collect
+From statement 4: SN2018eni has no spectra to collect
+Runtime: 4.357392354806264 minutesFrom statement 4: SN2018emt has no spectra to collect
+From statement 3: SN2018ety has no spectra to collect
+From statement 4: SN2018ety has no spectra to collect
+From statement 3: SN2018etj has no spectra to collect
+From statement 4: SN2018etj has no spectra to collect
+From statement 3: SN2018epj has no spectra to collect
+From statement 4: SN2018epj has no spectra to collect
+From statement 3: SN2018euz has no spectra to collect
+From statement 4: SN2018euz has no spectra to collect
+From statement 3: SN2018esa has no spectra to collect
+From statement 4: SN2018esa has no spectra to collect
+From statement 3: SN2018erw has no spectra to collect
+From statement 4: SN2018erw has no spectra to collect
+From statement 3: SN2018ert has no spectra to collect
+From statement 4: SN2018ert has no spectra to collect
+From statement 3: SN2018err has no spectra to collect
+From statement 4: SN2018err has no spectra to collect
+From statement 3: SN2000ei has no spectra to collect
+From statement 4: SN2000ei has no spectra to collect
+From statement 3: SN1995av has no spectra to collect
+From statement 4: SN1995av has no spectra to collect
+From statement 3: SNLS-07D3bs has no spectra to collect
+From statement 4: SNLS-07D3bs has no spectra to collect
+From statement 3: SN2011kl has no spectra to collect
+From statement 4: SN2011kl has no spectra to collect
+From statement 3: SN2011ep has no spectra to collect
+From statement 4: SN2011ep has no spectra to collect
+From statement 3: SN2009de has no spectra to collect
+From statement 4: SN2009de has no spectra to collect
+From statement 3: SN2007bw has no spectra to collect
+From statement 4: SN2007bw has no spectra to collect
+From statement 3: DES14S2qri has no spectra to collect
+From statement 4: DES14S2qri has no spectra to collect
+From statement 3: SN1999bd has no spectra to collect
+From statement 4: SN1999bd has no spectra to collect
+From statement 3: SN1000+0216 has no spectra to collect
+From statement 4: SN1000+0216 has no spectra to collect
+From statement 3: SN2213-1745 has no spectra to collect
+From statement 4: SN2213-1745 has no spectra to collect
+From statement 3: DES14X2byo has no spectra to collect
+From statement 4: DES14X2byo has no spectra to collect
+From statement 3: SN2008fz has no spectra to collect
+From statement 4: SN2008fz has no spectra to collect
+From statement 3: SN1999as has no spectra to collect
+From statement 4: SN1999as has no spectra to collect
+From statement 3: PS1-12zn has no spectra to collect
+From statement 4: PS1-12zn has no spectra to collect
+From statement 3: PS1-12bmy has no spectra to collect
+From statement 4: PS1-12bmy has no spectra to collect
+From statement 3: PS1-11bam has no spectra to collect
+From statement 4: PS1-11bam has no spectra to collect
+From statement 3: PS1-13or has no spectra to collect
+From statement 4: PS1-13or has no spectra to collect
+From statement 3: PS1-11afv has no spectra to collect
+From statement 4: PS1-11afv has no spectra to collect
+From statement 3: PS1-11tt has no spectra to collect
+From statement 4: PS1-11tt has no spectra to collect
+From statement 3: PS1-10pm has no spectra to collect
+From statement 4: PS1-10pm has no spectra to collect
+From statement 3: PS1-10ahf has no spectra to collect
+From statement 4: PS1-10ahf has no spectra to collect
+From statement 3: PS1-11aib has no spectra to collect
+From statement 4: PS1-11aib has no spectra to collect
+From statement 3: PS1-13gt has no spectra to collect
+From statement 4: PS1-13gt has no spectra to collect
+From statement 3: PS1-11bdn has no spectra to collect
+From statement 4: PS1-11bdn has no spectra to collect
+From statement 3: PS1-11ap has no spectra to collect
+From statement 4: PS1-11ap has no spectra to collect
+From statement 3: PS1-12bqf has no spectra to collect
+From statement 4: PS1-12bqf has no spectra to collect
+From statement 3: PS1-12cil has no spectra to collect
+From statement 4: PS1-12cil has no spectra to collect
+Removing duplicate spectrum for SN2018epx -- tns_2018epx_2458336.491377_UH88_SNIFS_SCAT.dat
+Presumably no other duplicate files found for SN2018epa
+From statement 3: SN2018eps has no spectra to collect
+From statement 4: SN2018eps has no spectra to collect
+From statement 3: SN2018eoe has no spectra to collect
+From statement 4: SN2018eoe has no spectra to collect
+Removing duplicate spectrum for SN2018eog -- tAT2018eog_20180804_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2018eog
+Removing duplicate spectrum for SN2018enb -- tAT2018enb_20180804_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2018enb
+Runtime: 4.664415057500204 minutesPresumably no other duplicate files found for SN2018emt
+From statement 3: SN2018ety has no spectra to collect
+From statement 4: SN2018ety has no spectra to collect
+From statement 3: SN2018etj has no spectra to collect
+From statement 4: SN2018etj has no spectra to collect
+From statement 3: SN2018euz has no spectra to collect
+From statement 4: SN2018euz has no spectra to collect
+From statement 3: SN2018esa has no spectra to collect
+From statement 4: SN2018esa has no spectra to collect
+From statement 3: SN2018erw has no spectra to collect
+From statement 4: SN2018erw has no spectra to collect
+From statement 3: SN2018ert has no spectra to collect
+From statement 4: SN2018ert has no spectra to collect
+From statement 3: SN2018err has no spectra to collect
+From statement 4: SN2018err has no spectra to collect
+From statement 3: SN2000ei has no spectra to collect
+From statement 4: SN2000ei has no spectra to collect
+From statement 3: SN1995av has no spectra to collect
+From statement 4: SN1995av has no spectra to collect
+From statement 3: SNLS-07D3bs has no spectra to collect
+From statement 4: SNLS-07D3bs has no spectra to collect
+From statement 3: SN2011kl has no spectra to collect
+From statement 4: SN2011kl has no spectra to collect
+From statement 3: SN2011ep has no spectra to collect
+From statement 4: SN2011ep has no spectra to collect
+From statement 3: SN2009de has no spectra to collect
+From statement 4: SN2009de has no spectra to collect
+From statement 3: SN2007bw has no spectra to collect
+From statement 4: SN2007bw has no spectra to collect
+From statement 3: DES14S2qri has no spectra to collect
+From statement 4: DES14S2qri has no spectra to collect
+From statement 3: SN1999bd has no spectra to collect
+From statement 4: SN1999bd has no spectra to collect
+From statement 3: SN1000+0216 has no spectra to collect
+From statement 4: SN1000+0216 has no spectra to collect
+From statement 3: SN2213-1745 has no spectra to collect
+From statement 4: SN2213-1745 has no spectra to collect
+From statement 3: DES14X2byo has no spectra to collect
+From statement 4: DES14X2byo has no spectra to collect
+From statement 3: SN2008fz has no spectra to collect
+From statement 4: SN2008fz has no spectra to collect
+From statement 3: SN1999as has no spectra to collect
+From statement 4: SN1999as has no spectra to collect
+From statement 3: PS1-12zn has no spectra to collect
+From statement 4: PS1-12zn has no spectra to collect
+From statement 3: PS1-12bmy has no spectra to collect
+From statement 4: PS1-12bmy has no spectra to collect
+From statement 3: PS1-11bam has no spectra to collect
+From statement 4: PS1-11bam has no spectra to collect
+From statement 3: PS1-13or has no spectra to collect
+From statement 4: PS1-13or has no spectra to collect
+From statement 3: PS1-11afv has no spectra to collect
+From statement 4: PS1-11afv has no spectra to collect
+From statement 3: PS1-11tt has no spectra to collect
+From statement 4: PS1-11tt has no spectra to collect
+From statement 3: PS1-10pm has no spectra to collect
+From statement 4: PS1-10pm has no spectra to collect
+From statement 3: PS1-10ahf has no spectra to collect
+From statement 4: PS1-10ahf has no spectra to collect
+From statement 3: PS1-11aib has no spectra to collect
+From statement 4: PS1-11aib has no spectra to collect
+From statement 3: PS1-13gt has no spectra to collect
+From statement 4: PS1-13gt has no spectra to collect
+From statement 3: PS1-11bdn has no spectra to collect
+From statement 4: PS1-11bdn has no spectra to collect
+From statement 3: PS1-11ap has no spectra to collect
+From statement 4: PS1-11ap has no spectra to collect
+From statement 3: PS1-12bqf has no spectra to collect
+From statement 4: PS1-12bqf has no spectra to collect
+From statement 3: PS1-12cil has no spectra to collect
+From statement 4: PS1-12cil has no spectra to collect
+Removing duplicate spectrum for SN2018epx -- tns_2018epx_2458336.491377_UH88_SNIFS_SCAT.dat
+From statement 3: SN2018eps has no spectra to collect
+From statement 4: SN2018eps has no spectra to collect
+Removing duplicate spectrum for SN2018eog -- tAT2018eog_20180804_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2018eog
+Removing duplicate spectrum for SN2018enb -- tAT2018enb_20180804_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2018enb
+Runtime: 3.822074496746063 minutesFrom statement 3: SN2018fbh has no spectra to collect
+From statement 4: SN2018fbh has no spectra to collect
+From statement 3: SN2018ezz has no spectra to collect
+From statement 4: SN2018ezz has no spectra to collect
+From statement 3: SN2018eyi has no spectra to collect
+From statement 4: SN2018eyi has no spectra to collect
+From statement 3: SN2018etk has no spectra to collect
+From statement 4: SN2018etk has no spectra to collect
+From statement 3: SN2018ery has no spectra to collect
+From statement 4: SN2018ery has no spectra to collect
+Removing duplicate spectrum for SN2018elp -- tAT2018elp_20180812_Gr11_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2018elp
+Removing duplicate spectrum for SN2018evb -- tAT2018evb_20180811_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2018evb
+Presumably no other duplicate files found for SN2018emt
+From statement 3: SN2018ety has no spectra to collect
+From statement 4: SN2018ety has no spectra to collect
+From statement 3: SN2018etj has no spectra to collect
+From statement 4: SN2018etj has no spectra to collect
+From statement 3: SN2018euz has no spectra to collect
+From statement 4: SN2018euz has no spectra to collect
+From statement 3: SN2018esa has no spectra to collect
+From statement 4: SN2018esa has no spectra to collect
+From statement 3: SN2018erw has no spectra to collect
+From statement 4: SN2018erw has no spectra to collect
+From statement 3: SN2018ert has no spectra to collect
+From statement 4: SN2018ert has no spectra to collect
+From statement 3: SN2018err has no spectra to collect
+From statement 4: SN2018err has no spectra to collect
+From statement 3: SN2000ei has no spectra to collect
+From statement 4: SN2000ei has no spectra to collect
+From statement 3: SN1995av has no spectra to collect
+From statement 4: SN1995av has no spectra to collect
+From statement 3: SNLS-07D3bs has no spectra to collect
+From statement 4: SNLS-07D3bs has no spectra to collect
+From statement 3: SN2011kl has no spectra to collect
+From statement 4: SN2011kl has no spectra to collect
+From statement 3: SN2011ep has no spectra to collect
+From statement 4: SN2011ep has no spectra to collect
+From statement 3: SN2009de has no spectra to collect
+From statement 4: SN2009de has no spectra to collect
+From statement 3: SN2007bw has no spectra to collect
+From statement 4: SN2007bw has no spectra to collect
+From statement 3: DES14S2qri has no spectra to collect
+From statement 4: DES14S2qri has no spectra to collect
+From statement 3: SN1999bd has no spectra to collect
+From statement 4: SN1999bd has no spectra to collect
+From statement 3: SN1000+0216 has no spectra to collect
+From statement 4: SN1000+0216 has no spectra to collect
+From statement 3: SN2213-1745 has no spectra to collect
+From statement 4: SN2213-1745 has no spectra to collect
+From statement 3: DES14X2byo has no spectra to collect
+From statement 4: DES14X2byo has no spectra to collect
+From statement 3: SN2008fz has no spectra to collect
+From statement 4: SN2008fz has no spectra to collect
+From statement 3: SN1999as has no spectra to collect
+From statement 4: SN1999as has no spectra to collect
+From statement 3: PS1-12zn has no spectra to collect
+From statement 4: PS1-12zn has no spectra to collect
+From statement 3: PS1-12bmy has no spectra to collect
+From statement 4: PS1-12bmy has no spectra to collect
+From statement 3: PS1-11bam has no spectra to collect
+From statement 4: PS1-11bam has no spectra to collect
+From statement 3: PS1-13or has no spectra to collect
+From statement 4: PS1-13or has no spectra to collect
+From statement 3: PS1-11afv has no spectra to collect
+From statement 4: PS1-11afv has no spectra to collect
+From statement 3: PS1-11tt has no spectra to collect
+From statement 4: PS1-11tt has no spectra to collect
+From statement 3: PS1-10pm has no spectra to collect
+From statement 4: PS1-10pm has no spectra to collect
+From statement 3: PS1-10ahf has no spectra to collect
+From statement 4: PS1-10ahf has no spectra to collect
+From statement 3: PS1-11aib has no spectra to collect
+From statement 4: PS1-11aib has no spectra to collect
+From statement 3: PS1-13gt has no spectra to collect
+From statement 4: PS1-13gt has no spectra to collect
+From statement 3: PS1-11bdn has no spectra to collect
+From statement 4: PS1-11bdn has no spectra to collect
+From statement 3: PS1-11ap has no spectra to collect
+From statement 4: PS1-11ap has no spectra to collect
+From statement 3: PS1-12bqf has no spectra to collect
+From statement 4: PS1-12bqf has no spectra to collect
+From statement 3: PS1-12cil has no spectra to collect
+From statement 4: PS1-12cil has no spectra to collect
+Runtime: 4.090100610256195 minutesFrom statement 3: SN2018fbh has no spectra to collect
+From statement 4: SN2018fbh has no spectra to collect
+From statement 3: SN2018ezz has no spectra to collect
+From statement 4: SN2018ezz has no spectra to collect
+From statement 3: SN2018eyi has no spectra to collect
+From statement 4: SN2018eyi has no spectra to collect
+From statement 3: SN2018etk has no spectra to collect
+From statement 4: SN2018etk has no spectra to collect
+Removing duplicate spectrum for SN2018elp -- tAT2018elp_20180812_Gr11_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2018elp
+Removing duplicate spectrum for SN2018evb -- tAT2018evb_20180811_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2018evb
+Presumably no other duplicate files found for SN2018emt
+From statement 3: SN2018ety has no spectra to collect
+From statement 4: SN2018ety has no spectra to collect
+From statement 3: SN2018etj has no spectra to collect
+From statement 4: SN2018etj has no spectra to collect
+From statement 3: SN2018euz has no spectra to collect
+From statement 4: SN2018euz has no spectra to collect
+Runtime: 2.027618408203125 minutesFrom statement 3: SN2018fbh has no spectra to collect
+From statement 4: SN2018fbh has no spectra to collect
+From statement 3: SN2018ezz has no spectra to collect
+From statement 4: SN2018ezz has no spectra to collect
+From statement 3: SN2018eyi has no spectra to collect
+From statement 4: SN2018eyi has no spectra to collect
+Removing duplicate spectrum for SN2018elp -- tAT2018elp_20180812_Gr11_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2018elp
+Removing duplicate spectrum for SN2018evb -- tAT2018evb_20180811_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2018evb
+Presumably no other duplicate files found for SN2018emt
+From statement 3: SN2018ety has no spectra to collect
+From statement 4: SN2018ety has no spectra to collect
+From statement 3: SN2018euz has no spectra to collect
+From statement 4: SN2018euz has no spectra to collect
+Runtime: 1.9014706134796142 minutesFrom statement 3: SN2018eyh has no spectra to collect
+From statement 4: SN2018eyh has no spectra to collect
+From statement 3: SN2018fbh has no spectra to collect
+From statement 4: SN2018fbh has no spectra to collect
+From statement 3: SN2018ezz has no spectra to collect
+From statement 4: SN2018ezz has no spectra to collect
+From statement 3: SN2018eyi has no spectra to collect
+From statement 4: SN2018eyi has no spectra to collect
+Removing duplicate spectrum for SN2018elp -- tAT2018elp_20180812_Gr11_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2018elp
+Removing duplicate spectrum for SN2018evb -- tAT2018evb_20180811_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2018evb
+Presumably no other duplicate files found for SN2018emt
+From statement 3: SN2018euz has no spectra to collect
+From statement 4: SN2018euz has no spectra to collect
+Runtime: 1.971234953403473 minutesFrom statement 3: SN2018fec has no spectra to collect
+From statement 4: SN2018fec has no spectra to collect
+From statement 3: SN2018fdz has no spectra to collect
+From statement 4: SN2018fdz has no spectra to collect
+Presumably no other duplicate files found for SN2018fcw
+From statement 3: SN2018fae has no spectra to collect
+From statement 4: SN2018fae has no spectra to collect
+From statement 3: SN2018eyh has no spectra to collect
+From statement 4: SN2018eyh has no spectra to collect
+From statement 3: SN2018fbh has no spectra to collect
+From statement 4: SN2018fbh has no spectra to collect
+From statement 3: SN2018ezz has no spectra to collect
+From statement 4: SN2018ezz has no spectra to collect
+From statement 3: SN2018eyi has no spectra to collect
+From statement 4: SN2018eyi has no spectra to collect
+Removing duplicate spectrum for SN2018elp -- tAT2018elp_20180812_Gr11_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2018elp
+Removing duplicate spectrum for SN2018evb -- tAT2018evb_20180811_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2018evb
+Presumably no other duplicate files found for SN2018emt
+Runtime: 2.23165674606959 minutesFrom statement 3: SN2018fec has no spectra to collect
+From statement 4: SN2018fec has no spectra to collect
+From statement 3: SN2018fdz has no spectra to collect
+From statement 4: SN2018fdz has no spectra to collect
+Presumably no other duplicate files found for SN2018fcw
+From statement 3: SN2018fae has no spectra to collect
+From statement 4: SN2018fae has no spectra to collect
+From statement 3: SN2018eyh has no spectra to collect
+From statement 4: SN2018eyh has no spectra to collect
+From statement 3: SN2018fbh has no spectra to collect
+From statement 4: SN2018fbh has no spectra to collect
+From statement 3: SN2018ezz has no spectra to collect
+From statement 4: SN2018ezz has no spectra to collect
+From statement 3: SN2018eyi has no spectra to collect
+From statement 4: SN2018eyi has no spectra to collect
+Removing duplicate spectrum for SN2018elp -- tAT2018elp_20180812_Gr11_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2018elp
+Removing duplicate spectrum for SN2018evb -- tAT2018evb_20180811_Gr13_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2018evb
+Runtime: 2.781724548339844 minutes2 objects returned for SN2018ffj
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 3: SN2018fec has no spectra to collect
+From statement 4: SN2018fec has no spectra to collect
+From statement 3: SN2018fdz has no spectra to collect
+From statement 4: SN2018fdz has no spectra to collect
+Presumably no other duplicate files found for SN2018fcw
+From statement 3: SN2018fae has no spectra to collect
+From statement 4: SN2018fae has no spectra to collect
+From statement 3: SN2018eyh has no spectra to collect
+From statement 4: SN2018eyh has no spectra to collect
+From statement 3: SN2018fbh has no spectra to collect
+From statement 4: SN2018fbh has no spectra to collect
+From statement 3: SN2018ezz has no spectra to collect
+From statement 4: SN2018ezz has no spectra to collect
+From statement 3: SN2018eyi has no spectra to collect
+From statement 4: SN2018eyi has no spectra to collect
+Removing duplicate spectrum for SN2018elp -- tAT2018elp_20180812_Gr11_Free_slit1.0_1_f.asci
+Presumably no other duplicate files found for SN2018elp
+Runtime: 2.863806919256846 minutesFrom statement 3: SN2018fet has no spectra to collect
+From statement 4: SN2018fet has no spectra to collect
+From statement 3: SN2018fdt has no spectra to collect
+From statement 4: SN2018fdt has no spectra to collect
+2 objects returned for SN2018ffj
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 3: SN2018fec has no spectra to collect
+From statement 4: SN2018fec has no spectra to collect
+From statement 3: SN2018fdz has no spectra to collect
+From statement 4: SN2018fdz has no spectra to collect
+Presumably no other duplicate files found for SN2018fcw
+From statement 3: SN2018fbh has no spectra to collect
+From statement 4: SN2018fbh has no spectra to collect
+Runtime: 2.5525559822718304 minutesFrom statement 3: SN2018fet has no spectra to collect
+From statement 4: SN2018fet has no spectra to collect
+From statement 3: SN2018fdt has no spectra to collect
+From statement 4: SN2018fdt has no spectra to collect
+2 objects returned for SN2018ffj
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 3: SN2018fec has no spectra to collect
+From statement 4: SN2018fec has no spectra to collect
+From statement 3: SN2018fdz has no spectra to collect
+From statement 4: SN2018fdz has no spectra to collect
+Presumably no other duplicate files found for SN2018fcw
+Runtime: 2.2319875518480936 minutesFrom statement 3: SN2018fio has no spectra to collect
+From statement 4: SN2018fio has no spectra to collect
+From statement 3: SN2018fin has no spectra to collect
+From statement 4: SN2018fin has no spectra to collect
+From statement 3: SN2018fim has no spectra to collect
+From statement 4: SN2018fim has no spectra to collect
+From statement 3: SN2018fhh has no spectra to collect
+From statement 4: SN2018fhh has no spectra to collect
+From statement 3: SN2018fhg has no spectra to collect
+From statement 4: SN2018fhg has no spectra to collect
+From statement 3: SN2018fhe has no spectra to collect
+From statement 4: SN2018fhe has no spectra to collect
+From statement 3: SN2018fev has no spectra to collect
+From statement 4: SN2018fev has no spectra to collect
+From statement 3: SN2018fem has no spectra to collect
+From statement 4: SN2018fem has no spectra to collect
+From statement 3: SN2018fdy has no spectra to collect
+From statement 4: SN2018fdy has no spectra to collect
+From statement 3: SN2018fet has no spectra to collect
+From statement 4: SN2018fet has no spectra to collect
+From statement 3: SN2018fdt has no spectra to collect
+From statement 4: SN2018fdt has no spectra to collect
+2 objects returned for SN2018ffj
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.From statement 3: SN2018fec has no spectra to collect
+From statement 4: SN2018fec has no spectra to collect
+From statement 3: SN2018fdz has no spectra to collect
+From statement 4: SN2018fdz has no spectra to collect
+Presumably no other duplicate files found for SN2018fcw
+Runtime: 2.694069874286652 minutesFrom statement 3: SN2018fif has no spectra to collect
+From statement 4: SN2018fif has no spectra to collect
+From statement 3: SN2018fio has no spectra to collect
+From statement 4: SN2018fio has no spectra to collect
+From statement 3: SN2018fin has no spectra to collect
+From statement 4: SN2018fin has no spectra to collect
+From statement 3: SN2018fim has no spectra to collect
+From statement 4: SN2018fim has no spectra to collect
+From statement 3: SN2018fhh has no spectra to collect
+From statement 4: SN2018fhh has no spectra to collect
+From statement 3: SN2018fhg has no spectra to collect
+From statement 4: SN2018fhg has no spectra to collect
+From statement 3: SN2018fhe has no spectra to collect
+From statement 4: SN2018fhe has no spectra to collect
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 1.7085801243782044 minutes

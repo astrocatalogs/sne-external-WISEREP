@@ -1,0 +1,16 @@
+{
+    "tns_2018cwa_2018-06-28_06-07-08_FTN_FLOYDS-N_Global_SN_Project.ascii": {
+        "Type": "SN II",
+        "Redshift": "0.013885",
+        "Obs. Date": "2018-06-28",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "FTN - FLOYDS-N",
+        "Observer": "Las Cumbres Observatory",
+        "Reducer": "Jamison Burke",
+        "Reduction Status": "final",
+        "Last Modified": "2018-06-29",
+        "Modified By": "upload-TNS"
+    }
+}
