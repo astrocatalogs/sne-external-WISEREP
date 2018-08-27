@@ -12368,4 +12368,18 @@ From statement 3: SN2018fhg has no spectra to collect
 From statement 4: SN2018fhg has no spectra to collect
 From statement 3: SN2018fhe has no spectra to collect
 From statement 4: SN2018fhe has no spectra to collect
-Type not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 1.7085801243782044 minutes
+Type not specified by WISeREP.Check the Open Supernova Catalog for type.Runtime: 1.7085801243782044 minutesFrom statement 3: SN2018fif has no spectra to collect
+From statement 4: SN2018fif has no spectra to collect
+From statement 3: SN2018fio has no spectra to collect
+From statement 4: SN2018fio has no spectra to collect
+From statement 3: SN2018fin has no spectra to collect
+From statement 4: SN2018fin has no spectra to collect
+From statement 3: SN2018fim has no spectra to collect
+From statement 4: SN2018fim has no spectra to collect
+From statement 3: SN2018fhh has no spectra to collect
+From statement 4: SN2018fhh has no spectra to collect
+From statement 3: SN2018fhg has no spectra to collect
+From statement 4: SN2018fhg has no spectra to collect
+From statement 3: SN2018fhe has no spectra to collect
+From statement 4: SN2018fhe has no spectra to collect
+Runtime: 1.0102163950602214 minutes
