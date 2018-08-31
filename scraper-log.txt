@@ -12432,4 +12432,25 @@ From statement 3: SN2018fiv has no spectra to collect
 From statement 4: SN2018fiv has no spectra to collect
 From statement 3: SN2018fip has no spectra to collect
 From statement 4: SN2018fip has no spectra to collect
-Runtime: 0.5413888414700826 minutes
+Runtime: 0.5413888414700826 minutesPresumably no other duplicate files found for SN2016ard
+Runtime: 0.3058990240097046 minutesFrom statement 3: SN2018fng has no spectra to collect
+From statement 4: SN2018fng has no spectra to collect
+From statement 3: SN2018fnf has no spectra to collect
+From statement 4: SN2018fnf has no spectra to collect
+From statement 3: SN2018fne has no spectra to collect
+From statement 4: SN2018fne has no spectra to collect
+From statement 3: SN2018fnd has no spectra to collect
+From statement 4: SN2018fnd has no spectra to collect
+From statement 3: SN2018fnc has no spectra to collect
+From statement 4: SN2018fnc has no spectra to collect
+From statement 3: SN2018fmu has no spectra to collect
+From statement 4: SN2018fmu has no spectra to collect
+From statement 3: SN2018fmr has no spectra to collect
+From statement 4: SN2018fmr has no spectra to collect
+From statement 3: SN2018fli has no spectra to collect
+From statement 4: SN2018fli has no spectra to collect
+From statement 3: SN2018flg has no spectra to collect
+From statement 4: SN2018flg has no spectra to collect
+From statement 3: SN2018fju has no spectra to collect
+From statement 4: SN2018fju has no spectra to collect
+Runtime: 0.8204846620559693 minutes
