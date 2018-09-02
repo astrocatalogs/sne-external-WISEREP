@@ -483,3 +483,5 @@ AT2018fcr is a AGN
 AT2018ffx is a CV
 AT2018ffw is a CV
 AT2018ffi is a Galaxy
+AT2018fmt is a Other
+AT2018fms is a Varstar

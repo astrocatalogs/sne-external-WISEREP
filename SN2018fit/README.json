@@ -1,0 +1,16 @@
+{
+    "tAT2018fit_20180831_Gr13_Free_slit1.5_1_f.asci": {
+        "Type": "SN II",
+        "Redshift": "0.014",
+        "Obs. Date": "2018-09-01",
+        "Program": "ePESSTO",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "M. Gromadzki, T. Wevers",
+        "Reducer": "G. Pignata, O. Rodriguez",
+        "Reduction Status": "rapid",
+        "Last Modified": "2018-09-01",
+        "Modified By": "nikola-UploadSet"
+    }
+}
