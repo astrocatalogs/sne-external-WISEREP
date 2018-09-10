@@ -1,0 +1,16 @@
+{
+    "tns_2018fub_2018-09-07_08-21-11_SOAR_Goodman.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.0288",
+        "Obs. Date": "2018-09-07",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "SOAR - Goodman",
+        "Observer": "Strader",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2018-09-07",
+        "Modified By": "upload-TNS"
+    }
+}
