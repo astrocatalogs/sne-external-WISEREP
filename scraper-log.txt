@@ -12517,4 +12517,22 @@ From statement 3: SN2018ftu has no spectra to collect
 From statement 4: SN2018ftu has no spectra to collect
 From statement 3: SN2018fsn has no spectra to collect
 From statement 4: SN2018fsn has no spectra to collect
-Runtime: 1.358392389615377 minutes
+Runtime: 1.358392389615377 minutesFrom statement 3: SN2018gfg has no spectra to collect
+From statement 4: SN2018gfg has no spectra to collect
+From statement 3: SN2018gff has no spectra to collect
+From statement 4: SN2018gff has no spectra to collect
+From statement 3: SN2018gfe has no spectra to collect
+From statement 4: SN2018gfe has no spectra to collect
+From statement 3: SN2018gcj has no spectra to collect
+From statement 4: SN2018gcj has no spectra to collect
+From statement 3: SN2018gdl has no spectra to collect
+From statement 4: SN2018gdl has no spectra to collect
+From statement 3: SN2018fvl has no spectra to collect
+From statement 4: SN2018fvl has no spectra to collect
+From statement 3: SN2018fvu has no spectra to collect
+From statement 4: SN2018fvu has no spectra to collect
+From statement 3: SN2018fuu has no spectra to collect
+From statement 4: SN2018fuu has no spectra to collect
+From statement 3: SN2018fum has no spectra to collect
+From statement 4: SN2018fum has no spectra to collect
+Runtime: 1.460359311103821 minutes

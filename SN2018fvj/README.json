@@ -1,0 +1,16 @@
+{
+    "tns_2018fvj_2018-09-10_09-47-02_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.066",
+        "Obs. Date": "2018-09-10",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "M. Gromadzki, T. Wevers",
+        "Reducer": "G. Pignata, O. Rodriguez",
+        "Reduction Status": "final",
+        "Last Modified": "2018-09-11",
+        "Modified By": "upload-TNS"
+    }
+}
