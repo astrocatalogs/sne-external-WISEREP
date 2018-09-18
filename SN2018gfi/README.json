@@ -1,0 +1,16 @@
+{
+    "tns_2018gfi_2018-09-15_06-37-26_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.02",
+        "Obs. Date": "2018-09-15",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "T. Wevers, M. Gromadzki",
+        "Reducer": "J. Lyman",
+        "Reduction Status": "final",
+        "Last Modified": "2018-09-16",
+        "Modified By": "upload-TNS"
+    }
+}
