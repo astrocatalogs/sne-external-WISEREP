@@ -1,4 +1,18 @@
 {
+    "tns_2018ggx_2018-09-13_06-28-57_P60_SED-Machine_ZTF.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.038",
+        "Obs. Date": "2018-09-13",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SEDM",
+        "Observer": "SEDmRobot",
+        "Reducer": "auto",
+        "Reduction Status": "final",
+        "Last Modified": "2018-09-18",
+        "Modified By": "upload-TNS"
+    },
     "tns_2018ggx_2018-09-15_06-50-31_Lick_3m_KAST.dat": {
         "Type": "SN Ia",
         "Redshift": "0.038",
