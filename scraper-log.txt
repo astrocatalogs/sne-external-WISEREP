@@ -12635,4 +12635,23 @@ From statement 3: SN2018ggu has no spectra to collect
 From statement 4: SN2018ggu has no spectra to collect
 From statement 3: SN2018ggc has no spectra to collect
 From statement 4: SN2018ggc has no spectra to collect
-Runtime: 2.005271236101786 minutes
+Runtime: 2.005271236101786 minutesFrom statement 3: SN2018grt has no spectra to collect
+From statement 4: SN2018grt has no spectra to collect
+From statement 3: SN2018gqb has no spectra to collect
+From statement 4: SN2018gqb has no spectra to collect
+From statement 3: SN2018gjr has no spectra to collect
+From statement 4: SN2018gjr has no spectra to collect
+From statement 3: SN2018gkw has no spectra to collect
+From statement 4: SN2018gkw has no spectra to collect
+From statement 3: SN2018gka has no spectra to collect
+From statement 4: SN2018gka has no spectra to collect
+From statement 3: SN2018gjt has no spectra to collect
+From statement 4: SN2018gjt has no spectra to collect
+From statement 3: SN2018git has no spectra to collect
+From statement 4: SN2018git has no spectra to collect
+From statement 3: SN2018ggz has no spectra to collect
+From statement 4: SN2018ggz has no spectra to collect
+Presumably no other duplicate files found for SN2018ggx
+From statement 3: SN2018ggu has no spectra to collect
+From statement 4: SN2018ggu has no spectra to collect
+Runtime: 1.816092888514201 minutes
