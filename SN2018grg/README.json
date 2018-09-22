@@ -1,0 +1,16 @@
+{
+    "tns_2018grg_2018-09-21_10-42-47_P60_SED-Machine_ZTF.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.065",
+        "Obs. Date": "2018-09-21",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SEDM",
+        "Observer": "SEDmRobot",
+        "Reducer": "auto",
+        "Reduction Status": "final",
+        "Last Modified": "2018-09-21",
+        "Modified By": "upload-TNS"
+    }
+}
