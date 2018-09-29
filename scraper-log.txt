@@ -12692,4 +12692,8 @@ From statement 3: SN2018gqb has no spectra to collect
 From statement 4: SN2018gqb has no spectra to collect
 Runtime: 1.0241018772125243 minutesFrom statement 3: SN2018grt has no spectra to collect
 From statement 4: SN2018grt has no spectra to collect
-Runtime: 0.995755938688914 minutes
+Runtime: 0.995755938688914 minutesFrom statement 3: SN2018grt has no spectra to collect
+From statement 4: SN2018grt has no spectra to collect
+Runtime: 0.8267778277397155 minutesFrom statement 3: SN2018grt has no spectra to collect
+From statement 4: SN2018grt has no spectra to collect
+Runtime: 0.7096122701962789 minutesRuntime: 0.6942398866017659 minutes
