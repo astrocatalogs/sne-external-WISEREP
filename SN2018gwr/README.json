@@ -1,0 +1,30 @@
+{
+    "tns_2018gwr_2018-10-02.9_ESO-NTT_EFOSC2-NTT.asci": {
+        "Type": "SN II",
+        "Redshift": "0.032",
+        "Obs. Date": "2018-10-02",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Reynolds, Moran",
+        "Reducer": "Harmanen, Kuncarayakti",
+        "Reduction Status": "final",
+        "Last Modified": "2018-10-03",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2018gwr_2018-10-03_08-33-04_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+        "Type": "SN II",
+        "Redshift": "0.032",
+        "Obs. Date": "2018-10-03",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Tom Reynolds, Shane Moran",
+        "Reducer": "Jussi Harmanen, Hanin Kuncarayakti",
+        "Reduction Status": "final",
+        "Last Modified": "2018-10-04",
+        "Modified By": "upload-TNS"
+    }
+}
