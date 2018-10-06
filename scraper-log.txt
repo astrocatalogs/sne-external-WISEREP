@@ -12698,4 +12698,5 @@ Runtime: 0.8267778277397155 minutesFrom statement 3: SN2018grt has no spectra to
 From statement 4: SN2018grt has no spectra to collect
 Runtime: 0.7096122701962789 minutesRuntime: 0.6942398866017659 minutesRuntime: 0.6586409608523051 minutesRuntime: 0.9846072912216186 minutesPresumably no other duplicate files found for SN2018gyr
 Presumably no other duplicate files found for SN2018gwr
-Runtime: 1.3754495938618978 minutes
+Runtime: 1.3754495938618978 minutesPresumably no other duplicate files found for SN2018gyr
+Runtime: 0.7314364751180013 minutes
