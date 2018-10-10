@@ -1,0 +1,16 @@
+{
+    "tns_2018hck_2458399.3451_BAO-2.16m_Cassegrain_TNTS.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.033226",
+        "Obs. Date": "2018-10-07",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Cassegrain",
+        "Observer": "Xiao Feng",
+        "Reducer": "Hann Sai",
+        "Reduction Status": "final",
+        "Last Modified": "2018-10-08",
+        "Modified By": "upload-TNS"
+    }
+}

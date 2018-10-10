@@ -12701,4 +12701,4 @@ Presumably no other duplicate files found for SN2018gwr
 Runtime: 1.3754495938618978 minutesPresumably no other duplicate files found for SN2018gyr
 Runtime: 0.7314364751180013 minutesPresumably no other duplicate files found for SN2018gyr
 Runtime: 1.172357145945231 minutesPresumably no other duplicate files found for SN2018gyr
-Runtime: 0.7162107030550638 minutes
+Runtime: 0.7162107030550638 minutesRuntime: 0.6260706265767415 minutesRuntime: 0.663867445786794 minutes
