@@ -1,0 +1,16 @@
+{
+    "tns_2018hgc_2018-10-13_06-08-20_Lick_3m_KAST.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.052",
+        "Obs. Date": "2018-10-13",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick-3m - KAST",
+        "Observer": "G. Dimitriadis, T. Hung",
+        "Reducer": "G. Dimitriadis, T. Hung",
+        "Reduction Status": "final",
+        "Last Modified": "2018-10-14",
+        "Modified By": "upload-TNS"
+    }
+}

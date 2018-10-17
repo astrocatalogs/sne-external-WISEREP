@@ -1,0 +1,30 @@
+{
+    "tns_2018hfg_2458402.3424_BAO-2.16m_Cassegrain_TNTS.txt": {
+        "Type": "SN IIn",
+        "Redshift": "0.023863",
+        "Obs. Date": "2018-10-10",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "BAO-2.16m - Cassegrain",
+        "Observer": "Jia junjun",
+        "Reducer": "Hann Sai",
+        "Reduction Status": "final",
+        "Last Modified": "2018-10-11",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2018hfg_2018-10-10.540_Lick_3m_KAST_LOSS.flm": {
+        "Type": "SN IIn",
+        "Redshift": "0.023863",
+        "Obs. Date": "2018-10-10",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick-3m - KAST",
+        "Observer": "WeiKang Zheng",
+        "Reducer": "Thomas Brink",
+        "Reduction Status": "final",
+        "Last Modified": "2018-10-11",
+        "Modified By": "upload-TNS"
+    }
+}

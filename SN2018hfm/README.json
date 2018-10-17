@@ -1,0 +1,30 @@
+{
+    "tns_2018hfm_2018-10-10.559_Lick_3m_KAST_LOSS.flm": {
+        "Type": "SN II",
+        "Redshift": "",
+        "Obs. Date": "2018-10-10",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick-3m - KAST",
+        "Observer": "WeiKang Zheng",
+        "Reducer": "Thomas Brink",
+        "Reduction Status": "final",
+        "Last Modified": "2018-10-11",
+        "Modified By": "upload-TNS"
+    },
+    "tns_2018hfm_2018-10-11.15_Ekar_AFOSC_Padova-Asiago.dat": {
+        "Type": "SN II",
+        "Redshift": "",
+        "Obs. Date": "2018-10-11",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Ekar - AFOSC",
+        "Observer": "Nascimbeni, Granata",
+        "Reducer": "Benetti",
+        "Reduction Status": "final",
+        "Last Modified": "2018-10-12",
+        "Modified By": "upload-TNS"
+    }
+}
