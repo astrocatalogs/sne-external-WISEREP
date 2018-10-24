@@ -1,0 +1,16 @@
+{
+    "tns_2018hlr_2458414.754271_UH88_SNIFS_SCAT.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.031",
+        "Obs. Date": "2018-10-23",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "UH88 - SNIFS",
+        "Observer": "Payne, Do, Tucker",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2018-10-23",
+        "Modified By": "upload-TNS"
+    }
+}

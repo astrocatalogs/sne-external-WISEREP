@@ -12705,4 +12705,4 @@ Runtime: 0.7162107030550638 minutesRuntime: 0.6260706265767415 minutesRuntime: 0
 From statement 4: SN2018hfn has no spectra to collect
 Presumably no other duplicate files found for SN2018hfm
 Presumably no other duplicate files found for SN2018hfg
-Runtime: 1.1092327078183493 minutesRuntime: 0.686992351214091 minutesRuntime: 0.6607474565505982 minutesRuntime: 0.961012331644694 minutesRuntime: 0.9850817362467448 minutesRuntime: 0.9125581979751587 minutesRuntime: 0.6917822082837423 minutes
+Runtime: 1.1092327078183493 minutesRuntime: 0.686992351214091 minutesRuntime: 0.6607474565505982 minutesRuntime: 0.961012331644694 minutesRuntime: 0.9850817362467448 minutesRuntime: 0.9125581979751587 minutesRuntime: 0.6917822082837423 minutesRuntime: 0.8073654095331828 minutes
