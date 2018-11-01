@@ -1,4 +1,18 @@
 {
+    "tns_2018hna_2018-10-24.8_Kanata_HOWPol.txt": {
+        "Type": "SN II",
+        "Redshift": "0.002408",
+        "Obs. Date": "2018-10-24",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Kanata - HOWPol",
+        "Observer": "K. Takagi, T. Nakaoka, M. Kawabata",
+        "Reducer": "M. Kawabata",
+        "Reduction Status": "final",
+        "Last Modified": "2018-10-30",
+        "Modified By": "upload-TNS"
+    },
     "tns_2018hna_2018-10-26_18-45-52_Other_Other.dat": {
         "Type": "SN II",
         "Redshift": "0.002408",

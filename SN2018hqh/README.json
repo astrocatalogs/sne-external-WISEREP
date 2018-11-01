@@ -1,0 +1,16 @@
+{
+    "tns_2018hqh_2458274_P60_SED-Machine_ZTF.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.09",
+        "Obs. Date": "2018-06-04",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SEDM",
+        "Observer": "SEDM",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2018-10-30",
+        "Modified By": "upload-TNS"
+    }
+}
