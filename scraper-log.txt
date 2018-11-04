@@ -12707,4 +12707,5 @@ Presumably no other duplicate files found for SN2018hfm
 Presumably no other duplicate files found for SN2018hfg
 Runtime: 1.1092327078183493 minutesRuntime: 0.686992351214091 minutesRuntime: 0.6607474565505982 minutesRuntime: 0.961012331644694 minutesRuntime: 0.9850817362467448 minutesRuntime: 0.9125581979751587 minutesRuntime: 0.6917822082837423 minutesRuntime: 0.8073654095331828 minutesRuntime: 0.7828643401463826 minutesRuntime: 0.6983364303906758 minutesRuntime: 0.571812613805135 minutesRuntime: 0.47335352102915446 minutesRuntime: 0.6896381457646688 minutesPresumably no other duplicate files found for SN2018hna
 Runtime: 0.9715066274007161 minutesRuntime: 0.9048970619837443 minutesPresumably no other duplicate files found for SN2018hpu
-Runtime: 1.4309644937515258 minutes
+Runtime: 1.4309644937515258 minutesPresumably no other duplicate files found for SN2018hpu
+Runtime: 1.5818412144978842 minutes
