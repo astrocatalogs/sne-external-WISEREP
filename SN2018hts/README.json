@@ -1,0 +1,16 @@
+{
+    "tns_2018hts_2018-11-04_02-23-20_Lick_3m_KAST.flm": {
+        "Type": "SN Ia",
+        "Redshift": "0.04",
+        "Obs. Date": "2018-11-04",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Lick-3m - KAST",
+        "Observer": "C. D. Kilpatrick, B. Garza, J. Decker",
+        "Reducer": "C. D. Kilpatrick,  M. R. Siebert",
+        "Reduction Status": "final",
+        "Last Modified": "2018-11-05",
+        "Modified By": "upload-TNS"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "tns_2018hrp_2458425.53508102_LCO-duPont_WFCCD_ASAS-SN.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.035",
+        "Obs. Date": "2018-11-03",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LCO-duPont - WFCCD",
+        "Observer": "Jeffrey Rich",
+        "Reducer": "Subhash Bose",
+        "Reduction Status": "final",
+        "Last Modified": "2018-11-04",
+        "Modified By": "upload-TNS"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "tns_2018hsz_2018-11-06_15-44-33_FTS_FLOYDS-S_Global_SN_Project.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.061709",
+        "Obs. Date": "2018-11-06",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "FTS - FLOYDS-S",
+        "Observer": "Las Cumbres Observatory",
+        "Reducer": "Jamison Burke",
+        "Reduction Status": "final",
+        "Last Modified": "2018-11-06",
+        "Modified By": "upload-TNS"
+    }
+}
