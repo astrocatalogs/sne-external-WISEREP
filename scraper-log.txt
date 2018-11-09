@@ -12709,4 +12709,4 @@ Runtime: 1.1092327078183493 minutesRuntime: 0.686992351214091 minutesRuntime: 0.
 Runtime: 0.9715066274007161 minutesRuntime: 0.9048970619837443 minutesPresumably no other duplicate files found for SN2018hpu
 Runtime: 1.4309644937515258 minutesPresumably no other duplicate files found for SN2018hpu
 Runtime: 1.5818412144978842 minutesPresumably no other duplicate files found for SN2018hpu
-Runtime: 1.3079382141431173 minutesRuntime: 2.1773799578348796 minutes
+Runtime: 1.3079382141431173 minutesRuntime: 2.1773799578348796 minutesRuntime: 2.285989284515381 minutes
