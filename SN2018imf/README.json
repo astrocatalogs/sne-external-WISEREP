@@ -1,0 +1,16 @@
+{
+    "tns_2018imf_2018-11-15.8_Kanata_HOWPol.txt": {
+        "Type": "SN IIP",
+        "Redshift": "0.0036",
+        "Obs. Date": "2018-11-15",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "Kanata - HOWPol",
+        "Observer": "Kengo Takagi",
+        "Reducer": "M. Yamanaka",
+        "Reduction Status": "final",
+        "Last Modified": "2018-11-15",
+        "Modified By": "upload-TNS"
+    }
+}

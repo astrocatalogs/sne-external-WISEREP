@@ -1,0 +1,16 @@
+{
+    "tns_2018ilu_2018-11-15_00-45-37_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.007",
+        "Obs. Date": "2018-11-15",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Marco Berton, Enrico Congiu",
+        "Reducer": "Stefano Benetti",
+        "Reduction Status": "final",
+        "Last Modified": "2018-11-15",
+        "Modified By": "upload-TNS"
+    }
+}
