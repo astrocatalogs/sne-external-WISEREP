@@ -12715,4 +12715,8 @@ Runtime: 1.1784966071446736 minutesPresumably no other duplicate files found for
 Runtime: 0.9612814426422119 minutesPresumably no other duplicate files found for SN2018hyw
 Runtime: 1.2502025842666626 minutesRuntime: 0.8435431520144144 minutesFrom statement 3: SN2018ikg has no spectra to collect
 From statement 4: SN2018ikg has no spectra to collect
-Runtime: 1.1134979327519734 minutesRuntime: 1.178865639368693 minutes
+Runtime: 1.1134979327519734 minutesRuntime: 1.178865639368693 minutesFrom statement 3: SN2018iun has no spectra to collect
+From statement 4: SN2018iun has no spectra to collect
+From statement 3: SN2018itl has no spectra to collect
+From statement 4: SN2018itl has no spectra to collect
+Runtime: 1.1721288800239562 minutes
