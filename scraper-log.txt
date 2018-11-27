@@ -12719,4 +12719,16 @@ Runtime: 1.1134979327519734 minutesRuntime: 1.178865639368693 minutesFrom statem
 From statement 4: SN2018iun has no spectra to collect
 From statement 3: SN2018itl has no spectra to collect
 From statement 4: SN2018itl has no spectra to collect
-Runtime: 1.1721288800239562 minutes
+Runtime: 1.1721288800239562 minutesFrom statement 3: SN2018iui has no spectra to collect
+From statement 4: SN2018iui has no spectra to collect
+From statement 3: SN2018iun has no spectra to collect
+From statement 4: SN2018iun has no spectra to collect
+From statement 3: SN2018itl has no spectra to collect
+From statement 4: SN2018itl has no spectra to collect
+Runtime: 0.8580138166745503 minutesFrom statement 3: SN2018iui has no spectra to collect
+From statement 4: SN2018iui has no spectra to collect
+From statement 3: SN2018iun has no spectra to collect
+From statement 4: SN2018iun has no spectra to collect
+From statement 3: SN2018itl has no spectra to collect
+From statement 4: SN2018itl has no spectra to collect
+Runtime: 0.9169458111127218 minutes
