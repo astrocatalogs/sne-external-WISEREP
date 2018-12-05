@@ -1,0 +1,16 @@
+{
+    "tns_2018jbm_2018-12-02_04-12-15_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.0625",
+        "Obs. Date": "2018-12-02",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Pursiainen, M; Castro, N",
+        "Reducer": "Gutierrez, C. P.; Muller, T.",
+        "Reduction Status": "final",
+        "Last Modified": "2018-12-03",
+        "Modified By": "upload-TNS"
+    }
+}
