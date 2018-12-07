@@ -1,0 +1,16 @@
+{
+    "tns_2018jhf_2018-12-04_00-28-16_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+        "Type": "SN Ia-91T-like",
+        "Redshift": "0.058",
+        "Obs. Date": "2018-12-04",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "M. Pursiainen, N. Castro-Segura",
+        "Reducer": "C. P. Gutierrez, T. Muller",
+        "Reduction Status": "final",
+        "Last Modified": "2018-12-05",
+        "Modified By": "upload-TNS"
+    }
+}
