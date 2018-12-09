@@ -12741,4 +12741,7 @@ From statement 4: SN2018jbl has no spectra to collect
 Runtime: 1.576871923605601 minutesPresumably no other duplicate files found for SN2018jgn
 From statement 3: SN2018jgu has no spectra to collect
 From statement 4: SN2018jgu has no spectra to collect
-Runtime: 1.5751943071683248 minutes
+Runtime: 1.5751943071683248 minutesPresumably no other duplicate files found for SN2018jgn
+From statement 3: SN2018jgu has no spectra to collect
+From statement 4: SN2018jgu has no spectra to collect
+Runtime: 1.233733872572581 minutes
