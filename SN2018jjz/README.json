@@ -1,0 +1,16 @@
+{
+    "tns_2018jjz_2018-12-08_03-02-44_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.083",
+        "Obs. Date": "2018-12-08",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "M. Pursiainen, N. Castro-Segura",
+        "Reducer": "C. R. Angus, P. Wiseman",
+        "Reduction Status": "final",
+        "Last Modified": "2018-12-09",
+        "Modified By": "upload-TNS"
+    }
+}
