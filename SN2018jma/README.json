@@ -1,0 +1,16 @@
+{
+    "tns_2018jma_2018-12-10_06-02-29_ESO-NTT_EFOSC2-NTT_ePESSTO.asci": {
+        "Type": "SN Ia",
+        "Redshift": "0.116",
+        "Obs. Date": "2018-12-10",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "ESO-NTT - EFOSC2-NTT",
+        "Observer": "Miika Pursiainen, Noel Castro-Segura",
+        "Reducer": "Phil Wiseman, Charlotte Angus",
+        "Reduction Status": "final",
+        "Last Modified": "2018-12-11",
+        "Modified By": "upload-TNS"
+    }
+}
