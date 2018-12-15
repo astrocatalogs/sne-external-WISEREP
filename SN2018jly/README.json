@@ -1,0 +1,16 @@
+{
+    "tns_2018jly_2018-12-11_05-30-00_UH88_SNIFS_SCAT.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.034",
+        "Obs. Date": "2018-12-11",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "UH88 - SNIFS",
+        "Observer": "Aaron Do, Michael A. Tucker",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2018-12-13",
+        "Modified By": "upload-TNS"
+    }
+}

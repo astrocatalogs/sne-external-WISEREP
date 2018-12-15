@@ -1,0 +1,16 @@
+{
+    "tns_2018jnc_2458464.1114_UH88_SNIFS_SCAT.dat": {
+        "Type": "SN Ia",
+        "Redshift": "0.031",
+        "Obs. Date": "2018-12-11",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "UH88 - SNIFS",
+        "Observer": "Tucker",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2018-12-13",
+        "Modified By": "upload-TNS"
+    }
+}
