@@ -1,0 +1,16 @@
+{
+    "tns_2018jsy_2018-12-12_07-57-21_P60_SED-Machine_ZTF.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.057",
+        "Obs. Date": "2018-12-12",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SEDM",
+        "Observer": "SEDmRobot",
+        "Reducer": "auto",
+        "Reduction Status": "final",
+        "Last Modified": "2018-12-18",
+        "Modified By": "upload-TNS"
+    }
+}

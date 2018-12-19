@@ -1,0 +1,16 @@
+{
+    "tns_2018jrp_2018-12-16_06-00-24_LT_SPRAT.txt": {
+        "Type": "SN Ia",
+        "Redshift": "0.05",
+        "Obs. Date": "2018-12-16",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "LT - SPRAT",
+        "Observer": "K. Skillen, K. Maguire, M. R. Magee, P. Clark, S. J. Prentice",
+        "Reducer": "",
+        "Reduction Status": "final",
+        "Last Modified": "2018-12-16",
+        "Modified By": "upload-TNS"
+    }
+}
