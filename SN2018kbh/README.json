@@ -1,0 +1,16 @@
+{
+    "tns_2018kbh_2018-12-19_11-42-35_P60_SED-Machine_ZTF.ascii": {
+        "Type": "SN Ia",
+        "Redshift": "0.02586",
+        "Obs. Date": "2018-12-19",
+        "Program": "",
+        "Contributor": "",
+        "Bibcode": "",
+        "Instrument": "P60 - SEDM",
+        "Observer": "SEDmRobot",
+        "Reducer": "auto",
+        "Reduction Status": "final",
+        "Last Modified": "2018-12-20",
+        "Modified By": "upload-TNS"
+    }
+}
