@@ -12755,4 +12755,4 @@ Runtime: 2.4101432164510093 minutesPresumably no other duplicate files found for
 Presumably no other duplicate files found for SN2018jny
 From statement 3: SN2018jpn has no spectra to collect
 From statement 4: SN2018jpn has no spectra to collect
-Runtime: 1.8657422423362733 minutesRuntime: 1.5696041146914164 minutesRuntime: 1.4237940073013307 minutesRuntime: 0.6657599329948425 minutes
+Runtime: 1.8657422423362733 minutesRuntime: 1.5696041146914164 minutesRuntime: 1.4237940073013307 minutesRuntime: 0.6657599329948425 minutesRuntime: 0.5996648828188579 minutes
